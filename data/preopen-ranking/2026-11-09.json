@@ -1,0 +1,6190 @@
+{
+  "schema_version": 1,
+  "kind": "preopen_ranking",
+  "target_date": "2026-11-09",
+  "generated_at": "2026-11-08T23:35:20.130Z",
+  "run_id": "42535882719.1",
+  "rows": [
+    {
+      "symbol": "055490",
+      "name": "테이팩스",
+      "rank": 1,
+      "expected_open": 19040,
+      "expected_close": 19151.85
+    },
+    {
+      "symbol": "023960",
+      "name": "에쓰씨엔지니어링",
+      "rank": 2,
+      "expected_open": 978,
+      "expected_close": 983.5
+    },
+    {
+      "symbol": "010640",
+      "name": "진양폴리",
+      "rank": 3,
+      "expected_open": 3450,
+      "expected_close": 3469.32
+    },
+    {
+      "symbol": "006570",
+      "name": "대림통상",
+      "rank": 4,
+      "expected_open": 1841,
+      "expected_close": 1850.06
+    },
+    {
+      "symbol": "051630",
+      "name": "진양화학",
+      "rank": 5,
+      "expected_open": 4080,
+      "expected_close": 4099.83
+    },
+    {
+      "symbol": "002390",
+      "name": "한독",
+      "rank": 6,
+      "expected_open": 8220,
+      "expected_close": 8259.61
+    },
+    {
+      "symbol": "010660",
+      "name": "화천기계",
+      "rank": 7,
+      "expected_open": 3510,
+      "expected_close": 3525.8
+    },
+    {
+      "symbol": "008040",
+      "name": "사조동아원",
+      "rank": 8,
+      "expected_open": 6870,
+      "expected_close": 6899.2
+    },
+    {
+      "symbol": "028050",
+      "name": "삼성E&A",
+      "rank": 9,
+      "expected_open": 61300,
+      "expected_close": 61555.13
+    },
+    {
+      "symbol": "001020",
+      "name": "페이퍼코리아",
+      "rank": 10,
+      "expected_open": 1850,
+      "expected_close": 1857.6
+    },
+    {
+      "symbol": "090370",
+      "name": "메타랩스",
+      "rank": 11,
+      "expected_open": 970,
+      "expected_close": 973.8
+    },
+    {
+      "symbol": "007120",
+      "name": "미래아이앤지",
+      "rank": 12,
+      "expected_open": 970,
+      "expected_close": 973.69
+    },
+    {
+      "symbol": "027740",
+      "name": "마니커",
+      "rank": 13,
+      "expected_open": 1079,
+      "expected_close": 1083.03
+    },
+    {
+      "symbol": "019680",
+      "name": "대교",
+      "rank": 14,
+      "expected_open": 1488,
+      "expected_close": 1493.48
+    },
+    {
+      "symbol": "009810",
+      "name": "MDS스피어",
+      "rank": 15,
+      "expected_open": 1629,
+      "expected_close": 1634.81
+    },
+    {
+      "symbol": "089590",
+      "name": "제주항공",
+      "rank": 16,
+      "expected_open": 6400,
+      "expected_close": 6422.31
+    },
+    {
+      "symbol": "079430",
+      "name": "현대리바트",
+      "rank": 17,
+      "expected_open": 5070,
+      "expected_close": 5086.38
+    },
+    {
+      "symbol": "011330",
+      "name": "유니켐",
+      "rank": 18,
+      "expected_open": 5140,
+      "expected_close": 5155.85
+    },
+    {
+      "symbol": "000105",
+      "name": "유한양행우",
+      "rank": 19,
+      "expected_open": 66800,
+      "expected_close": 67004.58
+    },
+    {
+      "symbol": "064400",
+      "name": "LG씨엔에스",
+      "rank": 20,
+      "expected_open": 73700,
+      "expected_close": 73924.73
+    },
+    {
+      "symbol": "012330",
+      "name": "현대모비스",
+      "rank": 21,
+      "expected_open": 353500,
+      "expected_close": 354492.66
+    },
+    {
+      "symbol": "006890",
+      "name": "태경케미컬",
+      "rank": 22,
+      "expected_open": 4395,
+      "expected_close": 4407.16
+    },
+    {
+      "symbol": "003535",
+      "name": "한화투자증권우",
+      "rank": 23,
+      "expected_open": 5500,
+      "expected_close": 5514.96
+    },
+    {
+      "symbol": "077500",
+      "name": "유니퀘스트",
+      "rank": 24,
+      "expected_open": 9080,
+      "expected_close": 9104.65
+    },
+    {
+      "symbol": "001560",
+      "name": "제일연마",
+      "rank": 25,
+      "expected_open": 8640,
+      "expected_close": 8663.42
+    },
+    {
+      "symbol": "015760",
+      "name": "한국전력",
+      "rank": 26,
+      "expected_open": 30400,
+      "expected_close": 30481.09
+    },
+    {
+      "symbol": "282330",
+      "name": "BGF리테일",
+      "rank": 27,
+      "expected_open": 143500,
+      "expected_close": 143878.5
+    },
+    {
+      "symbol": "004410",
+      "name": "서울식품",
+      "rank": 28,
+      "expected_open": 1358,
+      "expected_close": 1361.55
+    },
+    {
+      "symbol": "326030",
+      "name": "SK바이오팜",
+      "rank": 29,
+      "expected_open": 88800,
+      "expected_close": 89031.55
+    },
+    {
+      "symbol": "018260",
+      "name": "삼성에스디에스",
+      "rank": 30,
+      "expected_open": 215000,
+      "expected_close": 215538.48
+    },
+    {
+      "symbol": "004870",
+      "name": "티웨이홀딩스",
+      "rank": 31,
+      "expected_open": 1334,
+      "expected_close": 1337.34
+    },
+    {
+      "symbol": "004440",
+      "name": "삼일씨엔에스",
+      "rank": 32,
+      "expected_open": 4570,
+      "expected_close": 4580.97
+    },
+    {
+      "symbol": "300720",
+      "name": "한일시멘트",
+      "rank": 33,
+      "expected_open": 16580,
+      "expected_close": 16619.24
+    },
+    {
+      "symbol": "003780",
+      "name": "진양산업",
+      "rank": 34,
+      "expected_open": 6590,
+      "expected_close": 6605.51
+    },
+    {
+      "symbol": "021240",
+      "name": "코웨이",
+      "rank": 35,
+      "expected_open": 105900,
+      "expected_close": 106129.4
+    },
+    {
+      "symbol": "259960",
+      "name": "크래프톤",
+      "rank": 36,
+      "expected_open": 220000,
+      "expected_close": 220470.91
+    },
+    {
+      "symbol": "002140",
+      "name": "고려산업",
+      "rank": 37,
+      "expected_open": 1740,
+      "expected_close": 1743.69
+    },
+    {
+      "symbol": "079900",
+      "name": "전진건설로봇",
+      "rank": 38,
+      "expected_open": 41850,
+      "expected_close": 41938.19
+    },
+    {
+      "symbol": "011150",
+      "name": "CJ씨푸드",
+      "rank": 39,
+      "expected_open": 1702,
+      "expected_close": 1705.54
+    },
+    {
+      "symbol": "036420",
+      "name": "콘텐트리중앙",
+      "rank": 40,
+      "expected_open": 1620,
+      "expected_close": 1623.28
+    },
+    {
+      "symbol": "009200",
+      "name": "무림페이퍼",
+      "rank": 41,
+      "expected_open": 1357,
+      "expected_close": 1359.67
+    },
+    {
+      "symbol": "001080",
+      "name": "MH머트리얼즈",
+      "rank": 42,
+      "expected_open": 4005,
+      "expected_close": 4012.64
+    },
+    {
+      "symbol": "013000",
+      "name": "세우글로벌",
+      "rank": 43,
+      "expected_open": 1213,
+      "expected_close": 1215.31
+    },
+    {
+      "symbol": "017670",
+      "name": "SK텔레콤",
+      "rank": 44,
+      "expected_open": 77300,
+      "expected_close": 77446.35
+    },
+    {
+      "symbol": "006840",
+      "name": "AK홀딩스",
+      "rank": 45,
+      "expected_open": 6150,
+      "expected_close": 6161.22
+    },
+    {
+      "symbol": "010140",
+      "name": "삼성중공업",
+      "rank": 46,
+      "expected_open": 16240,
+      "expected_close": 16269.24
+    },
+    {
+      "symbol": "000080",
+      "name": "하이트진로",
+      "rank": 47,
+      "expected_open": 16470,
+      "expected_close": 16499.54
+    },
+    {
+      "symbol": "272550",
+      "name": "삼양패키징",
+      "rank": 48,
+      "expected_open": 9690,
+      "expected_close": 9707.08
+    },
+    {
+      "symbol": "118000",
+      "name": "메타케어",
+      "rank": 49,
+      "expected_open": 760,
+      "expected_close": 761.33
+    },
+    {
+      "symbol": "002630",
+      "name": "오리엔트바이오",
+      "rank": 50,
+      "expected_open": 1339,
+      "expected_close": 1341.27
+    },
+    {
+      "symbol": "001070",
+      "name": "대한방직",
+      "rank": 51,
+      "expected_open": 5610,
+      "expected_close": 5619.29
+    },
+    {
+      "symbol": "084870",
+      "name": "TBH글로벌",
+      "rank": 52,
+      "expected_open": 2270,
+      "expected_close": 2273.69
+    },
+    {
+      "symbol": "009470",
+      "name": "삼화전기",
+      "rank": 53,
+      "expected_open": 29500,
+      "expected_close": 29545.59
+    },
+    {
+      "symbol": "004720",
+      "name": "팜젠사이언스",
+      "rank": 54,
+      "expected_open": 2940,
+      "expected_close": 2944.44
+    },
+    {
+      "symbol": "009460",
+      "name": "한창제지",
+      "rank": 55,
+      "expected_open": 2485,
+      "expected_close": 2488.6
+    },
+    {
+      "symbol": "009970",
+      "name": "영원무역홀딩스",
+      "rank": 56,
+      "expected_open": 186200,
+      "expected_close": 186457.32
+    },
+    {
+      "symbol": "139990",
+      "name": "아주스틸",
+      "rank": 57,
+      "expected_open": 1997,
+      "expected_close": 1999.73
+    },
+    {
+      "symbol": "017550",
+      "name": "수산세보틱스",
+      "rank": 58,
+      "expected_open": 1698,
+      "expected_close": 1700.28
+    },
+    {
+      "symbol": "006980",
+      "name": "우성",
+      "rank": 59,
+      "expected_open": 18640,
+      "expected_close": 18664.97
+    },
+    {
+      "symbol": "006280",
+      "name": "녹십자",
+      "rank": 60,
+      "expected_open": 139700,
+      "expected_close": 139875.11
+    },
+    {
+      "symbol": "009420",
+      "name": "한올바이오파마",
+      "rank": 61,
+      "expected_open": 36250,
+      "expected_close": 36294.65
+    },
+    {
+      "symbol": "011420",
+      "name": "갤럭시아에스엠",
+      "rank": 62,
+      "expected_open": 1155,
+      "expected_close": 1156.4
+    },
+    {
+      "symbol": "007070",
+      "name": "GS리테일",
+      "rank": 63,
+      "expected_open": 23550,
+      "expected_close": 23577.2
+    },
+    {
+      "symbol": "000950",
+      "name": "전방",
+      "rank": 64,
+      "expected_open": 30900,
+      "expected_close": 30935.45
+    },
+    {
+      "symbol": "095720",
+      "name": "웅진씽크빅",
+      "rank": 65,
+      "expected_open": 1125,
+      "expected_close": 1126.28
+    },
+    {
+      "symbol": "012750",
+      "name": "에스원",
+      "rank": 66,
+      "expected_open": 98200,
+      "expected_close": 98309.82
+    },
+    {
+      "symbol": "000100",
+      "name": "유한양행",
+      "rank": 67,
+      "expected_open": 80100,
+      "expected_close": 80189.02
+    },
+    {
+      "symbol": "005380",
+      "name": "현대차",
+      "rank": 68,
+      "expected_open": 281000,
+      "expected_close": 281309.7
+    },
+    {
+      "symbol": "081660",
+      "name": "미스토홀딩스",
+      "rank": 69,
+      "expected_open": 38650,
+      "expected_close": 38692.47
+    },
+    {
+      "symbol": "112610",
+      "name": "씨에스윈드",
+      "rank": 70,
+      "expected_open": 48800,
+      "expected_close": 48853.53
+    },
+    {
+      "symbol": "035420",
+      "name": "NAVER",
+      "rank": 71,
+      "expected_open": 188600,
+      "expected_close": 188804.68
+    },
+    {
+      "symbol": "097950",
+      "name": "CJ제일제당",
+      "rank": 72,
+      "expected_open": 180900,
+      "expected_close": 181093.8
+    },
+    {
+      "symbol": "005300",
+      "name": "롯데칠성",
+      "rank": 73,
+      "expected_open": 109300,
+      "expected_close": 109414.49
+    },
+    {
+      "symbol": "155660",
+      "name": "DSR",
+      "rank": 74,
+      "expected_open": 4100,
+      "expected_close": 4104.12
+    },
+    {
+      "symbol": "005940",
+      "name": "NH투자증권",
+      "rank": 75,
+      "expected_open": 22850,
+      "expected_close": 22872.63
+    },
+    {
+      "symbol": "002450",
+      "name": "삼익악기",
+      "rank": 76,
+      "expected_open": 1009,
+      "expected_close": 1009.99
+    },
+    {
+      "symbol": "011200",
+      "name": "HMM",
+      "rank": 77,
+      "expected_open": 21950,
+      "expected_close": 21971.42
+    },
+    {
+      "symbol": "453340",
+      "name": "현대그린푸드",
+      "rank": 78,
+      "expected_open": 20400,
+      "expected_close": 20419.71
+    },
+    {
+      "symbol": "007340",
+      "name": "DN오토모티브",
+      "rank": 79,
+      "expected_open": 38350,
+      "expected_close": 38386.9
+    },
+    {
+      "symbol": "271560",
+      "name": "오리온",
+      "rank": 80,
+      "expected_open": 119400,
+      "expected_close": 119513.3
+    },
+    {
+      "symbol": "022100",
+      "name": "포스코DX",
+      "rank": 81,
+      "expected_open": 19960,
+      "expected_close": 19978.57
+    },
+    {
+      "symbol": "000500",
+      "name": "가온전선",
+      "rank": 82,
+      "expected_open": 186700,
+      "expected_close": 186872.23
+    },
+    {
+      "symbol": "137310",
+      "name": "에스디바이오센서",
+      "rank": 83,
+      "expected_open": 6580,
+      "expected_close": 6585.94
+    },
+    {
+      "symbol": "103140",
+      "name": "풍산",
+      "rank": 84,
+      "expected_open": 52100,
+      "expected_close": 52146.32
+    },
+    {
+      "symbol": "064960",
+      "name": "SNT모티브",
+      "rank": 85,
+      "expected_open": 24200,
+      "expected_close": 24221.29
+    },
+    {
+      "symbol": "003120",
+      "name": "일성아이에스",
+      "rank": 86,
+      "expected_open": 20250,
+      "expected_close": 20267.42
+    },
+    {
+      "symbol": "483650",
+      "name": "달바글로벌",
+      "rank": 87,
+      "expected_open": 143000,
+      "expected_close": 143121.66
+    },
+    {
+      "symbol": "068270",
+      "name": "셀트리온",
+      "rank": 88,
+      "expected_open": 208500,
+      "expected_close": 208676.18
+    },
+    {
+      "symbol": "079160",
+      "name": "CJ CGV",
+      "rank": 89,
+      "expected_open": 5120,
+      "expected_close": 5124.31
+    },
+    {
+      "symbol": "071970",
+      "name": "HD현대마린엔진",
+      "rank": 90,
+      "expected_open": 35900,
+      "expected_close": 35929.91
+    },
+    {
+      "symbol": "001740",
+      "name": "SK네트웍스",
+      "rank": 91,
+      "expected_open": 5550,
+      "expected_close": 5554.59
+    },
+    {
+      "symbol": "134380",
+      "name": "미원화학",
+      "rank": 92,
+      "expected_open": 11500,
+      "expected_close": 11509.47
+    },
+    {
+      "symbol": "003030",
+      "name": "세아제강지주",
+      "rank": 93,
+      "expected_open": 99800,
+      "expected_close": 99881.47
+    },
+    {
+      "symbol": "317450",
+      "name": "명인제약",
+      "rank": 94,
+      "expected_open": 41750,
+      "expected_close": 41784.01
+    },
+    {
+      "symbol": "000180",
+      "name": "성창기업지주",
+      "rank": 95,
+      "expected_open": 5670,
+      "expected_close": 5674.58
+    },
+    {
+      "symbol": "069620",
+      "name": "대웅제약",
+      "rank": 96,
+      "expected_open": 103600,
+      "expected_close": 103683.4
+    },
+    {
+      "symbol": "000270",
+      "name": "기아",
+      "rank": 97,
+      "expected_open": 100300,
+      "expected_close": 100380
+    },
+    {
+      "symbol": "352820",
+      "name": "하이브",
+      "rank": 98,
+      "expected_open": 145900,
+      "expected_close": 146015.99
+    },
+    {
+      "symbol": "034220",
+      "name": "LG디스플레이",
+      "rank": 99,
+      "expected_open": 7120,
+      "expected_close": 7125.65
+    },
+    {
+      "symbol": "010060",
+      "name": "OCI홀딩스",
+      "rank": 100,
+      "expected_open": 198800,
+      "expected_close": 198956.55
+    },
+    {
+      "symbol": "014910",
+      "name": "성문전자",
+      "rank": 101,
+      "expected_open": 1411,
+      "expected_close": 1412.11
+    },
+    {
+      "symbol": "298020",
+      "name": "효성티앤씨",
+      "rank": 102,
+      "expected_open": 284500,
+      "expected_close": 284718.51
+    },
+    {
+      "symbol": "000660",
+      "name": "SK하이닉스",
+      "rank": 103,
+      "expected_open": 1176000,
+      "expected_close": 1176900.16
+    },
+    {
+      "symbol": "003530",
+      "name": "한화투자증권",
+      "rank": 104,
+      "expected_open": 3685,
+      "expected_close": 3687.78
+    },
+    {
+      "symbol": "035720",
+      "name": "카카오",
+      "rank": 105,
+      "expected_open": 32000,
+      "expected_close": 32023.75
+    },
+    {
+      "symbol": "015590",
+      "name": "DKME",
+      "rank": 106,
+      "expected_open": 1935,
+      "expected_close": 1936.42
+    },
+    {
+      "symbol": "018880",
+      "name": "한온시스템",
+      "rank": 107,
+      "expected_open": 3110,
+      "expected_close": 3112.22
+    },
+    {
+      "symbol": "008775",
+      "name": "호텔신라우",
+      "rank": 108,
+      "expected_open": 27300,
+      "expected_close": 27319.18
+    },
+    {
+      "symbol": "047810",
+      "name": "한국항공우주",
+      "rank": 109,
+      "expected_open": 102000,
+      "expected_close": 102071.19
+    },
+    {
+      "symbol": "251270",
+      "name": "넷마블",
+      "rank": 110,
+      "expected_open": 34700,
+      "expected_close": 34724.03
+    },
+    {
+      "symbol": "446070",
+      "name": "유니드비티플러스",
+      "rank": 111,
+      "expected_open": 3435,
+      "expected_close": 3437.36
+    },
+    {
+      "symbol": "100090",
+      "name": "SK오션플랜트",
+      "rank": 112,
+      "expected_open": 9340,
+      "expected_close": 9346.37
+    },
+    {
+      "symbol": "001520",
+      "name": "동양",
+      "rank": 113,
+      "expected_open": 961,
+      "expected_close": 961.65
+    },
+    {
+      "symbol": "028260",
+      "name": "삼성물산",
+      "rank": 114,
+      "expected_open": 276500,
+      "expected_close": 276680.48
+    },
+    {
+      "symbol": "402340",
+      "name": "SK스퀘어",
+      "rank": 115,
+      "expected_open": 752000,
+      "expected_close": 752488.21
+    },
+    {
+      "symbol": "025560",
+      "name": "미래산업",
+      "rank": 116,
+      "expected_open": 6050,
+      "expected_close": 6053.92
+    },
+    {
+      "symbol": "017900",
+      "name": "광전자",
+      "rank": 117,
+      "expected_open": 7230,
+      "expected_close": 7234.61
+    },
+    {
+      "symbol": "462870",
+      "name": "시프트업",
+      "rank": 118,
+      "expected_open": 30950,
+      "expected_close": 30968.94
+    },
+    {
+      "symbol": "017800",
+      "name": "현대엘리베이터",
+      "rank": 119,
+      "expected_open": 68300,
+      "expected_close": 68340.72
+    },
+    {
+      "symbol": "075580",
+      "name": "세진중공업",
+      "rank": 120,
+      "expected_open": 6890,
+      "expected_close": 6894.1
+    },
+    {
+      "symbol": "064350",
+      "name": "현대로템",
+      "rank": 121,
+      "expected_open": 71400,
+      "expected_close": 71442.43
+    },
+    {
+      "symbol": "002880",
+      "name": "디와이에이",
+      "rank": 122,
+      "expected_open": 3125,
+      "expected_close": 3126.82
+    },
+    {
+      "symbol": "375500",
+      "name": "DL이앤씨",
+      "rank": 123,
+      "expected_open": 51600,
+      "expected_close": 51629.66
+    },
+    {
+      "symbol": "014790",
+      "name": "HL D&I",
+      "rank": 124,
+      "expected_open": 2445,
+      "expected_close": 2446.39
+    },
+    {
+      "symbol": "007810",
+      "name": "코리아써키트",
+      "rank": 125,
+      "expected_open": 62400,
+      "expected_close": 62435.41
+    },
+    {
+      "symbol": "010770",
+      "name": "평화홀딩스",
+      "rank": 126,
+      "expected_open": 3165,
+      "expected_close": 3166.79
+    },
+    {
+      "symbol": "005930",
+      "name": "삼성전자",
+      "rank": 127,
+      "expected_open": 193500,
+      "expected_close": 193607.84
+    },
+    {
+      "symbol": "011210",
+      "name": "현대위아",
+      "rank": 128,
+      "expected_open": 49000,
+      "expected_close": 49027.27
+    },
+    {
+      "symbol": "071950",
+      "name": "코아스",
+      "rank": 129,
+      "expected_open": 946,
+      "expected_close": 946.52
+    },
+    {
+      "symbol": "069640",
+      "name": "한세엠케이",
+      "rank": 130,
+      "expected_open": 1382,
+      "expected_close": 1382.75
+    },
+    {
+      "symbol": "004250",
+      "name": "NPC",
+      "rank": 131,
+      "expected_open": 2495,
+      "expected_close": 2496.35
+    },
+    {
+      "symbol": "475150",
+      "name": "SK이터닉스",
+      "rank": 132,
+      "expected_open": 37550,
+      "expected_close": 37570.25
+    },
+    {
+      "symbol": "214420",
+      "name": "토니모리",
+      "rank": 133,
+      "expected_open": 4225,
+      "expected_close": 4227.26
+    },
+    {
+      "symbol": "036460",
+      "name": "한국가스공사",
+      "rank": 134,
+      "expected_open": 36600,
+      "expected_close": 36619.57
+    },
+    {
+      "symbol": "001720",
+      "name": "신영증권",
+      "rank": 135,
+      "expected_open": 112400,
+      "expected_close": 112459.06
+    },
+    {
+      "symbol": "019170",
+      "name": "신풍제약",
+      "rank": 136,
+      "expected_open": 8000,
+      "expected_close": 8004.07
+    },
+    {
+      "symbol": "323410",
+      "name": "카카오뱅크",
+      "rank": 137,
+      "expected_open": 20550,
+      "expected_close": 20560.37
+    },
+    {
+      "symbol": "004800",
+      "name": "효성",
+      "rank": 138,
+      "expected_open": 115800,
+      "expected_close": 115857.71
+    },
+    {
+      "symbol": "005850",
+      "name": "에스엘",
+      "rank": 139,
+      "expected_open": 47300,
+      "expected_close": 47323.28
+    },
+    {
+      "symbol": "089470",
+      "name": "HDC현대EP",
+      "rank": 140,
+      "expected_open": 3605,
+      "expected_close": 3606.73
+    },
+    {
+      "symbol": "011690",
+      "name": "와이투솔루션",
+      "rank": 141,
+      "expected_open": 2530,
+      "expected_close": 2531.21
+    },
+    {
+      "symbol": "272210",
+      "name": "한화시스템",
+      "rank": 142,
+      "expected_open": 50400,
+      "expected_close": 50423.95
+    },
+    {
+      "symbol": "007110",
+      "name": "일신석재",
+      "rank": 143,
+      "expected_open": 1995,
+      "expected_close": 1995.91
+    },
+    {
+      "symbol": "307950",
+      "name": "현대오토에버",
+      "rank": 144,
+      "expected_open": 274500,
+      "expected_close": 274624.45
+    },
+    {
+      "symbol": "004060",
+      "name": "SG세계물산",
+      "rank": 145,
+      "expected_open": 1983,
+      "expected_close": 1983.87
+    },
+    {
+      "symbol": "016740",
+      "name": "두올",
+      "rank": 146,
+      "expected_open": 4285,
+      "expected_close": 4286.85
+    },
+    {
+      "symbol": "058430",
+      "name": "포스코스틸리온",
+      "rank": 147,
+      "expected_open": 3760,
+      "expected_close": 3761.6
+    },
+    {
+      "symbol": "377740",
+      "name": "바이오노트",
+      "rank": 148,
+      "expected_open": 4635,
+      "expected_close": 4636.96
+    },
+    {
+      "symbol": "336260",
+      "name": "두산퓨얼셀",
+      "rank": 149,
+      "expected_open": 27450,
+      "expected_close": 27461.6
+    },
+    {
+      "symbol": "009160",
+      "name": "SIMPAC",
+      "rank": 150,
+      "expected_open": 5400,
+      "expected_close": 5402.22
+    },
+    {
+      "symbol": "241560",
+      "name": "두산밥캣",
+      "rank": 151,
+      "expected_open": 52500,
+      "expected_close": 52521.12
+    },
+    {
+      "symbol": "003160",
+      "name": "디아이",
+      "rank": 152,
+      "expected_open": 26150,
+      "expected_close": 26160.44
+    },
+    {
+      "symbol": "003670",
+      "name": "포스코퓨처엠",
+      "rank": 153,
+      "expected_open": 162500,
+      "expected_close": 162564.76
+    },
+    {
+      "symbol": "030000",
+      "name": "제일기획",
+      "rank": 154,
+      "expected_open": 19600,
+      "expected_close": 19607.48
+    },
+    {
+      "symbol": "036570",
+      "name": "NC",
+      "rank": 155,
+      "expected_open": 207500,
+      "expected_close": 207578.43
+    },
+    {
+      "symbol": "298040",
+      "name": "효성중공업",
+      "rank": 156,
+      "expected_open": 1612000,
+      "expected_close": 1612606.74
+    },
+    {
+      "symbol": "053690",
+      "name": "한미글로벌",
+      "rank": 157,
+      "expected_open": 15920,
+      "expected_close": 15925.93
+    },
+    {
+      "symbol": "003010",
+      "name": "혜인",
+      "rank": 158,
+      "expected_open": 8120,
+      "expected_close": 8122.99
+    },
+    {
+      "symbol": "004090",
+      "name": "한국석유",
+      "rank": 159,
+      "expected_open": 10320,
+      "expected_close": 10323.77
+    },
+    {
+      "symbol": "133820",
+      "name": "화인베스틸",
+      "rank": 160,
+      "expected_open": 888,
+      "expected_close": 888.32
+    },
+    {
+      "symbol": "013580",
+      "name": "계룡건설",
+      "rank": 161,
+      "expected_open": 23750,
+      "expected_close": 23758.24
+    },
+    {
+      "symbol": "000720",
+      "name": "현대건설",
+      "rank": 162,
+      "expected_open": 78300,
+      "expected_close": 78326.7
+    },
+    {
+      "symbol": "077970",
+      "name": "STX엔진",
+      "rank": 163,
+      "expected_open": 14070,
+      "expected_close": 14074.77
+    },
+    {
+      "symbol": "006360",
+      "name": "GS건설",
+      "rank": 164,
+      "expected_open": 29800,
+      "expected_close": 29810.09
+    },
+    {
+      "symbol": "003550",
+      "name": "LG",
+      "rank": 165,
+      "expected_open": 90500,
+      "expected_close": 90530.46
+    },
+    {
+      "symbol": "008350",
+      "name": "남선알미늄",
+      "rank": 166,
+      "expected_open": 1071,
+      "expected_close": 1071.36
+    },
+    {
+      "symbol": "100840",
+      "name": "SNT에너지",
+      "rank": 167,
+      "expected_open": 23550,
+      "expected_close": 23557.8
+    },
+    {
+      "symbol": "001465",
+      "name": "BYC우",
+      "rank": 168,
+      "expected_open": 23950,
+      "expected_close": 23957.83
+    },
+    {
+      "symbol": "008250",
+      "name": "이건산업",
+      "rank": 169,
+      "expected_open": 2770,
+      "expected_close": 2770.9
+    },
+    {
+      "symbol": "023800",
+      "name": "인지컨트롤스",
+      "rank": 170,
+      "expected_open": 4950,
+      "expected_close": 4951.59
+    },
+    {
+      "symbol": "010130",
+      "name": "고려아연",
+      "rank": 171,
+      "expected_open": 955000,
+      "expected_close": 955293.43
+    },
+    {
+      "symbol": "002790",
+      "name": "아모레퍼시픽홀딩스",
+      "rank": 172,
+      "expected_open": 27150,
+      "expected_close": 27158.3
+    },
+    {
+      "symbol": "003580",
+      "name": "HLB글로벌",
+      "rank": 173,
+      "expected_open": 1524,
+      "expected_close": 1524.46
+    },
+    {
+      "symbol": "004020",
+      "name": "현대제철",
+      "rank": 174,
+      "expected_open": 28300,
+      "expected_close": 28308.48
+    },
+    {
+      "symbol": "025860",
+      "name": "남해화학",
+      "rank": 175,
+      "expected_open": 5530,
+      "expected_close": 5531.61
+    },
+    {
+      "symbol": "161000",
+      "name": "애경케미칼",
+      "rank": 176,
+      "expected_open": 9260,
+      "expected_close": 9262.69
+    },
+    {
+      "symbol": "011280",
+      "name": "태림포장",
+      "rank": 177,
+      "expected_open": 1071,
+      "expected_close": 1071.31
+    },
+    {
+      "symbol": "001800",
+      "name": "오리온홀딩스",
+      "rank": 178,
+      "expected_open": 24600,
+      "expected_close": 24606.9
+    },
+    {
+      "symbol": "033780",
+      "name": "KT&G",
+      "rank": 179,
+      "expected_open": 190700,
+      "expected_close": 190753.24
+    },
+    {
+      "symbol": "298050",
+      "name": "HS효성첨단소재",
+      "rank": 180,
+      "expected_open": 148000,
+      "expected_close": 148040.27
+    },
+    {
+      "symbol": "102260",
+      "name": "동성케미컬",
+      "rank": 181,
+      "expected_open": 3350,
+      "expected_close": 3350.91
+    },
+    {
+      "symbol": "004890",
+      "name": "동일산업",
+      "rank": 182,
+      "expected_open": 33300,
+      "expected_close": 33308.99
+    },
+    {
+      "symbol": "097230",
+      "name": "HJ중공업",
+      "rank": 183,
+      "expected_open": 11300,
+      "expected_close": 11303.02
+    },
+    {
+      "symbol": "002320",
+      "name": "한진",
+      "rank": 184,
+      "expected_open": 16340,
+      "expected_close": 16344.36
+    },
+    {
+      "symbol": "051910",
+      "name": "LG화학",
+      "rank": 185,
+      "expected_open": 233500,
+      "expected_close": 233559.78
+    },
+    {
+      "symbol": "950210",
+      "name": "프레스티지바이오파마",
+      "rank": 186,
+      "expected_open": 3875,
+      "expected_close": 3875.99
+    },
+    {
+      "symbol": "005935",
+      "name": "삼성전자우",
+      "rank": 187,
+      "expected_open": 155600,
+      "expected_close": 155639.19
+    },
+    {
+      "symbol": "010100",
+      "name": "한국무브넥스",
+      "rank": 188,
+      "expected_open": 2985,
+      "expected_close": 2985.74
+    },
+    {
+      "symbol": "007280",
+      "name": "한국특강",
+      "rank": 189,
+      "expected_open": 1959,
+      "expected_close": 1959.47
+    },
+    {
+      "symbol": "316140",
+      "name": "우리금융지주",
+      "rank": 190,
+      "expected_open": 31700,
+      "expected_close": 31707.37
+    },
+    {
+      "symbol": "008700",
+      "name": "아남전자",
+      "rank": 191,
+      "expected_open": 1135,
+      "expected_close": 1135.26
+    },
+    {
+      "symbol": "001680",
+      "name": "대상",
+      "rank": 192,
+      "expected_open": 17530,
+      "expected_close": 17533.9
+    },
+    {
+      "symbol": "001340",
+      "name": "PKC",
+      "rank": 193,
+      "expected_open": 4095,
+      "expected_close": 4095.91
+    },
+    {
+      "symbol": "010820",
+      "name": "퍼스텍",
+      "rank": 194,
+      "expected_open": 4290,
+      "expected_close": 4290.95
+    },
+    {
+      "symbol": "005810",
+      "name": "풍산홀딩스",
+      "rank": 195,
+      "expected_open": 32850,
+      "expected_close": 32857.27
+    },
+    {
+      "symbol": "010120",
+      "name": "LS ELECTRIC",
+      "rank": 196,
+      "expected_open": 119000,
+      "expected_close": 119024.02
+    },
+    {
+      "symbol": "000490",
+      "name": "대동",
+      "rank": 197,
+      "expected_open": 6560,
+      "expected_close": 6561.25
+    },
+    {
+      "symbol": "181710",
+      "name": "NHN",
+      "rank": 198,
+      "expected_open": 57800,
+      "expected_close": 57810.89
+    },
+    {
+      "symbol": "480370",
+      "name": "씨케이솔루션",
+      "rank": 199,
+      "expected_open": 1539,
+      "expected_close": 1539.26
+    },
+    {
+      "symbol": "018250",
+      "name": "애경산업",
+      "rank": 200,
+      "expected_open": 10270,
+      "expected_close": 10271.71
+    },
+    {
+      "symbol": "002020",
+      "name": "코오롱",
+      "rank": 201,
+      "expected_open": 19380,
+      "expected_close": 19383.08
+    },
+    {
+      "symbol": "016380",
+      "name": "KG스틸",
+      "rank": 202,
+      "expected_open": 4820,
+      "expected_close": 4820.76
+    },
+    {
+      "symbol": "034730",
+      "name": "SK",
+      "rank": 203,
+      "expected_open": 457000,
+      "expected_close": 457069.31
+    },
+    {
+      "symbol": "019685",
+      "name": "대교우B",
+      "rank": 204,
+      "expected_open": 991,
+      "expected_close": 991.14
+    },
+    {
+      "symbol": "008770",
+      "name": "호텔신라",
+      "rank": 205,
+      "expected_open": 35700,
+      "expected_close": 35705.02
+    },
+    {
+      "symbol": "000860",
+      "name": "강남제비스코",
+      "rank": 206,
+      "expected_open": 12260,
+      "expected_close": 12261.58
+    },
+    {
+      "symbol": "139480",
+      "name": "이마트",
+      "rank": 207,
+      "expected_open": 73900,
+      "expected_close": 73909.52
+    },
+    {
+      "symbol": "009450",
+      "name": "경동나비엔",
+      "rank": 208,
+      "expected_open": 60500,
+      "expected_close": 60507.14
+    },
+    {
+      "symbol": "016360",
+      "name": "삼성증권",
+      "rank": 209,
+      "expected_open": 74900,
+      "expected_close": 74908.59
+    },
+    {
+      "symbol": "003090",
+      "name": "대웅",
+      "rank": 210,
+      "expected_open": 16100,
+      "expected_close": 16101.7
+    },
+    {
+      "symbol": "015860",
+      "name": "일진홀딩스",
+      "rank": 211,
+      "expected_open": 5850,
+      "expected_close": 5850.61
+    },
+    {
+      "symbol": "023150",
+      "name": "MH에탄올",
+      "rank": 212,
+      "expected_open": 1952,
+      "expected_close": 1952.2
+    },
+    {
+      "symbol": "100250",
+      "name": "진양홀딩스",
+      "rank": 213,
+      "expected_open": 2960,
+      "expected_close": 2960.3
+    },
+    {
+      "symbol": "003570",
+      "name": "SNT다이내믹스",
+      "rank": 214,
+      "expected_open": 24100,
+      "expected_close": 24102.38
+    },
+    {
+      "symbol": "032640",
+      "name": "LG유플러스",
+      "rank": 215,
+      "expected_open": 16520,
+      "expected_close": 16521.59
+    },
+    {
+      "symbol": "000670",
+      "name": "영풍",
+      "rank": 216,
+      "expected_open": 30650,
+      "expected_close": 30652.94
+    },
+    {
+      "symbol": "001500",
+      "name": "현대차증권",
+      "rank": 217,
+      "expected_open": 6880,
+      "expected_close": 6880.65
+    },
+    {
+      "symbol": "005440",
+      "name": "현대지에프홀딩스",
+      "rank": 218,
+      "expected_open": 11270,
+      "expected_close": 11271.02
+    },
+    {
+      "symbol": "051915",
+      "name": "LG화학우",
+      "rank": 219,
+      "expected_open": 105000,
+      "expected_close": 105009.47
+    },
+    {
+      "symbol": "005430",
+      "name": "한국공항",
+      "rank": 220,
+      "expected_open": 86800,
+      "expected_close": 86807.33
+    },
+    {
+      "symbol": "005490",
+      "name": "POSCO홀딩스",
+      "rank": 221,
+      "expected_open": 266500,
+      "expected_close": 266522.06
+    },
+    {
+      "symbol": "012690",
+      "name": "모나리자",
+      "rank": 222,
+      "expected_open": 1316,
+      "expected_close": 1316.09
+    },
+    {
+      "symbol": "079980",
+      "name": "휴비스",
+      "rank": 223,
+      "expected_open": 1687,
+      "expected_close": 1687.09
+    },
+    {
+      "symbol": "086280",
+      "name": "현대글로비스",
+      "rank": 224,
+      "expected_open": 195500,
+      "expected_close": 195507.95
+    },
+    {
+      "symbol": "001200",
+      "name": "유진투자증권",
+      "rank": 225,
+      "expected_open": 3430,
+      "expected_close": 3430.13
+    },
+    {
+      "symbol": "101530",
+      "name": "해태제과식품",
+      "rank": 226,
+      "expected_open": 4745,
+      "expected_close": 4745.17
+    },
+    {
+      "symbol": "130660",
+      "name": "한전산업",
+      "rank": 227,
+      "expected_open": 9350,
+      "expected_close": 9350.33
+    },
+    {
+      "symbol": "005420",
+      "name": "코스모화학",
+      "rank": 228,
+      "expected_open": 8820,
+      "expected_close": 8820.27
+    },
+    {
+      "symbol": "034230",
+      "name": "파라다이스",
+      "rank": 229,
+      "expected_open": 9750,
+      "expected_close": 9750.23
+    },
+    {
+      "symbol": "008060",
+      "name": "대덕",
+      "rank": 230,
+      "expected_open": 12270,
+      "expected_close": 12270.26
+    },
+    {
+      "symbol": "381970",
+      "name": "KG모빌리티플랫폼",
+      "rank": 231,
+      "expected_open": 5400,
+      "expected_close": 5400.1
+    },
+    {
+      "symbol": "129260",
+      "name": "인터지스",
+      "rank": 232,
+      "expected_open": 1735,
+      "expected_close": 1735.02
+    },
+    {
+      "symbol": "004490",
+      "name": "세방전지",
+      "rank": 233,
+      "expected_open": 54000,
+      "expected_close": 54000.38
+    },
+    {
+      "symbol": "030200",
+      "name": "KT",
+      "rank": 234,
+      "expected_open": 52500,
+      "expected_close": 52500.35
+    },
+    {
+      "symbol": "001120",
+      "name": "LX인터내셔널",
+      "rank": 235,
+      "expected_open": 34700,
+      "expected_close": 34700.21
+    },
+    {
+      "symbol": "001510",
+      "name": "SK증권",
+      "rank": 236,
+      "expected_open": 1746,
+      "expected_close": 1746.01
+    },
+    {
+      "symbol": "008930",
+      "name": "한미사이언스",
+      "rank": 237,
+      "expected_open": 53700,
+      "expected_close": 53699.86
+    },
+    {
+      "symbol": "051600",
+      "name": "한전KPS",
+      "rank": 238,
+      "expected_open": 41300,
+      "expected_close": 41299.83
+    },
+    {
+      "symbol": "001045",
+      "name": "CJ우",
+      "rank": 239,
+      "expected_open": 56400,
+      "expected_close": 56399.69
+    },
+    {
+      "symbol": "377300",
+      "name": "카카오페이",
+      "rank": 240,
+      "expected_open": 32350,
+      "expected_close": 32349.81
+    },
+    {
+      "symbol": "001795",
+      "name": "대한제당우",
+      "rank": 241,
+      "expected_open": 2090,
+      "expected_close": 2089.97
+    },
+    {
+      "symbol": "006650",
+      "name": "대한유화",
+      "rank": 242,
+      "expected_open": 84800,
+      "expected_close": 84797.67
+    },
+    {
+      "symbol": "047050",
+      "name": "포스코인터내셔널",
+      "rank": 243,
+      "expected_open": 48400,
+      "expected_close": 48398.5
+    },
+    {
+      "symbol": "035250",
+      "name": "강원랜드",
+      "rank": 244,
+      "expected_open": 14230,
+      "expected_close": 14229.45
+    },
+    {
+      "symbol": "286940",
+      "name": "롯데이노베이트",
+      "rank": 245,
+      "expected_open": 16130,
+      "expected_close": 16129.27
+    },
+    {
+      "symbol": "007460",
+      "name": "에이프로젠",
+      "rank": 246,
+      "expected_open": 1735,
+      "expected_close": 1734.92
+    },
+    {
+      "symbol": "000120",
+      "name": "CJ대한통운",
+      "rank": 247,
+      "expected_open": 68500,
+      "expected_close": 68496.64
+    },
+    {
+      "symbol": "013360",
+      "name": "일성건설",
+      "rank": 248,
+      "expected_open": 1247,
+      "expected_close": 1246.93
+    },
+    {
+      "symbol": "005010",
+      "name": "휴스틸",
+      "rank": 249,
+      "expected_open": 3290,
+      "expected_close": 3289.76
+    },
+    {
+      "symbol": "012030",
+      "name": "DB",
+      "rank": 250,
+      "expected_open": 2090,
+      "expected_close": 2089.83
+    },
+    {
+      "symbol": "004370",
+      "name": "농심",
+      "rank": 251,
+      "expected_open": 404500,
+      "expected_close": 404465.8
+    },
+    {
+      "symbol": "005800",
+      "name": "신영와코루",
+      "rank": 252,
+      "expected_open": 13230,
+      "expected_close": 13228.88
+    },
+    {
+      "symbol": "001230",
+      "name": "동국홀딩스",
+      "rank": 253,
+      "expected_open": 1760,
+      "expected_close": 1759.85
+    },
+    {
+      "symbol": "092780",
+      "name": "DYP",
+      "rank": 254,
+      "expected_open": 3020,
+      "expected_close": 3019.73
+    },
+    {
+      "symbol": "001390",
+      "name": "KG케미칼",
+      "rank": 255,
+      "expected_open": 3585,
+      "expected_close": 3584.66
+    },
+    {
+      "symbol": "025750",
+      "name": "한솔홈데코",
+      "rank": 256,
+      "expected_open": 1591,
+      "expected_close": 1590.84
+    },
+    {
+      "symbol": "017960",
+      "name": "한국카본",
+      "rank": 257,
+      "expected_open": 14290,
+      "expected_close": 14288.51
+    },
+    {
+      "symbol": "145720",
+      "name": "덴티움",
+      "rank": 258,
+      "expected_open": 39000,
+      "expected_close": 38995.61
+    },
+    {
+      "symbol": "175330",
+      "name": "JB금융지주",
+      "rank": 259,
+      "expected_open": 27100,
+      "expected_close": 27096.87
+    },
+    {
+      "symbol": "069960",
+      "name": "현대백화점",
+      "rank": 260,
+      "expected_open": 84500,
+      "expected_close": 84489.95
+    },
+    {
+      "symbol": "004560",
+      "name": "현대비앤지스틸",
+      "rank": 261,
+      "expected_open": 10000,
+      "expected_close": 9998.76
+    },
+    {
+      "symbol": "016090",
+      "name": "대현",
+      "rank": 262,
+      "expected_open": 1403,
+      "expected_close": 1402.82
+    },
+    {
+      "symbol": "007815",
+      "name": "코리아써우",
+      "rank": 263,
+      "expected_open": 15890,
+      "expected_close": 15887.84
+    },
+    {
+      "symbol": "037560",
+      "name": "LG헬로비전",
+      "rank": 264,
+      "expected_open": 1314,
+      "expected_close": 1313.81
+    },
+    {
+      "symbol": "111770",
+      "name": "영원무역",
+      "rank": 265,
+      "expected_open": 72800,
+      "expected_close": 72789.4
+    },
+    {
+      "symbol": "005387",
+      "name": "현대차2우B",
+      "rank": 266,
+      "expected_open": 151100,
+      "expected_close": 151075.22
+    },
+    {
+      "symbol": "003540",
+      "name": "대신증권",
+      "rank": 267,
+      "expected_open": 21400,
+      "expected_close": 21396.44
+    },
+    {
+      "symbol": "139130",
+      "name": "iM금융지주",
+      "rank": 268,
+      "expected_open": 15480,
+      "expected_close": 15477.34
+    },
+    {
+      "symbol": "012160",
+      "name": "영흥",
+      "rank": 269,
+      "expected_open": 1649,
+      "expected_close": 1648.71
+    },
+    {
+      "symbol": "031210",
+      "name": "서울보증보험",
+      "rank": 270,
+      "expected_open": 43750,
+      "expected_close": 43742.28
+    },
+    {
+      "symbol": "081000",
+      "name": "일진다이아",
+      "rank": 271,
+      "expected_open": 8230,
+      "expected_close": 8228.54
+    },
+    {
+      "symbol": "010690",
+      "name": "화신",
+      "rank": 272,
+      "expected_open": 5960,
+      "expected_close": 5958.94
+    },
+    {
+      "symbol": "031430",
+      "name": "신세계인터내셔날",
+      "rank": 273,
+      "expected_open": 9780,
+      "expected_close": 9778.22
+    },
+    {
+      "symbol": "037270",
+      "name": "YG PLUS",
+      "rank": 274,
+      "expected_open": 2790,
+      "expected_close": 2789.48
+    },
+    {
+      "symbol": "009830",
+      "name": "한화솔루션",
+      "rank": 275,
+      "expected_open": 25800,
+      "expected_close": 25795.18
+    },
+    {
+      "symbol": "001440",
+      "name": "대한전선",
+      "rank": 276,
+      "expected_open": 17040,
+      "expected_close": 17036.81
+    },
+    {
+      "symbol": "403550",
+      "name": "쏘카",
+      "rank": 277,
+      "expected_open": 9420,
+      "expected_close": 9418.22
+    },
+    {
+      "symbol": "439260",
+      "name": "대한조선",
+      "rank": 278,
+      "expected_open": 34500,
+      "expected_close": 34493.33
+    },
+    {
+      "symbol": "009540",
+      "name": "HD한국조선해양",
+      "rank": 279,
+      "expected_open": 244000,
+      "expected_close": 243951.57
+    },
+    {
+      "symbol": "006340",
+      "name": "대원전선",
+      "rank": 280,
+      "expected_open": 7920,
+      "expected_close": 7918.42
+    },
+    {
+      "symbol": "229640",
+      "name": "LS에코에너지",
+      "rank": 281,
+      "expected_open": 38700,
+      "expected_close": 38692.08
+    },
+    {
+      "symbol": "007310",
+      "name": "오뚜기",
+      "rank": 282,
+      "expected_open": 319000,
+      "expected_close": 318934.4
+    },
+    {
+      "symbol": "003830",
+      "name": "대한화섬",
+      "rank": 283,
+      "expected_open": 103900,
+      "expected_close": 103878.08
+    },
+    {
+      "symbol": "005305",
+      "name": "롯데칠성우",
+      "rank": 284,
+      "expected_open": 68600,
+      "expected_close": 68585.38
+    },
+    {
+      "symbol": "047040",
+      "name": "대우건설",
+      "rank": 285,
+      "expected_open": 10460,
+      "expected_close": 10457.73
+    },
+    {
+      "symbol": "004380",
+      "name": "삼익THK",
+      "rank": 286,
+      "expected_open": 6800,
+      "expected_close": 6798.51
+    },
+    {
+      "symbol": "029780",
+      "name": "삼성카드",
+      "rank": 287,
+      "expected_open": 42150,
+      "expected_close": 42140.39
+    },
+    {
+      "symbol": "004105",
+      "name": "태양금속우",
+      "rank": 288,
+      "expected_open": 4280,
+      "expected_close": 4279
+    },
+    {
+      "symbol": "003480",
+      "name": "한진중공업홀딩스",
+      "rank": 289,
+      "expected_open": 4130,
+      "expected_close": 4129.01
+    },
+    {
+      "symbol": "005385",
+      "name": "현대차우",
+      "rank": 290,
+      "expected_open": 148500,
+      "expected_close": 148464
+    },
+    {
+      "symbol": "016580",
+      "name": "환인제약",
+      "rank": 291,
+      "expected_open": 10670,
+      "expected_close": 10667.4
+    },
+    {
+      "symbol": "003200",
+      "name": "일신방직",
+      "rank": 292,
+      "expected_open": 10070,
+      "expected_close": 10067.51
+    },
+    {
+      "symbol": "006805",
+      "name": "미래에셋증권우",
+      "rank": 293,
+      "expected_open": 8760,
+      "expected_close": 8757.79
+    },
+    {
+      "symbol": "000020",
+      "name": "동화약품",
+      "rank": 294,
+      "expected_open": 5110,
+      "expected_close": 5108.63
+    },
+    {
+      "symbol": "030610",
+      "name": "교보증권",
+      "rank": 295,
+      "expected_open": 7870,
+      "expected_close": 7867.87
+    },
+    {
+      "symbol": "280360",
+      "name": "롯데웰푸드",
+      "rank": 296,
+      "expected_open": 124500,
+      "expected_close": 124464.94
+    },
+    {
+      "symbol": "460860",
+      "name": "동국제강",
+      "rank": 297,
+      "expected_open": 8480,
+      "expected_close": 8477.58
+    },
+    {
+      "symbol": "002460",
+      "name": "HS화성",
+      "rank": 298,
+      "expected_open": 10530,
+      "expected_close": 10526.99
+    },
+    {
+      "symbol": "001620",
+      "name": "케이비아이동국실업",
+      "rank": 299,
+      "expected_open": 1985,
+      "expected_close": 1984.41
+    },
+    {
+      "symbol": "075180",
+      "name": "새론오토모티브",
+      "rank": 300,
+      "expected_open": 2915,
+      "expected_close": 2914.12
+    },
+    {
+      "symbol": "006800",
+      "name": "미래에셋증권",
+      "rank": 301,
+      "expected_open": 22450,
+      "expected_close": 22443.03
+    },
+    {
+      "symbol": "122900",
+      "name": "아이마켓코리아",
+      "rank": 302,
+      "expected_open": 8000,
+      "expected_close": 7997.44
+    },
+    {
+      "symbol": "000370",
+      "name": "한화손해보험",
+      "rank": 303,
+      "expected_open": 6050,
+      "expected_close": 6047.92
+    },
+    {
+      "symbol": "005070",
+      "name": "코스모신소재",
+      "rank": 304,
+      "expected_open": 32750,
+      "expected_close": 32738.68
+    },
+    {
+      "symbol": "001060",
+      "name": "JW중외제약",
+      "rank": 305,
+      "expected_open": 22700,
+      "expected_close": 22692.15
+    },
+    {
+      "symbol": "204320",
+      "name": "HL만도",
+      "rank": 306,
+      "expected_open": 32450,
+      "expected_close": 32438.61
+    },
+    {
+      "symbol": "014440",
+      "name": "영보화학",
+      "rank": 307,
+      "expected_open": 4650,
+      "expected_close": 4648.35
+    },
+    {
+      "symbol": "267850",
+      "name": "아시아나IDT",
+      "rank": 308,
+      "expected_open": 10820,
+      "expected_close": 10816.12
+    },
+    {
+      "symbol": "004170",
+      "name": "신세계",
+      "rank": 309,
+      "expected_open": 253500,
+      "expected_close": 253408.31
+    },
+    {
+      "symbol": "004980",
+      "name": "성신양회",
+      "rank": 310,
+      "expected_open": 7040,
+      "expected_close": 7037.44
+    },
+    {
+      "symbol": "003080",
+      "name": "SB성보",
+      "rank": 311,
+      "expected_open": 2170,
+      "expected_close": 2169.21
+    },
+    {
+      "symbol": "000700",
+      "name": "유수홀딩스",
+      "rank": 312,
+      "expected_open": 6040,
+      "expected_close": 6037.8
+    },
+    {
+      "symbol": "032830",
+      "name": "삼성생명",
+      "rank": 313,
+      "expected_open": 236000,
+      "expected_close": 235913.22
+    },
+    {
+      "symbol": "012610",
+      "name": "경인양행",
+      "rank": 314,
+      "expected_open": 2985,
+      "expected_close": 2983.9
+    },
+    {
+      "symbol": "001067",
+      "name": "JW중외제약2우B",
+      "rank": 315,
+      "expected_open": 48800,
+      "expected_close": 48781.93
+    },
+    {
+      "symbol": "039130",
+      "name": "하나투어",
+      "rank": 316,
+      "expected_open": 28450,
+      "expected_close": 28439.45
+    },
+    {
+      "symbol": "066970",
+      "name": "엘앤에프",
+      "rank": 317,
+      "expected_open": 76300,
+      "expected_close": 76271.68
+    },
+    {
+      "symbol": "003490",
+      "name": "대한항공",
+      "rank": 318,
+      "expected_open": 29500,
+      "expected_close": 29488.94
+    },
+    {
+      "symbol": "001290",
+      "name": "상상인증권",
+      "rank": 319,
+      "expected_open": 3905,
+      "expected_close": 3903.53
+    },
+    {
+      "symbol": "014825",
+      "name": "동원시스템즈우",
+      "rank": 320,
+      "expected_open": 13330,
+      "expected_close": 13324.94
+    },
+    {
+      "symbol": "042700",
+      "name": "한미반도체",
+      "rank": 321,
+      "expected_open": 163300,
+      "expected_close": 163236.87
+    },
+    {
+      "symbol": "009410",
+      "name": "태영건설",
+      "rank": 322,
+      "expected_open": 1495,
+      "expected_close": 1494.42
+    },
+    {
+      "symbol": "003280",
+      "name": "흥아해운",
+      "rank": 323,
+      "expected_open": 1568,
+      "expected_close": 1567.39
+    },
+    {
+      "symbol": "103590",
+      "name": "일진전기",
+      "rank": 324,
+      "expected_open": 44550,
+      "expected_close": 44532.13
+    },
+    {
+      "symbol": "073240",
+      "name": "금호타이어",
+      "rank": 325,
+      "expected_open": 5300,
+      "expected_close": 5297.77
+    },
+    {
+      "symbol": "126720",
+      "name": "수산인더스트리",
+      "rank": 326,
+      "expected_open": 18640,
+      "expected_close": 18632.07
+    },
+    {
+      "symbol": "279570",
+      "name": "케이뱅크",
+      "rank": 327,
+      "expected_open": 5110,
+      "expected_close": 5107.81
+    },
+    {
+      "symbol": "000430",
+      "name": "대원강업",
+      "rank": 328,
+      "expected_open": 4000,
+      "expected_close": 3998.27
+    },
+    {
+      "symbol": "452260",
+      "name": "한화갤러리아",
+      "rank": 329,
+      "expected_open": 2080,
+      "expected_close": 2079.1
+    },
+    {
+      "symbol": "136490",
+      "name": "선진",
+      "rank": 330,
+      "expected_open": 9640,
+      "expected_close": 9635.82
+    },
+    {
+      "symbol": "002900",
+      "name": "TYM",
+      "rank": 331,
+      "expected_open": 6120,
+      "expected_close": 6117.33
+    },
+    {
+      "symbol": "037710",
+      "name": "광주신세계",
+      "rank": 332,
+      "expected_open": 34400,
+      "expected_close": 34384.95
+    },
+    {
+      "symbol": "011170",
+      "name": "롯데케미칼",
+      "rank": 333,
+      "expected_open": 46800,
+      "expected_close": 46779.37
+    },
+    {
+      "symbol": "002380",
+      "name": "KCC",
+      "rank": 334,
+      "expected_open": 372500,
+      "expected_close": 372333.11
+    },
+    {
+      "symbol": "000240",
+      "name": "한국앤컴퍼니",
+      "rank": 335,
+      "expected_open": 24750,
+      "expected_close": 24738.91
+    },
+    {
+      "symbol": "329180",
+      "name": "HD현대중공업",
+      "rank": 336,
+      "expected_open": 262000,
+      "expected_close": 261882.59
+    },
+    {
+      "symbol": "015230",
+      "name": "대창단조",
+      "rank": 337,
+      "expected_open": 5680,
+      "expected_close": 5677.41
+    },
+    {
+      "symbol": "457190",
+      "name": "이수스페셜티케미컬",
+      "rank": 338,
+      "expected_open": 63600,
+      "expected_close": 63570.78
+    },
+    {
+      "symbol": "378850",
+      "name": "화승알앤에이",
+      "rank": 339,
+      "expected_open": 2545,
+      "expected_close": 2543.83
+    },
+    {
+      "symbol": "249420",
+      "name": "일동제약",
+      "rank": 340,
+      "expected_open": 12260,
+      "expected_close": 12254.32
+    },
+    {
+      "symbol": "024900",
+      "name": "디와이덕양",
+      "rank": 341,
+      "expected_open": 1942,
+      "expected_close": 1941.1
+    },
+    {
+      "symbol": "026940",
+      "name": "부국철강",
+      "rank": 342,
+      "expected_open": 1864,
+      "expected_close": 1863.09
+    },
+    {
+      "symbol": "008490",
+      "name": "서흥",
+      "rank": 343,
+      "expected_open": 17580,
+      "expected_close": 17571.41
+    },
+    {
+      "symbol": "016590",
+      "name": "신대양제지",
+      "rank": 344,
+      "expected_open": 7980,
+      "expected_close": 7976.08
+    },
+    {
+      "symbol": "005870",
+      "name": "휴니드",
+      "rank": 345,
+      "expected_open": 4050,
+      "expected_close": 4048.01
+    },
+    {
+      "symbol": "011790",
+      "name": "SKC",
+      "rank": 346,
+      "expected_open": 65100,
+      "expected_close": 65067.83
+    },
+    {
+      "symbol": "001040",
+      "name": "CJ",
+      "rank": 347,
+      "expected_open": 113800,
+      "expected_close": 113743.44
+    },
+    {
+      "symbol": "161390",
+      "name": "한국타이어앤테크놀로지",
+      "rank": 348,
+      "expected_open": 61800,
+      "expected_close": 61769.07
+    },
+    {
+      "symbol": "032350",
+      "name": "롯데관광개발",
+      "rank": 349,
+      "expected_open": 10240,
+      "expected_close": 10234.87
+    },
+    {
+      "symbol": "002710",
+      "name": "TCC스틸",
+      "rank": 350,
+      "expected_open": 9340,
+      "expected_close": 9335.3
+    },
+    {
+      "symbol": "302440",
+      "name": "SK바이오사이언스",
+      "rank": 351,
+      "expected_open": 38350,
+      "expected_close": 38330.55
+    },
+    {
+      "symbol": "084690",
+      "name": "대상홀딩스",
+      "rank": 352,
+      "expected_open": 7160,
+      "expected_close": 7156.29
+    },
+    {
+      "symbol": "004985",
+      "name": "성신양회우",
+      "rank": 353,
+      "expected_open": 8770,
+      "expected_close": 8765.43
+    },
+    {
+      "symbol": "489790",
+      "name": "한화비전",
+      "rank": 354,
+      "expected_open": 38700,
+      "expected_close": 38679.76
+    },
+    {
+      "symbol": "200880",
+      "name": "서연이화",
+      "rank": 355,
+      "expected_open": 9660,
+      "expected_close": 9654.88
+    },
+    {
+      "symbol": "214390",
+      "name": "경보제약",
+      "rank": 356,
+      "expected_open": 5020,
+      "expected_close": 5017.27
+    },
+    {
+      "symbol": "003720",
+      "name": "삼영",
+      "rank": 357,
+      "expected_open": 4575,
+      "expected_close": 4572.49
+    },
+    {
+      "symbol": "026960",
+      "name": "동서",
+      "rank": 358,
+      "expected_open": 28400,
+      "expected_close": 28384.35
+    },
+    {
+      "symbol": "006220",
+      "name": "제주은행",
+      "rank": 359,
+      "expected_open": 8140,
+      "expected_close": 8135.44
+    },
+    {
+      "symbol": "005180",
+      "name": "빙그레",
+      "rank": 360,
+      "expected_open": 81600,
+      "expected_close": 81554.24
+    },
+    {
+      "symbol": "005389",
+      "name": "현대차3우B",
+      "rank": 361,
+      "expected_open": 148400,
+      "expected_close": 148316.61
+    },
+    {
+      "symbol": "002150",
+      "name": "도화엔지니어링",
+      "rank": 362,
+      "expected_open": 5290,
+      "expected_close": 5287.02
+    },
+    {
+      "symbol": "003070",
+      "name": "코오롱글로벌",
+      "rank": 363,
+      "expected_open": 8550,
+      "expected_close": 8545.16
+    },
+    {
+      "symbol": "009150",
+      "name": "삼성전기",
+      "rank": 364,
+      "expected_open": 894000,
+      "expected_close": 893493.7
+    },
+    {
+      "symbol": "105630",
+      "name": "한세실업",
+      "rank": 365,
+      "expected_open": 8220,
+      "expected_close": 8215.29
+    },
+    {
+      "symbol": "021050",
+      "name": "서원",
+      "rank": 366,
+      "expected_open": 952,
+      "expected_close": 951.45
+    },
+    {
+      "symbol": "002070",
+      "name": "비비안",
+      "rank": 367,
+      "expected_open": 3205,
+      "expected_close": 3203.14
+    },
+    {
+      "symbol": "004990",
+      "name": "롯데지주",
+      "rank": 368,
+      "expected_open": 22600,
+      "expected_close": 22586.83
+    },
+    {
+      "symbol": "001260",
+      "name": "남광토건",
+      "rank": 369,
+      "expected_open": 7670,
+      "expected_close": 7665.53
+    },
+    {
+      "symbol": "025620",
+      "name": "차AI헬스케어",
+      "rank": 370,
+      "expected_open": 4995,
+      "expected_close": 4992.08
+    },
+    {
+      "symbol": "000880",
+      "name": "한화",
+      "rank": 371,
+      "expected_open": 82300,
+      "expected_close": 82251.83
+    },
+    {
+      "symbol": "207940",
+      "name": "삼성바이오로직스",
+      "rank": 372,
+      "expected_open": 1508000,
+      "expected_close": 1507113.67
+    },
+    {
+      "symbol": "023530",
+      "name": "롯데쇼핑",
+      "rank": 373,
+      "expected_open": 90800,
+      "expected_close": 90746.56
+    },
+    {
+      "symbol": "001750",
+      "name": "한양증권",
+      "rank": 374,
+      "expected_open": 18340,
+      "expected_close": 18329.19
+    },
+    {
+      "symbol": "005257",
+      "name": "녹십자홀딩스2우",
+      "rank": 375,
+      "expected_open": 16900,
+      "expected_close": 16889.98
+    },
+    {
+      "symbol": "339770",
+      "name": "교촌에프앤비",
+      "rank": 376,
+      "expected_open": 3760,
+      "expected_close": 3757.74
+    },
+    {
+      "symbol": "062040",
+      "name": "산일전기",
+      "rank": 377,
+      "expected_open": 120300,
+      "expected_close": 120226.78
+    },
+    {
+      "symbol": "004100",
+      "name": "태양금속",
+      "rank": 378,
+      "expected_open": 2980,
+      "expected_close": 2978.16
+    },
+    {
+      "symbol": "058730",
+      "name": "다스코",
+      "rank": 379,
+      "expected_open": 2630,
+      "expected_close": 2628.37
+    },
+    {
+      "symbol": "285130",
+      "name": "SK케미칼",
+      "rank": 380,
+      "expected_open": 43450,
+      "expected_close": 43423.07
+    },
+    {
+      "symbol": "210540",
+      "name": "디와이파워",
+      "rank": 381,
+      "expected_open": 10330,
+      "expected_close": 10323.48
+    },
+    {
+      "symbol": "138930",
+      "name": "BNK금융지주",
+      "rank": 382,
+      "expected_open": 13040,
+      "expected_close": 13031.7
+    },
+    {
+      "symbol": "092440",
+      "name": "기신정기",
+      "rank": 383,
+      "expected_open": 1838,
+      "expected_close": 1836.83
+    },
+    {
+      "symbol": "035510",
+      "name": "신세계 I&C",
+      "rank": 384,
+      "expected_open": 12990,
+      "expected_close": 12981.67
+    },
+    {
+      "symbol": "005250",
+      "name": "녹십자홀딩스",
+      "rank": 385,
+      "expected_open": 9460,
+      "expected_close": 9453.93
+    },
+    {
+      "symbol": "025530",
+      "name": "SJM홀딩스",
+      "rank": 386,
+      "expected_open": 3450,
+      "expected_close": 3447.77
+    },
+    {
+      "symbol": "100220",
+      "name": "비상교육",
+      "rank": 387,
+      "expected_open": 4775,
+      "expected_close": 4771.89
+    },
+    {
+      "symbol": "004840",
+      "name": "DRB동일",
+      "rank": 388,
+      "expected_open": 3755,
+      "expected_close": 3752.54
+    },
+    {
+      "symbol": "003000",
+      "name": "부광약품",
+      "rank": 389,
+      "expected_open": 3810,
+      "expected_close": 3807.48
+    },
+    {
+      "symbol": "051900",
+      "name": "LG생활건강",
+      "rank": 390,
+      "expected_open": 233500,
+      "expected_close": 233339.65
+    },
+    {
+      "symbol": "180640",
+      "name": "한진칼",
+      "rank": 391,
+      "expected_open": 196700,
+      "expected_close": 196562.95
+    },
+    {
+      "symbol": "024110",
+      "name": "기업은행",
+      "rank": 392,
+      "expected_open": 19400,
+      "expected_close": 19386.32
+    },
+    {
+      "symbol": "001780",
+      "name": "알루코",
+      "rank": 393,
+      "expected_open": 1314,
+      "expected_close": 1313.07
+    },
+    {
+      "symbol": "030720",
+      "name": "동원수산",
+      "rank": 394,
+      "expected_open": 4995,
+      "expected_close": 4991.44
+    },
+    {
+      "symbol": "178920",
+      "name": "PI첨단소재",
+      "rank": 395,
+      "expected_open": 14010,
+      "expected_close": 14000
+    },
+    {
+      "symbol": "005720",
+      "name": "넥센",
+      "rank": 396,
+      "expected_open": 6050,
+      "expected_close": 6045.67
+    },
+    {
+      "symbol": "069730",
+      "name": "DSR제강",
+      "rank": 397,
+      "expected_open": 5180,
+      "expected_close": 5176.27
+    },
+    {
+      "symbol": "025890",
+      "name": "한국주강",
+      "rank": 398,
+      "expected_open": 2575,
+      "expected_close": 2573.14
+    },
+    {
+      "symbol": "005830",
+      "name": "DB손해보험",
+      "rank": 399,
+      "expected_open": 171600,
+      "expected_close": 171474.43
+    },
+    {
+      "symbol": "170900",
+      "name": "동아에스티",
+      "rank": 400,
+      "expected_open": 33750,
+      "expected_close": 33725.26
+    },
+    {
+      "symbol": "002030",
+      "name": "아세아",
+      "rank": 401,
+      "expected_open": 198400,
+      "expected_close": 198254.15
+    },
+    {
+      "symbol": "042660",
+      "name": "한화오션",
+      "rank": 402,
+      "expected_open": 47650,
+      "expected_close": 47614.88
+    },
+    {
+      "symbol": "000220",
+      "name": "유유제약",
+      "rank": 403,
+      "expected_open": 3710,
+      "expected_close": 3707.26
+    },
+    {
+      "symbol": "007570",
+      "name": "일양약품",
+      "rank": 404,
+      "expected_open": 6630,
+      "expected_close": 6625.08
+    },
+    {
+      "symbol": "017860",
+      "name": "DS단석",
+      "rank": 405,
+      "expected_open": 9060,
+      "expected_close": 9053.26
+    },
+    {
+      "symbol": "003925",
+      "name": "남양유업우",
+      "rank": 406,
+      "expected_open": 28200,
+      "expected_close": 28178.76
+    },
+    {
+      "symbol": "066570",
+      "name": "LG전자",
+      "rank": 407,
+      "expected_open": 139500,
+      "expected_close": 139393.74
+    },
+    {
+      "symbol": "034310",
+      "name": "NICE",
+      "rank": 408,
+      "expected_open": 11870,
+      "expected_close": 11860.88
+    },
+    {
+      "symbol": "033920",
+      "name": "무학",
+      "rank": 409,
+      "expected_open": 7260,
+      "expected_close": 7254.41
+    },
+    {
+      "symbol": "004270",
+      "name": "남성",
+      "rank": 410,
+      "expected_open": 5230,
+      "expected_close": 5225.96
+    },
+    {
+      "symbol": "091810",
+      "name": "트리니티항공",
+      "rank": 411,
+      "expected_open": 2290,
+      "expected_close": 2288.21
+    },
+    {
+      "symbol": "000990",
+      "name": "DB하이텍",
+      "rank": 412,
+      "expected_open": 85800,
+      "expected_close": 85732.04
+    },
+    {
+      "symbol": "010960",
+      "name": "삼호개발",
+      "rank": 413,
+      "expected_open": 2925,
+      "expected_close": 2922.68
+    },
+    {
+      "symbol": "000760",
+      "name": "이화산업",
+      "rank": 414,
+      "expected_open": 11550,
+      "expected_close": 11540.82
+    },
+    {
+      "symbol": "006060",
+      "name": "화승인더",
+      "rank": 415,
+      "expected_open": 2070,
+      "expected_close": 2068.33
+    },
+    {
+      "symbol": "003545",
+      "name": "대신증권우",
+      "rank": 416,
+      "expected_open": 18000,
+      "expected_close": 17985.46
+    },
+    {
+      "symbol": "071320",
+      "name": "지역난방공사",
+      "rank": 417,
+      "expected_open": 70900,
+      "expected_close": 70841.91
+    },
+    {
+      "symbol": "454910",
+      "name": "두산로보틱스",
+      "rank": 418,
+      "expected_open": 50300,
+      "expected_close": 50258.38
+    },
+    {
+      "symbol": "004080",
+      "name": "신흥",
+      "rank": 419,
+      "expected_open": 14500,
+      "expected_close": 14487.95
+    },
+    {
+      "symbol": "051905",
+      "name": "LG생활건강우",
+      "rank": 420,
+      "expected_open": 90400,
+      "expected_close": 90323.71
+    },
+    {
+      "symbol": "185750",
+      "name": "종근당",
+      "rank": 421,
+      "expected_open": 62400,
+      "expected_close": 62347.3
+    },
+    {
+      "symbol": "000540",
+      "name": "흥국화재",
+      "rank": 422,
+      "expected_open": 3075,
+      "expected_close": 3072.37
+    },
+    {
+      "symbol": "014915",
+      "name": "성문전자우",
+      "rank": 423,
+      "expected_open": 4340,
+      "expected_close": 4336.25
+    },
+    {
+      "symbol": "072710",
+      "name": "농심홀딩스",
+      "rank": 424,
+      "expected_open": 84100,
+      "expected_close": 84027.27
+    },
+    {
+      "symbol": "010040",
+      "name": "한국내화",
+      "rank": 425,
+      "expected_open": 1520,
+      "expected_close": 1518.68
+    },
+    {
+      "symbol": "006260",
+      "name": "LS",
+      "rank": 426,
+      "expected_open": 175500,
+      "expected_close": 175346.53
+    },
+    {
+      "symbol": "078000",
+      "name": "텔코웨어",
+      "rank": 427,
+      "expected_open": 12880,
+      "expected_close": 12868.72
+    },
+    {
+      "symbol": "241590",
+      "name": "화승엔터프라이즈",
+      "rank": 428,
+      "expected_open": 2480,
+      "expected_close": 2477.82
+    },
+    {
+      "symbol": "006400",
+      "name": "삼성SDI",
+      "rank": 429,
+      "expected_open": 474500,
+      "expected_close": 474081.42
+    },
+    {
+      "symbol": "000210",
+      "name": "DL",
+      "rank": 430,
+      "expected_open": 45050,
+      "expected_close": 45010.08
+    },
+    {
+      "symbol": "085620",
+      "name": "미래에셋생명",
+      "rank": 431,
+      "expected_open": 18460,
+      "expected_close": 18443.33
+    },
+    {
+      "symbol": "123890",
+      "name": "한국자산신탁",
+      "rank": 432,
+      "expected_open": 2270,
+      "expected_close": 2267.95
+    },
+    {
+      "symbol": "009900",
+      "name": "명신산업",
+      "rank": 433,
+      "expected_open": 6640,
+      "expected_close": 6633.99
+    },
+    {
+      "symbol": "004835",
+      "name": "덕성우",
+      "rank": 434,
+      "expected_open": 5380,
+      "expected_close": 5375.11
+    },
+    {
+      "symbol": "011500",
+      "name": "한농화성",
+      "rank": 435,
+      "expected_open": 11230,
+      "expected_close": 11219.78
+    },
+    {
+      "symbol": "001450",
+      "name": "현대해상",
+      "rank": 436,
+      "expected_open": 41600,
+      "expected_close": 41561.64
+    },
+    {
+      "symbol": "016610",
+      "name": "DB증권",
+      "rank": 437,
+      "expected_open": 8960,
+      "expected_close": 8951.57
+    },
+    {
+      "symbol": "011780",
+      "name": "금호석유화학",
+      "rank": 438,
+      "expected_open": 93400,
+      "expected_close": 93310.79
+    },
+    {
+      "symbol": "417310",
+      "name": "코람코더원리츠",
+      "rank": 439,
+      "expected_open": 2405,
+      "expected_close": 2402.7
+    },
+    {
+      "symbol": "000520",
+      "name": "삼일제약",
+      "rank": 440,
+      "expected_open": 7450,
+      "expected_close": 7442.85
+    },
+    {
+      "symbol": "011760",
+      "name": "현대코퍼레이션",
+      "rank": 441,
+      "expected_open": 21800,
+      "expected_close": 21779.05
+    },
+    {
+      "symbol": "032560",
+      "name": "황금에스티",
+      "rank": 442,
+      "expected_open": 5160,
+      "expected_close": 5155.04
+    },
+    {
+      "symbol": "002920",
+      "name": "유성기업",
+      "rank": 443,
+      "expected_open": 1560,
+      "expected_close": 1558.5
+    },
+    {
+      "symbol": "005090",
+      "name": "SGC에너지",
+      "rank": 444,
+      "expected_open": 34600,
+      "expected_close": 34566.64
+    },
+    {
+      "symbol": "016800",
+      "name": "퍼시스",
+      "rank": 445,
+      "expected_open": 24700,
+      "expected_close": 24676.14
+    },
+    {
+      "symbol": "002210",
+      "name": "동성제약",
+      "rank": 446,
+      "expected_open": 1161,
+      "expected_close": 1159.87
+    },
+    {
+      "symbol": "030210",
+      "name": "다올투자증권",
+      "rank": 447,
+      "expected_open": 3440,
+      "expected_close": 3436.64
+    },
+    {
+      "symbol": "071050",
+      "name": "한국금융지주",
+      "rank": 448,
+      "expected_open": 123800,
+      "expected_close": 123678.73
+    },
+    {
+      "symbol": "017370",
+      "name": "우신시스템",
+      "rank": 449,
+      "expected_open": 3470,
+      "expected_close": 3466.6
+    },
+    {
+      "symbol": "003475",
+      "name": "유안타증권우",
+      "rank": 450,
+      "expected_open": 3740,
+      "expected_close": 3736.33
+    },
+    {
+      "symbol": "004690",
+      "name": "삼천리",
+      "rank": 451,
+      "expected_open": 118000,
+      "expected_close": 117882.49
+    },
+    {
+      "symbol": "090350",
+      "name": "노루페인트",
+      "rank": 452,
+      "expected_open": 7890,
+      "expected_close": 7882.12
+    },
+    {
+      "symbol": "018470",
+      "name": "조일알미늄",
+      "rank": 453,
+      "expected_open": 4710,
+      "expected_close": 4705.29
+    },
+    {
+      "symbol": "005820",
+      "name": "원림",
+      "rank": 454,
+      "expected_open": 13380,
+      "expected_close": 13366.57
+    },
+    {
+      "symbol": "268280",
+      "name": "미원에스씨",
+      "rank": 455,
+      "expected_open": 132100,
+      "expected_close": 131967.03
+    },
+    {
+      "symbol": "003850",
+      "name": "보령",
+      "rank": 456,
+      "expected_open": 8560,
+      "expected_close": 8551.32
+    },
+    {
+      "symbol": "011300",
+      "name": "우성머티리얼스",
+      "rank": 457,
+      "expected_open": 1798,
+      "expected_close": 1796.17
+    },
+    {
+      "symbol": "004000",
+      "name": "롯데정밀화학",
+      "rank": 458,
+      "expected_open": 33700,
+      "expected_close": 33665.69
+    },
+    {
+      "symbol": "002700",
+      "name": "신일전자",
+      "rank": 459,
+      "expected_open": 927,
+      "expected_close": 926.05
+    },
+    {
+      "symbol": "095570",
+      "name": "AJ네트웍스",
+      "rank": 460,
+      "expected_open": 4030,
+      "expected_close": 4025.85
+    },
+    {
+      "symbol": "072130",
+      "name": "유엔젤",
+      "rank": 461,
+      "expected_open": 4235,
+      "expected_close": 4230.58
+    },
+    {
+      "symbol": "105840",
+      "name": "우진",
+      "rank": 462,
+      "expected_open": 8260,
+      "expected_close": 8251.34
+    },
+    {
+      "symbol": "344820",
+      "name": "KCC글라스",
+      "rank": 463,
+      "expected_open": 22000,
+      "expected_close": 21976.82
+    },
+    {
+      "symbol": "012450",
+      "name": "한화에어로스페이스",
+      "rank": 464,
+      "expected_open": 659000,
+      "expected_close": 658302.66
+    },
+    {
+      "symbol": "017390",
+      "name": "서울가스",
+      "rank": 465,
+      "expected_open": 51900,
+      "expected_close": 51844.63
+    },
+    {
+      "symbol": "006880",
+      "name": "신송홀딩스",
+      "rank": 466,
+      "expected_open": 3865,
+      "expected_close": 3860.85
+    },
+    {
+      "symbol": "082740",
+      "name": "한화엔진",
+      "rank": 467,
+      "expected_open": 24650,
+      "expected_close": 24623.46
+    },
+    {
+      "symbol": "000400",
+      "name": "롯데손해보험",
+      "rank": 468,
+      "expected_open": 2500,
+      "expected_close": 2497.29
+    },
+    {
+      "symbol": "041650",
+      "name": "상신브레이크",
+      "rank": 469,
+      "expected_open": 1814,
+      "expected_close": 1812.03
+    },
+    {
+      "symbol": "030190",
+      "name": "NICE평가정보",
+      "rank": 470,
+      "expected_open": 17860,
+      "expected_close": 17840.45
+    },
+    {
+      "symbol": "293480",
+      "name": "하나제약",
+      "rank": 471,
+      "expected_open": 8110,
+      "expected_close": 8101.11
+    },
+    {
+      "symbol": "272450",
+      "name": "진에어",
+      "rank": 472,
+      "expected_open": 5970,
+      "expected_close": 5963.36
+    },
+    {
+      "symbol": "078520",
+      "name": "에이블씨엔씨",
+      "rank": 473,
+      "expected_open": 8910,
+      "expected_close": 8900.09
+    },
+    {
+      "symbol": "029530",
+      "name": "신도리코",
+      "rank": 474,
+      "expected_open": 35900,
+      "expected_close": 35860.06
+    },
+    {
+      "symbol": "395400",
+      "name": "SK리츠",
+      "rank": 475,
+      "expected_open": 4735,
+      "expected_close": 4729.69
+    },
+    {
+      "symbol": "120115",
+      "name": "코오롱인더우",
+      "rank": 476,
+      "expected_open": 21950,
+      "expected_close": 21925.35
+    },
+    {
+      "symbol": "460850",
+      "name": "동국씨엠",
+      "rank": 477,
+      "expected_open": 4430,
+      "expected_close": 4425.01
+    },
+    {
+      "symbol": "009240",
+      "name": "한샘",
+      "rank": 478,
+      "expected_open": 39950,
+      "expected_close": 39904.46
+    },
+    {
+      "symbol": "001360",
+      "name": "삼성제약",
+      "rank": 479,
+      "expected_open": 1227,
+      "expected_close": 1225.6
+    },
+    {
+      "symbol": "090355",
+      "name": "노루페인트우",
+      "rank": 480,
+      "expected_open": 11960,
+      "expected_close": 11946.24
+    },
+    {
+      "symbol": "096760",
+      "name": "JW홀딩스",
+      "rank": 481,
+      "expected_open": 3630,
+      "expected_close": 3625.82
+    },
+    {
+      "symbol": "475560",
+      "name": "더본코리아",
+      "rank": 482,
+      "expected_open": 12890,
+      "expected_close": 12875.05
+    },
+    {
+      "symbol": "005680",
+      "name": "삼영전자",
+      "rank": 483,
+      "expected_open": 10960,
+      "expected_close": 10947.26
+    },
+    {
+      "symbol": "271940",
+      "name": "일진하이솔루스",
+      "rank": 484,
+      "expected_open": 9900,
+      "expected_close": 9888.47
+    },
+    {
+      "symbol": "192820",
+      "name": "코스맥스",
+      "rank": 485,
+      "expected_open": 255000,
+      "expected_close": 254701.03
+    },
+    {
+      "symbol": "105560",
+      "name": "KB금융",
+      "rank": 486,
+      "expected_open": 152200,
+      "expected_close": 152021.07
+    },
+    {
+      "symbol": "019180",
+      "name": "티에이치엔",
+      "rank": 487,
+      "expected_open": 4305,
+      "expected_close": 4299.91
+    },
+    {
+      "symbol": "101140",
+      "name": "인바이오젠",
+      "rank": 488,
+      "expected_open": 5080,
+      "expected_close": 5073.97
+    },
+    {
+      "symbol": "005500",
+      "name": "삼진제약",
+      "rank": 489,
+      "expected_open": 20400,
+      "expected_close": 20375.75
+    },
+    {
+      "symbol": "001755",
+      "name": "한양증권우",
+      "rank": 490,
+      "expected_open": 18750,
+      "expected_close": 18727.44
+    },
+    {
+      "symbol": "028100",
+      "name": "동아지질",
+      "rank": 491,
+      "expected_open": 16800,
+      "expected_close": 16779.71
+    },
+    {
+      "symbol": "005740",
+      "name": "크라운해태홀딩스",
+      "rank": 492,
+      "expected_open": 4790,
+      "expected_close": 4784.21
+    },
+    {
+      "symbol": "004960",
+      "name": "한신공영",
+      "rank": 493,
+      "expected_open": 10140,
+      "expected_close": 10127.69
+    },
+    {
+      "symbol": "009155",
+      "name": "삼성전기우",
+      "rank": 494,
+      "expected_open": 326500,
+      "expected_close": 326103.04
+    },
+    {
+      "symbol": "004970",
+      "name": "신라교역",
+      "rank": 495,
+      "expected_open": 8940,
+      "expected_close": 8929.13
+    },
+    {
+      "symbol": "336370",
+      "name": "솔루스첨단소재",
+      "rank": 496,
+      "expected_open": 6350,
+      "expected_close": 6342.25
+    },
+    {
+      "symbol": "012320",
+      "name": "경동인베스트",
+      "rank": 497,
+      "expected_open": 40200,
+      "expected_close": 40150.62
+    },
+    {
+      "symbol": "010580",
+      "name": "에스엠벡셀",
+      "rank": 498,
+      "expected_open": 2595,
+      "expected_close": 2591.81
+    },
+    {
+      "symbol": "069260",
+      "name": "TKG휴켐스",
+      "rank": 499,
+      "expected_open": 15160,
+      "expected_close": 15141.36
+    },
+    {
+      "symbol": "126560",
+      "name": "현대퓨처넷",
+      "rank": 500,
+      "expected_open": 3200,
+      "expected_close": 3196.06
+    },
+    {
+      "symbol": "117580",
+      "name": "대성에너지",
+      "rank": 501,
+      "expected_open": 6750,
+      "expected_close": 6741.67
+    },
+    {
+      "symbol": "003230",
+      "name": "삼양식품",
+      "rank": 502,
+      "expected_open": 1180000,
+      "expected_close": 1178541.39
+    },
+    {
+      "symbol": "002350",
+      "name": "넥센타이어",
+      "rank": 503,
+      "expected_open": 6010,
+      "expected_close": 6002.56
+    },
+    {
+      "symbol": "002990",
+      "name": "금호건설",
+      "rank": 504,
+      "expected_open": 8080,
+      "expected_close": 8069.96
+    },
+    {
+      "symbol": "004365",
+      "name": "세방우",
+      "rank": 505,
+      "expected_open": 8010,
+      "expected_close": 8000.04
+    },
+    {
+      "symbol": "001130",
+      "name": "대한제분",
+      "rank": 506,
+      "expected_open": 10560,
+      "expected_close": 10546.8
+    },
+    {
+      "symbol": "070960",
+      "name": "모나용평",
+      "rank": 507,
+      "expected_open": 1814,
+      "expected_close": 1811.73
+    },
+    {
+      "symbol": "014820",
+      "name": "동원시스템즈",
+      "rank": 508,
+      "expected_open": 21150,
+      "expected_close": 21123.52
+    },
+    {
+      "symbol": "084680",
+      "name": "이월드",
+      "rank": 509,
+      "expected_open": 2010,
+      "expected_close": 2007.48
+    },
+    {
+      "symbol": "001250",
+      "name": "GS글로벌",
+      "rank": 510,
+      "expected_open": 2515,
+      "expected_close": 2511.84
+    },
+    {
+      "symbol": "003547",
+      "name": "대신증권2우B",
+      "rank": 511,
+      "expected_open": 17560,
+      "expected_close": 17537.93
+    },
+    {
+      "symbol": "071090",
+      "name": "하이스틸",
+      "rank": 512,
+      "expected_open": 2840,
+      "expected_close": 2836.4
+    },
+    {
+      "symbol": "005360",
+      "name": "모나미",
+      "rank": 513,
+      "expected_open": 804,
+      "expected_close": 802.98
+    },
+    {
+      "symbol": "000850",
+      "name": "화천기공",
+      "rank": 514,
+      "expected_open": 36500,
+      "expected_close": 36453.57
+    },
+    {
+      "symbol": "001550",
+      "name": "조비",
+      "rank": 515,
+      "expected_open": 9220,
+      "expected_close": 9208.15
+    },
+    {
+      "symbol": "007860",
+      "name": "서연",
+      "rank": 516,
+      "expected_open": 6660,
+      "expected_close": 6651.41
+    },
+    {
+      "symbol": "005960",
+      "name": "동부건설",
+      "rank": 517,
+      "expected_open": 7280,
+      "expected_close": 7270.46
+    },
+    {
+      "symbol": "014680",
+      "name": "한솔케미칼",
+      "rank": 518,
+      "expected_open": 173500,
+      "expected_close": 173272.07
+    },
+    {
+      "symbol": "000590",
+      "name": "CS홀딩스",
+      "rank": 519,
+      "expected_open": 72200,
+      "expected_close": 72104.89
+    },
+    {
+      "symbol": "002025",
+      "name": "코오롱우",
+      "rank": 520,
+      "expected_open": 10950,
+      "expected_close": 10935.54
+    },
+    {
+      "symbol": "006120",
+      "name": "SK디스커버리",
+      "rank": 521,
+      "expected_open": 63400,
+      "expected_close": 63316.18
+    },
+    {
+      "symbol": "005945",
+      "name": "NH투자증권우",
+      "rank": 522,
+      "expected_open": 19900,
+      "expected_close": 19873.63
+    },
+    {
+      "symbol": "031820",
+      "name": "아이티센씨티에스",
+      "rank": 523,
+      "expected_open": 4855,
+      "expected_close": 4848.56
+    },
+    {
+      "symbol": "001685",
+      "name": "대상우",
+      "rank": 524,
+      "expected_open": 14000,
+      "expected_close": 13981.39
+    },
+    {
+      "symbol": "372910",
+      "name": "한컴라이프케어",
+      "rank": 525,
+      "expected_open": 1638,
+      "expected_close": 1635.82
+    },
+    {
+      "symbol": "071840",
+      "name": "롯데하이마트",
+      "rank": 526,
+      "expected_open": 5500,
+      "expected_close": 5492.67
+    },
+    {
+      "symbol": "003350",
+      "name": "한국화장품제조",
+      "rank": 527,
+      "expected_open": 12130,
+      "expected_close": 12113.82
+    },
+    {
+      "symbol": "009180",
+      "name": "한솔로지스틱스",
+      "rank": 528,
+      "expected_open": 2665,
+      "expected_close": 2661.44
+    },
+    {
+      "symbol": "000545",
+      "name": "흥국화재우",
+      "rank": 529,
+      "expected_open": 5440,
+      "expected_close": 5432.72
+    },
+    {
+      "symbol": "005950",
+      "name": "이수화학",
+      "rank": 530,
+      "expected_open": 8320,
+      "expected_close": 8308.86
+    },
+    {
+      "symbol": "004310",
+      "name": "현대약품",
+      "rank": 531,
+      "expected_open": 6130,
+      "expected_close": 6121.77
+    },
+    {
+      "symbol": "006660",
+      "name": "삼성공조",
+      "rank": 532,
+      "expected_open": 9500,
+      "expected_close": 9487.23
+    },
+    {
+      "symbol": "123700",
+      "name": "SJM",
+      "rank": 533,
+      "expected_open": 3115,
+      "expected_close": 3110.78
+    },
+    {
+      "symbol": "002220",
+      "name": "한일철강",
+      "rank": 534,
+      "expected_open": 3100,
+      "expected_close": 3095.8
+    },
+    {
+      "symbol": "083420",
+      "name": "그린케미칼",
+      "rank": 535,
+      "expected_open": 4300,
+      "expected_close": 4294.15
+    },
+    {
+      "symbol": "192080",
+      "name": "더블유게임즈",
+      "rank": 536,
+      "expected_open": 55000,
+      "expected_close": 54925.08
+    },
+    {
+      "symbol": "002310",
+      "name": "아세아제지",
+      "rank": 537,
+      "expected_open": 6970,
+      "expected_close": 6960.49
+    },
+    {
+      "symbol": "008870",
+      "name": "금비",
+      "rank": 538,
+      "expected_open": 38850,
+      "expected_close": 38796.55
+    },
+    {
+      "symbol": "293940",
+      "name": "신한알파리츠",
+      "rank": 539,
+      "expected_open": 5570,
+      "expected_close": 5562.33
+    },
+    {
+      "symbol": "094800",
+      "name": "맵스리얼티",
+      "rank": 540,
+      "expected_open": 6290,
+      "expected_close": 6281.33
+    },
+    {
+      "symbol": "234080",
+      "name": "JW생명과학",
+      "rank": 541,
+      "expected_open": 10480,
+      "expected_close": 10465.46
+    },
+    {
+      "symbol": "000070",
+      "name": "삼양홀딩스",
+      "rank": 542,
+      "expected_open": 52100,
+      "expected_close": 52027.64
+    },
+    {
+      "symbol": "004830",
+      "name": "덕성",
+      "rank": 543,
+      "expected_open": 3420,
+      "expected_close": 3415.25
+    },
+    {
+      "symbol": "012200",
+      "name": "계양전기",
+      "rank": 544,
+      "expected_open": 2390,
+      "expected_close": 2386.68
+    },
+    {
+      "symbol": "033530",
+      "name": "SJG세종",
+      "rank": 545,
+      "expected_open": 5370,
+      "expected_close": 5362.53
+    },
+    {
+      "symbol": "016450",
+      "name": "한세예스24홀딩스",
+      "rank": 546,
+      "expected_open": 4225,
+      "expected_close": 4219.03
+    },
+    {
+      "symbol": "294870",
+      "name": "IPARK현대산업개발",
+      "rank": 547,
+      "expected_open": 23900,
+      "expected_close": 23866.18
+    },
+    {
+      "symbol": "128940",
+      "name": "한미약품",
+      "rank": 548,
+      "expected_open": 465500,
+      "expected_close": 464836.04
+    },
+    {
+      "symbol": "029460",
+      "name": "케이씨",
+      "rank": 549,
+      "expected_open": 34000,
+      "expected_close": 33951.39
+    },
+    {
+      "symbol": "002690",
+      "name": "동일제강",
+      "rank": 550,
+      "expected_open": 1090,
+      "expected_close": 1088.44
+    },
+    {
+      "symbol": "317400",
+      "name": "자이에스앤디",
+      "rank": 551,
+      "expected_open": 7250,
+      "expected_close": 7239.62
+    },
+    {
+      "symbol": "090430",
+      "name": "아모레퍼시픽",
+      "rank": 552,
+      "expected_open": 132600,
+      "expected_close": 132408.42
+    },
+    {
+      "symbol": "373220",
+      "name": "LG에너지솔루션",
+      "rank": 553,
+      "expected_open": 338000,
+      "expected_close": 337511.12
+    },
+    {
+      "symbol": "001530",
+      "name": "DI동일",
+      "rank": 554,
+      "expected_open": 23350,
+      "expected_close": 23316.15
+    },
+    {
+      "symbol": "001790",
+      "name": "대한제당",
+      "rank": 555,
+      "expected_open": 2735,
+      "expected_close": 2731.03
+    },
+    {
+      "symbol": "014530",
+      "name": "극동유화",
+      "rank": 556,
+      "expected_open": 3135,
+      "expected_close": 3130.44
+    },
+    {
+      "symbol": "298690",
+      "name": "에어부산",
+      "rank": 557,
+      "expected_open": 1556,
+      "expected_close": 1553.72
+    },
+    {
+      "symbol": "145990",
+      "name": "삼양사",
+      "rank": 558,
+      "expected_open": 43350,
+      "expected_close": 43286.31
+    },
+    {
+      "symbol": "123690",
+      "name": "한국화장품",
+      "rank": 559,
+      "expected_open": 5070,
+      "expected_close": 5062.55
+    },
+    {
+      "symbol": "264900",
+      "name": "크라운제과",
+      "rank": 560,
+      "expected_open": 7060,
+      "expected_close": 7049.62
+    },
+    {
+      "symbol": "450080",
+      "name": "에코프로머티",
+      "rank": 561,
+      "expected_open": 26700,
+      "expected_close": 26660.68
+    },
+    {
+      "symbol": "027410",
+      "name": "BGF",
+      "rank": 562,
+      "expected_open": 3580,
+      "expected_close": 3574.71
+    },
+    {
+      "symbol": "108675",
+      "name": "LX하우시스우",
+      "rank": 563,
+      "expected_open": 16800,
+      "expected_close": 16775.15
+    },
+    {
+      "symbol": "010780",
+      "name": "아이에스동서",
+      "rank": 564,
+      "expected_open": 13750,
+      "expected_close": 13729.48
+    },
+    {
+      "symbol": "088980",
+      "name": "맥쿼리인프라",
+      "rank": 565,
+      "expected_open": 9660,
+      "expected_close": 9645.57
+    },
+    {
+      "symbol": "008420",
+      "name": "문배철강",
+      "rank": 566,
+      "expected_open": 1881,
+      "expected_close": 1878.19
+    },
+    {
+      "symbol": "004910",
+      "name": "조광페인트",
+      "rank": 567,
+      "expected_open": 2785,
+      "expected_close": 2780.81
+    },
+    {
+      "symbol": "009270",
+      "name": "신원",
+      "rank": 568,
+      "expected_open": 1011,
+      "expected_close": 1009.47
+    },
+    {
+      "symbol": "044450",
+      "name": "KSS해운",
+      "rank": 569,
+      "expected_open": 11660,
+      "expected_close": 11642.34
+    },
+    {
+      "symbol": "039490",
+      "name": "키움증권",
+      "rank": 570,
+      "expected_open": 188700,
+      "expected_close": 188413.61
+    },
+    {
+      "symbol": "383800",
+      "name": "LX홀딩스",
+      "rank": 571,
+      "expected_open": 7180,
+      "expected_close": 7169.1
+    },
+    {
+      "symbol": "079550",
+      "name": "LIG디펜스앤에어로스페이스",
+      "rank": 572,
+      "expected_open": 320000,
+      "expected_close": 319511.01
+    },
+    {
+      "symbol": "018500",
+      "name": "동원모빌리티",
+      "rank": 573,
+      "expected_open": 1208,
+      "expected_close": 1206.15
+    },
+    {
+      "symbol": "006040",
+      "name": "동원산업",
+      "rank": 574,
+      "expected_open": 36100,
+      "expected_close": 36044.57
+    },
+    {
+      "symbol": "016710",
+      "name": "대성홀딩스",
+      "rank": 575,
+      "expected_open": 6660,
+      "expected_close": 6649.77
+    },
+    {
+      "symbol": "012800",
+      "name": "대창",
+      "rank": 576,
+      "expected_open": 957,
+      "expected_close": 955.53
+    },
+    {
+      "symbol": "092220",
+      "name": "KEC",
+      "rank": 577,
+      "expected_open": 2165,
+      "expected_close": 2161.65
+    },
+    {
+      "symbol": "002840",
+      "name": "미원상사",
+      "rank": 578,
+      "expected_open": 139000,
+      "expected_close": 138784.78
+    },
+    {
+      "symbol": "451800",
+      "name": "한화리츠",
+      "rank": 579,
+      "expected_open": 4385,
+      "expected_close": 4378.19
+    },
+    {
+      "symbol": "020560",
+      "name": "아시아나항공",
+      "rank": 580,
+      "expected_open": 7940,
+      "expected_close": 7927.64
+    },
+    {
+      "symbol": "002795",
+      "name": "아모레퍼시픽홀딩스우",
+      "rank": 581,
+      "expected_open": 10370,
+      "expected_close": 10353.78
+    },
+    {
+      "symbol": "021820",
+      "name": "세원정공",
+      "rank": 582,
+      "expected_open": 10070,
+      "expected_close": 10054.23
+    },
+    {
+      "symbol": "005745",
+      "name": "크라운해태홀딩스우",
+      "rank": 583,
+      "expected_open": 4750,
+      "expected_close": 4742.55
+    },
+    {
+      "symbol": "023590",
+      "name": "다우기술",
+      "rank": 584,
+      "expected_open": 29900,
+      "expected_close": 29852.4
+    },
+    {
+      "symbol": "035000",
+      "name": "HS애드",
+      "rank": 585,
+      "expected_open": 6180,
+      "expected_close": 6170.15
+    },
+    {
+      "symbol": "002995",
+      "name": "금호건설우",
+      "rank": 586,
+      "expected_open": 13400,
+      "expected_close": 13378.63
+    },
+    {
+      "symbol": "055550",
+      "name": "신한지주",
+      "rank": 587,
+      "expected_open": 87100,
+      "expected_close": 86960.97
+    },
+    {
+      "symbol": "001630",
+      "name": "종근당홀딩스",
+      "rank": 588,
+      "expected_open": 36100,
+      "expected_close": 36042.07
+    },
+    {
+      "symbol": "006125",
+      "name": "SK디스커버리우",
+      "rank": 589,
+      "expected_open": 39900,
+      "expected_close": 39835.47
+    },
+    {
+      "symbol": "003470",
+      "name": "유안타증권",
+      "rank": 590,
+      "expected_open": 3785,
+      "expected_close": 3778.87
+    },
+    {
+      "symbol": "089860",
+      "name": "롯데렌탈",
+      "rank": 591,
+      "expected_open": 58500,
+      "expected_close": 58404.87
+    },
+    {
+      "symbol": "111110",
+      "name": "호전실업",
+      "rank": 592,
+      "expected_open": 6090,
+      "expected_close": 6080.08
+    },
+    {
+      "symbol": "000640",
+      "name": "동아제약",
+      "rank": 593,
+      "expected_open": 86200,
+      "expected_close": 86058.53
+    },
+    {
+      "symbol": "013890",
+      "name": "지누스",
+      "rank": 594,
+      "expected_open": 6540,
+      "expected_close": 6529.16
+    },
+    {
+      "symbol": "036580",
+      "name": "팜스코",
+      "rank": 595,
+      "expected_open": 2315,
+      "expected_close": 2311.14
+    },
+    {
+      "symbol": "214320",
+      "name": "이노션",
+      "rank": 596,
+      "expected_open": 17760,
+      "expected_close": 17730.33
+    },
+    {
+      "symbol": "000815",
+      "name": "삼성화재우",
+      "rank": 597,
+      "expected_open": 378500,
+      "expected_close": 377865.39
+    },
+    {
+      "symbol": "009290",
+      "name": "광동제약",
+      "rank": 598,
+      "expected_open": 6250,
+      "expected_close": 6239.49
+    },
+    {
+      "symbol": "058860",
+      "name": "KTis",
+      "rank": 599,
+      "expected_open": 2510,
+      "expected_close": 2505.77
+    },
+    {
+      "symbol": "024720",
+      "name": "콜마홀딩스",
+      "rank": 600,
+      "expected_open": 8300,
+      "expected_close": 8285.96
+    },
+    {
+      "symbol": "006740",
+      "name": "블루산업개발",
+      "rank": 601,
+      "expected_open": 3290,
+      "expected_close": 3284.34
+    },
+    {
+      "symbol": "015360",
+      "name": "INVENI",
+      "rank": 602,
+      "expected_open": 13380,
+      "expected_close": 13356.88
+    },
+    {
+      "symbol": "000810",
+      "name": "삼성화재",
+      "rank": 603,
+      "expected_open": 602000,
+      "expected_close": 600957.03
+    },
+    {
+      "symbol": "015890",
+      "name": "태경산업",
+      "rank": 604,
+      "expected_open": 4510,
+      "expected_close": 4502.18
+    },
+    {
+      "symbol": "060980",
+      "name": "HL홀딩스",
+      "rank": 605,
+      "expected_open": 33450,
+      "expected_close": 33391.61
+    },
+    {
+      "symbol": "000970",
+      "name": "한국주철관",
+      "rank": 606,
+      "expected_open": 6340,
+      "expected_close": 6328.92
+    },
+    {
+      "symbol": "066575",
+      "name": "LG전자우",
+      "rank": 607,
+      "expected_open": 54400,
+      "expected_close": 54304.8
+    },
+    {
+      "symbol": "012280",
+      "name": "영화금속",
+      "rank": 608,
+      "expected_open": 3775,
+      "expected_close": 3768.33
+    },
+    {
+      "symbol": "415640",
+      "name": "KB발해인프라",
+      "rank": 609,
+      "expected_open": 9840,
+      "expected_close": 9822.39
+    },
+    {
+      "symbol": "002600",
+      "name": "조흥",
+      "rank": 610,
+      "expected_open": 139800,
+      "expected_close": 139549.42
+    },
+    {
+      "symbol": "003610",
+      "name": "방림",
+      "rank": 611,
+      "expected_open": 5680,
+      "expected_close": 5669.81
+    },
+    {
+      "symbol": "005880",
+      "name": "대한해운",
+      "rank": 612,
+      "expected_open": 1829,
+      "expected_close": 1825.71
+    },
+    {
+      "symbol": "000225",
+      "name": "유유제약1우",
+      "rank": 613,
+      "expected_open": 3385,
+      "expected_close": 3378.9
+    },
+    {
+      "symbol": "053210",
+      "name": "스카이라이프",
+      "rank": 614,
+      "expected_open": 3725,
+      "expected_close": 3718.27
+    },
+    {
+      "symbol": "009070",
+      "name": "KCTC",
+      "rank": 615,
+      "expected_open": 3485,
+      "expected_close": 3478.7
+    },
+    {
+      "symbol": "004710",
+      "name": "한솔테크닉스",
+      "rank": 616,
+      "expected_open": 6680,
+      "expected_close": 6667.9
+    },
+    {
+      "symbol": "002620",
+      "name": "제일파마홀딩스",
+      "rank": 617,
+      "expected_open": 6810,
+      "expected_close": 6797.64
+    },
+    {
+      "symbol": "026890",
+      "name": "스틱인베스트먼트",
+      "rank": 618,
+      "expected_open": 8240,
+      "expected_close": 8224.92
+    },
+    {
+      "symbol": "002100",
+      "name": "경농",
+      "rank": 619,
+      "expected_open": 8830,
+      "expected_close": 8813.72
+    },
+    {
+      "symbol": "002240",
+      "name": "고려제강",
+      "rank": 620,
+      "expected_open": 14210,
+      "expected_close": 14183.78
+    },
+    {
+      "symbol": "090080",
+      "name": "평화산업",
+      "rank": 621,
+      "expected_open": 820,
+      "expected_close": 818.48
+    },
+    {
+      "symbol": "007690",
+      "name": "국도화학",
+      "rank": 622,
+      "expected_open": 30300,
+      "expected_close": 30243.33
+    },
+    {
+      "symbol": "007210",
+      "name": "벽산",
+      "rank": 623,
+      "expected_open": 1265,
+      "expected_close": 1262.63
+    },
+    {
+      "symbol": "058650",
+      "name": "세아홀딩스",
+      "rank": 624,
+      "expected_open": 118800,
+      "expected_close": 118577.3
+    },
+    {
+      "symbol": "322000",
+      "name": "HD현대에너지솔루션",
+      "rank": 625,
+      "expected_open": 85500,
+      "expected_close": 85339.68
+    },
+    {
+      "symbol": "028670",
+      "name": "팬오션",
+      "rank": 626,
+      "expected_open": 4870,
+      "expected_close": 4860.8
+    },
+    {
+      "symbol": "001270",
+      "name": "부국증권",
+      "rank": 627,
+      "expected_open": 38400,
+      "expected_close": 38327.42
+    },
+    {
+      "symbol": "298000",
+      "name": "효성화학",
+      "rank": 628,
+      "expected_open": 33300,
+      "expected_close": 33236.98
+    },
+    {
+      "symbol": "267290",
+      "name": "경동도시가스",
+      "rank": 629,
+      "expected_open": 20500,
+      "expected_close": 20460.66
+    },
+    {
+      "symbol": "009835",
+      "name": "한화솔루션우",
+      "rank": 630,
+      "expected_open": 14970,
+      "expected_close": 14941.21
+    },
+    {
+      "symbol": "008355",
+      "name": "남선알미우",
+      "rank": 631,
+      "expected_open": 9440,
+      "expected_close": 9421.8
+    },
+    {
+      "symbol": "007590",
+      "name": "동방아그로",
+      "rank": 632,
+      "expected_open": 5390,
+      "expected_close": 5379.51
+    },
+    {
+      "symbol": "086790",
+      "name": "하나금융지주",
+      "rank": 633,
+      "expected_open": 118300,
+      "expected_close": 118069.47
+    },
+    {
+      "symbol": "094280",
+      "name": "효성ITX",
+      "rank": 634,
+      "expected_open": 11400,
+      "expected_close": 11377.77
+    },
+    {
+      "symbol": "128820",
+      "name": "대성산업",
+      "rank": 635,
+      "expected_open": 3715,
+      "expected_close": 3707.75
+    },
+    {
+      "symbol": "138040",
+      "name": "메리츠금융지주",
+      "rank": 636,
+      "expected_open": 131900,
+      "expected_close": 131642.04
+    },
+    {
+      "symbol": "003460",
+      "name": "유화증권",
+      "rank": 637,
+      "expected_open": 2795,
+      "expected_close": 2789.53
+    },
+    {
+      "symbol": "067830",
+      "name": "세이브존I&C",
+      "rank": 638,
+      "expected_open": 2035,
+      "expected_close": 2031.01
+    },
+    {
+      "symbol": "003690",
+      "name": "코리안리",
+      "rank": 639,
+      "expected_open": 13440,
+      "expected_close": 13413.64
+    },
+    {
+      "symbol": "383220",
+      "name": "F&F",
+      "rank": 640,
+      "expected_open": 64900,
+      "expected_close": 64772.43
+    },
+    {
+      "symbol": "014130",
+      "name": "한익스프레스",
+      "rank": 641,
+      "expected_open": 2255,
+      "expected_close": 2250.56
+    },
+    {
+      "symbol": "000150",
+      "name": "두산",
+      "rank": 642,
+      "expected_open": 655000,
+      "expected_close": 653697.34
+    },
+    {
+      "symbol": "194370",
+      "name": "제이에스코퍼레이션",
+      "rank": 643,
+      "expected_open": 11900,
+      "expected_close": 11876.28
+    },
+    {
+      "symbol": "097955",
+      "name": "CJ제일제당 우",
+      "rank": 644,
+      "expected_open": 100100,
+      "expected_close": 99900.04
+    },
+    {
+      "symbol": "003620",
+      "name": "KG모빌리티",
+      "rank": 645,
+      "expected_open": 2110,
+      "expected_close": 2105.77
+    },
+    {
+      "symbol": "000890",
+      "name": "보해양조",
+      "rank": 646,
+      "expected_open": 1190,
+      "expected_close": 1187.61
+    },
+    {
+      "symbol": "244920",
+      "name": "에이플러스에셋",
+      "rank": 647,
+      "expected_open": 12000,
+      "expected_close": 11975.87
+    },
+    {
+      "symbol": "025540",
+      "name": "한국단자",
+      "rank": 648,
+      "expected_open": 50400,
+      "expected_close": 50298.55
+    },
+    {
+      "symbol": "443060",
+      "name": "HD현대마린솔루션",
+      "rank": 649,
+      "expected_open": 162500,
+      "expected_close": 162171.41
+    },
+    {
+      "symbol": "145270",
+      "name": "케이탑리츠",
+      "rank": 650,
+      "expected_open": 844,
+      "expected_close": 842.29
+    },
+    {
+      "symbol": "114090",
+      "name": "GKL",
+      "rank": 651,
+      "expected_open": 8200,
+      "expected_close": 8183.28
+    },
+    {
+      "symbol": "267260",
+      "name": "HD현대일렉트릭",
+      "rank": 652,
+      "expected_open": 375000,
+      "expected_close": 374234.24
+    },
+    {
+      "symbol": "226320",
+      "name": "잇츠한불",
+      "rank": 653,
+      "expected_open": 10620,
+      "expected_close": 10598.24
+    },
+    {
+      "symbol": "002960",
+      "name": "한국쉘석유",
+      "rank": 654,
+      "expected_open": 519000,
+      "expected_close": 517929.33
+    },
+    {
+      "symbol": "000050",
+      "name": "경방",
+      "rank": 655,
+      "expected_open": 7250,
+      "expected_close": 7234.96
+    },
+    {
+      "symbol": "012205",
+      "name": "계양전기우",
+      "rank": 656,
+      "expected_open": 4395,
+      "expected_close": 4385.85
+    },
+    {
+      "symbol": "024070",
+      "name": "WISCOM",
+      "rank": 657,
+      "expected_open": 1750,
+      "expected_close": 1746.34
+    },
+    {
+      "symbol": "014830",
+      "name": "유니드",
+      "rank": 658,
+      "expected_open": 51000,
+      "expected_close": 50892.48
+    },
+    {
+      "symbol": "365550",
+      "name": "ESR켄달스퀘어리츠",
+      "rank": 659,
+      "expected_open": 2845,
+      "expected_close": 2839
+    },
+    {
+      "symbol": "010955",
+      "name": "S-Oil우",
+      "rank": 660,
+      "expected_open": 68400,
+      "expected_close": 68255.74
+    },
+    {
+      "symbol": "000140",
+      "name": "하이트진로홀딩스",
+      "rank": 661,
+      "expected_open": 7500,
+      "expected_close": 7484.17
+    },
+    {
+      "symbol": "014580",
+      "name": "태경비케이",
+      "rank": 662,
+      "expected_open": 3490,
+      "expected_close": 3482.62
+    },
+    {
+      "symbol": "002870",
+      "name": "신풍",
+      "rank": 663,
+      "expected_open": 954,
+      "expected_close": 951.98
+    },
+    {
+      "symbol": "003920",
+      "name": "남양유업",
+      "rank": 664,
+      "expected_open": 41550,
+      "expected_close": 41461.93
+    },
+    {
+      "symbol": "025820",
+      "name": "이구산업",
+      "rank": 665,
+      "expected_open": 3260,
+      "expected_close": 3253.08
+    },
+    {
+      "symbol": "000230",
+      "name": "일동홀딩스",
+      "rank": 666,
+      "expected_open": 5530,
+      "expected_close": 5518.24
+    },
+    {
+      "symbol": "267270",
+      "name": "HD건설기계",
+      "rank": 667,
+      "expected_open": 80900,
+      "expected_close": 80727.91
+    },
+    {
+      "symbol": "192400",
+      "name": "쿠쿠홀딩스",
+      "rank": 668,
+      "expected_open": 27050,
+      "expected_close": 26992.03
+    },
+    {
+      "symbol": "278470",
+      "name": "에이피알",
+      "rank": 669,
+      "expected_open": 255000,
+      "expected_close": 254453.5
+    },
+    {
+      "symbol": "023350",
+      "name": "한국종합기술",
+      "rank": 670,
+      "expected_open": 3410,
+      "expected_close": 3402.69
+    },
+    {
+      "symbol": "007980",
+      "name": "TP",
+      "rank": 671,
+      "expected_open": 1569,
+      "expected_close": 1565.55
+    },
+    {
+      "symbol": "005725",
+      "name": "넥센우",
+      "rank": 672,
+      "expected_open": 4375,
+      "expected_close": 4365.38
+    },
+    {
+      "symbol": "090435",
+      "name": "아모레퍼시픽우",
+      "rank": 673,
+      "expected_open": 37350,
+      "expected_close": 37267.76
+    },
+    {
+      "symbol": "008260",
+      "name": "NI스틸",
+      "rank": 674,
+      "expected_open": 3045,
+      "expected_close": 3038.26
+    },
+    {
+      "symbol": "000680",
+      "name": "LS네트웍스",
+      "rank": 675,
+      "expected_open": 2630,
+      "expected_close": 2624.14
+    },
+    {
+      "symbol": "005750",
+      "name": "대림바스",
+      "rank": 676,
+      "expected_open": 4020,
+      "expected_close": 4011.04
+    },
+    {
+      "symbol": "002420",
+      "name": "우양피앤엘",
+      "rank": 677,
+      "expected_open": 4970,
+      "expected_close": 4958.91
+    },
+    {
+      "symbol": "039570",
+      "name": "HDC랩스",
+      "rank": 678,
+      "expected_open": 7000,
+      "expected_close": 6984.29
+    },
+    {
+      "symbol": "007160",
+      "name": "사조산업",
+      "rank": 679,
+      "expected_open": 40200,
+      "expected_close": 40109.51
+    },
+    {
+      "symbol": "248170",
+      "name": "샘표식품",
+      "rank": 680,
+      "expected_open": 22700,
+      "expected_close": 22648.81
+    },
+    {
+      "symbol": "007660",
+      "name": "이수페타시스",
+      "rank": 681,
+      "expected_open": 64600,
+      "expected_close": 64453.07
+    },
+    {
+      "symbol": "465770",
+      "name": "STX그린로지스",
+      "rank": 682,
+      "expected_open": 1629,
+      "expected_close": 1625.29
+    },
+    {
+      "symbol": "210980",
+      "name": "SK디앤디",
+      "rank": 683,
+      "expected_open": 2070,
+      "expected_close": 2065.28
+    },
+    {
+      "symbol": "002760",
+      "name": "보락",
+      "rank": 684,
+      "expected_open": 995,
+      "expected_close": 992.73
+    },
+    {
+      "symbol": "432320",
+      "name": "KB스타리츠",
+      "rank": 685,
+      "expected_open": 1316,
+      "expected_close": 1312.98
+    },
+    {
+      "symbol": "024890",
+      "name": "대원화성",
+      "rank": 686,
+      "expected_open": 1371,
+      "expected_close": 1367.85
+    },
+    {
+      "symbol": "009680",
+      "name": "모토닉",
+      "rank": 687,
+      "expected_open": 9880,
+      "expected_close": 9857.13
+    },
+    {
+      "symbol": "011390",
+      "name": "부산산업",
+      "rank": 688,
+      "expected_open": 40750,
+      "expected_close": 40654.54
+    },
+    {
+      "symbol": "002810",
+      "name": "삼영무역",
+      "rank": 689,
+      "expected_open": 20000,
+      "expected_close": 19953.04
+    },
+    {
+      "symbol": "004255",
+      "name": "NPC우",
+      "rank": 690,
+      "expected_open": 1809,
+      "expected_close": 1804.75
+    },
+    {
+      "symbol": "013700",
+      "name": "까뮤이앤씨",
+      "rank": 691,
+      "expected_open": 1360,
+      "expected_close": 1356.8
+    },
+    {
+      "symbol": "003300",
+      "name": "한일홀딩스",
+      "rank": 692,
+      "expected_open": 16940,
+      "expected_close": 16900.03
+    },
+    {
+      "symbol": "002360",
+      "name": "SH에너지화학",
+      "rank": 693,
+      "expected_open": 3600,
+      "expected_close": 3591.49
+    },
+    {
+      "symbol": "044820",
+      "name": "코스맥스비티아이",
+      "rank": 694,
+      "expected_open": 21950,
+      "expected_close": 21898.02
+    },
+    {
+      "symbol": "097520",
+      "name": "엠씨넥스",
+      "rank": 695,
+      "expected_open": 15680,
+      "expected_close": 15642.82
+    },
+    {
+      "symbol": "007575",
+      "name": "일양약품우",
+      "rank": 696,
+      "expected_open": 6990,
+      "expected_close": 6973.36
+    },
+    {
+      "symbol": "007610",
+      "name": "선도전기",
+      "rank": 697,
+      "expected_open": 2960,
+      "expected_close": 2952.95
+    },
+    {
+      "symbol": "011090",
+      "name": "에넥스",
+      "rank": 698,
+      "expected_open": 1615,
+      "expected_close": 1611.15
+    },
+    {
+      "symbol": "008730",
+      "name": "율촌화학",
+      "rank": 699,
+      "expected_open": 11610,
+      "expected_close": 11582.3
+    },
+    {
+      "symbol": "104700",
+      "name": "한국철강",
+      "rank": 700,
+      "expected_open": 12900,
+      "expected_close": 12868.98
+    },
+    {
+      "symbol": "183190",
+      "name": "아세아시멘트",
+      "rank": 701,
+      "expected_open": 8920,
+      "expected_close": 8898.55
+    },
+    {
+      "symbol": "063160",
+      "name": "종근당바이오",
+      "rank": 702,
+      "expected_open": 11210,
+      "expected_close": 11183.03
+    },
+    {
+      "symbol": "004430",
+      "name": "송원산업",
+      "rank": 703,
+      "expected_open": 10200,
+      "expected_close": 10175.43
+    },
+    {
+      "symbol": "163560",
+      "name": "동일고무벨트",
+      "rank": 704,
+      "expected_open": 5260,
+      "expected_close": 5247.3
+    },
+    {
+      "symbol": "034590",
+      "name": "인천도시가스",
+      "rank": 705,
+      "expected_open": 25450,
+      "expected_close": 25388.25
+    },
+    {
+      "symbol": "012170",
+      "name": "아센디오",
+      "rank": 706,
+      "expected_open": 3275,
+      "expected_close": 3267.03
+    },
+    {
+      "symbol": "013570",
+      "name": "디와이",
+      "rank": 707,
+      "expected_open": 3910,
+      "expected_close": 3900.48
+    },
+    {
+      "symbol": "003220",
+      "name": "대원제약",
+      "rank": 708,
+      "expected_open": 7760,
+      "expected_close": 7740.89
+    },
+    {
+      "symbol": "033270",
+      "name": "유나이티드제약",
+      "rank": 709,
+      "expected_open": 15630,
+      "expected_close": 15591.26
+    },
+    {
+      "symbol": "120030",
+      "name": "조선선재",
+      "rank": 710,
+      "expected_open": 72600,
+      "expected_close": 72419.95
+    },
+    {
+      "symbol": "003240",
+      "name": "태광산업",
+      "rank": 711,
+      "expected_open": 844000,
+      "expected_close": 841906.6
+    },
+    {
+      "symbol": "108320",
+      "name": "LX세미콘",
+      "rank": 712,
+      "expected_open": 23250,
+      "expected_close": 23192.15
+    },
+    {
+      "symbol": "013870",
+      "name": "지엠비코리아",
+      "rank": 713,
+      "expected_open": 3600,
+      "expected_close": 3591.04
+    },
+    {
+      "symbol": "084010",
+      "name": "대한제강",
+      "rank": 714,
+      "expected_open": 7460,
+      "expected_close": 7441.28
+    },
+    {
+      "symbol": "014710",
+      "name": "사조씨푸드",
+      "rank": 715,
+      "expected_open": 9650,
+      "expected_close": 9625.57
+    },
+    {
+      "symbol": "006110",
+      "name": "삼아알미늄",
+      "rank": 716,
+      "expected_open": 41950,
+      "expected_close": 41842.89
+    },
+    {
+      "symbol": "145995",
+      "name": "삼양사우",
+      "rank": 717,
+      "expected_open": 31050,
+      "expected_close": 30970.63
+    },
+    {
+      "symbol": "006370",
+      "name": "대구백화점",
+      "rank": 718,
+      "expected_open": 2460,
+      "expected_close": 2453.69
+    },
+    {
+      "symbol": "011700",
+      "name": "한신기계",
+      "rank": 719,
+      "expected_open": 1848,
+      "expected_close": 1843.25
+    },
+    {
+      "symbol": "000145",
+      "name": "하이트진로홀딩스우",
+      "rank": 720,
+      "expected_open": 8440,
+      "expected_close": 8418.24
+    },
+    {
+      "symbol": "404990",
+      "name": "신한서부티엔디리츠",
+      "rank": 721,
+      "expected_open": 3645,
+      "expected_close": 3635.59
+    },
+    {
+      "symbol": "004360",
+      "name": "세방",
+      "rank": 722,
+      "expected_open": 11910,
+      "expected_close": 11879.23
+    },
+    {
+      "symbol": "096770",
+      "name": "SK이노베이션",
+      "rank": 723,
+      "expected_open": 109900,
+      "expected_close": 109614.8
+    },
+    {
+      "symbol": "001275",
+      "name": "부국증권우",
+      "rank": 724,
+      "expected_open": 29200,
+      "expected_close": 29123.46
+    },
+    {
+      "symbol": "058850",
+      "name": "KTcs",
+      "rank": 725,
+      "expected_open": 2280,
+      "expected_close": 2274
+    },
+    {
+      "symbol": "004140",
+      "name": "동방",
+      "rank": 726,
+      "expected_open": 1470,
+      "expected_close": 1466.1
+    },
+    {
+      "symbol": "456040",
+      "name": "OCI",
+      "rank": 727,
+      "expected_open": 53200,
+      "expected_close": 53058.79
+    },
+    {
+      "symbol": "018670",
+      "name": "SK가스",
+      "rank": 728,
+      "expected_open": 230500,
+      "expected_close": 229885.89
+    },
+    {
+      "symbol": "013520",
+      "name": "화승코퍼레이션",
+      "rank": 729,
+      "expected_open": 2195,
+      "expected_close": 2189.15
+    },
+    {
+      "symbol": "024090",
+      "name": "디씨엠",
+      "rank": 730,
+      "expected_open": 11950,
+      "expected_close": 11918.11
+    },
+    {
+      "symbol": "361610",
+      "name": "SK아이이테크놀로지",
+      "rank": 731,
+      "expected_open": 12810,
+      "expected_close": 12775.75
+    },
+    {
+      "symbol": "009320",
+      "name": "아진전자부품",
+      "rank": 732,
+      "expected_open": 907,
+      "expected_close": 904.57
+    },
+    {
+      "symbol": "005965",
+      "name": "동부건설우",
+      "rank": 733,
+      "expected_open": 15200,
+      "expected_close": 15159.2
+    },
+    {
+      "symbol": "338100",
+      "name": "NH프라임리츠",
+      "rank": 734,
+      "expected_open": 3690,
+      "expected_close": 3680.08
+    },
+    {
+      "symbol": "267250",
+      "name": "HD현대",
+      "rank": 735,
+      "expected_open": 124600,
+      "expected_close": 124263.79
+    },
+    {
+      "symbol": "002780",
+      "name": "진흥기업",
+      "rank": 736,
+      "expected_open": 5430,
+      "expected_close": 5415.34
+    },
+    {
+      "symbol": "011230",
+      "name": "삼화전자",
+      "rank": 737,
+      "expected_open": 1957,
+      "expected_close": 1951.69
+    },
+    {
+      "symbol": "017180",
+      "name": "명문제약",
+      "rank": 738,
+      "expected_open": 1105,
+      "expected_close": 1102
+    },
+    {
+      "symbol": "284740",
+      "name": "쿠쿠홈시스",
+      "rank": 739,
+      "expected_open": 23400,
+      "expected_close": 23336.45
+    },
+    {
+      "symbol": "448730",
+      "name": "삼성FN리츠",
+      "rank": 740,
+      "expected_open": 4580,
+      "expected_close": 4567.55
+    },
+    {
+      "symbol": "025000",
+      "name": "KPX케미칼",
+      "rank": 741,
+      "expected_open": 55100,
+      "expected_close": 54949.8
+    },
+    {
+      "symbol": "090460",
+      "name": "비에이치",
+      "rank": 742,
+      "expected_open": 14060,
+      "expected_close": 14021.58
+    },
+    {
+      "symbol": "014280",
+      "name": "금강공업",
+      "rank": 743,
+      "expected_open": 4010,
+      "expected_close": 3999.03
+    },
+    {
+      "symbol": "068290",
+      "name": "삼성출판사",
+      "rank": 744,
+      "expected_open": 5770,
+      "expected_close": 5754.1
+    },
+    {
+      "symbol": "023810",
+      "name": "인팩",
+      "rank": 745,
+      "expected_open": 5060,
+      "expected_close": 5046.04
+    },
+    {
+      "symbol": "012630",
+      "name": "HDC",
+      "rank": 746,
+      "expected_open": 20150,
+      "expected_close": 20094.03
+    },
+    {
+      "symbol": "484870",
+      "name": "엠앤씨솔루션",
+      "rank": 747,
+      "expected_open": 11140,
+      "expected_close": 11108.96
+    },
+    {
+      "symbol": "000087",
+      "name": "하이트진로2우B",
+      "rank": 748,
+      "expected_open": 12040,
+      "expected_close": 12006.43
+    },
+    {
+      "symbol": "005690",
+      "name": "파미셀",
+      "rank": 749,
+      "expected_open": 8070,
+      "expected_close": 8047.46
+    },
+    {
+      "symbol": "900140",
+      "name": "엘브이엠씨홀딩스",
+      "rank": 750,
+      "expected_open": 1026,
+      "expected_close": 1023.13
+    },
+    {
+      "symbol": "003555",
+      "name": "LG우",
+      "rank": 751,
+      "expected_open": 63000,
+      "expected_close": 62823.68
+    },
+    {
+      "symbol": "003495",
+      "name": "대한항공우",
+      "rank": 752,
+      "expected_open": 23000,
+      "expected_close": 22935.43
+    },
+    {
+      "symbol": "330590",
+      "name": "롯데리츠",
+      "rank": 753,
+      "expected_open": 3790,
+      "expected_close": 3779.32
+    },
+    {
+      "symbol": "003075",
+      "name": "코오롱글로벌우",
+      "rank": 754,
+      "expected_open": 10550,
+      "expected_close": 10520.17
+    },
+    {
+      "symbol": "462520",
+      "name": "조선내화",
+      "rank": 755,
+      "expected_open": 10690,
+      "expected_close": 10659.71
+    },
+    {
+      "symbol": "499790",
+      "name": "GS피앤엘",
+      "rank": 756,
+      "expected_open": 25800,
+      "expected_close": 25725.84
+    },
+    {
+      "symbol": "213500",
+      "name": "한솔제지",
+      "rank": 757,
+      "expected_open": 6490,
+      "expected_close": 6471.24
+    },
+    {
+      "symbol": "088350",
+      "name": "한화생명",
+      "rank": 758,
+      "expected_open": 3895,
+      "expected_close": 3883.73
+    },
+    {
+      "symbol": "035150",
+      "name": "백산",
+      "rank": 759,
+      "expected_open": 9780,
+      "expected_close": 9751.62
+    },
+    {
+      "symbol": "004770",
+      "name": "써니전자",
+      "rank": 760,
+      "expected_open": 1427,
+      "expected_close": 1422.82
+    },
+    {
+      "symbol": "001420",
+      "name": "태원물산",
+      "rank": 761,
+      "expected_open": 2610,
+      "expected_close": 2602.3
+    },
+    {
+      "symbol": "078935",
+      "name": "GS우",
+      "rank": 762,
+      "expected_open": 50700,
+      "expected_close": 50549.55
+    },
+    {
+      "symbol": "034830",
+      "name": "한국토지신탁",
+      "rank": 763,
+      "expected_open": 962,
+      "expected_close": 959.14
+    },
+    {
+      "symbol": "007540",
+      "name": "샘표",
+      "rank": 764,
+      "expected_open": 45350,
+      "expected_close": 45214.95
+    },
+    {
+      "symbol": "088790",
+      "name": "진도",
+      "rank": 765,
+      "expected_open": 2305,
+      "expected_close": 2298.12
+    },
+    {
+      "symbol": "248070",
+      "name": "솔루엠",
+      "rank": 766,
+      "expected_open": 11220,
+      "expected_close": 11186.5
+    },
+    {
+      "symbol": "093370",
+      "name": "후성",
+      "rank": 767,
+      "expected_open": 8400,
+      "expected_close": 8374.63
+    },
+    {
+      "symbol": "161890",
+      "name": "한국콜마",
+      "rank": 768,
+      "expected_open": 108800,
+      "expected_close": 108468.36
+    },
+    {
+      "symbol": "014285",
+      "name": "금강공업우",
+      "rank": 769,
+      "expected_open": 5330,
+      "expected_close": 5313.68
+    },
+    {
+      "symbol": "002170",
+      "name": "SYTS",
+      "rank": 770,
+      "expected_open": 49850,
+      "expected_close": 49697.14
+    },
+    {
+      "symbol": "000390",
+      "name": "SP삼화",
+      "rank": 771,
+      "expected_open": 6150,
+      "expected_close": 6131.06
+    },
+    {
+      "symbol": "006405",
+      "name": "삼성SDI우",
+      "rank": 772,
+      "expected_open": 185100,
+      "expected_close": 184529.85
+    },
+    {
+      "symbol": "009580",
+      "name": "무림P&P",
+      "rank": 773,
+      "expected_open": 1545,
+      "expected_close": 1540.22
+    },
+    {
+      "symbol": "195870",
+      "name": "해성디에스",
+      "rank": 774,
+      "expected_open": 35300,
+      "expected_close": 35190.67
+    },
+    {
+      "symbol": "003520",
+      "name": "영진약품",
+      "rank": 775,
+      "expected_open": 830,
+      "expected_close": 827.42
+    },
+    {
+      "symbol": "020150",
+      "name": "롯데에너지머티리얼즈",
+      "rank": 776,
+      "expected_open": 32100,
+      "expected_close": 32000.01
+    },
+    {
+      "symbol": "002720",
+      "name": "국제약품",
+      "rank": 777,
+      "expected_open": 3185,
+      "expected_close": 3175.04
+    },
+    {
+      "symbol": "003680",
+      "name": "한성기업",
+      "rank": 778,
+      "expected_open": 3150,
+      "expected_close": 3140.11
+    },
+    {
+      "symbol": "009415",
+      "name": "태영건설우",
+      "rank": 779,
+      "expected_open": 5900,
+      "expected_close": 5881.38
+    },
+    {
+      "symbol": "011785",
+      "name": "금호석유화학우",
+      "rank": 780,
+      "expected_open": 40000,
+      "expected_close": 39873.56
+    },
+    {
+      "symbol": "092200",
+      "name": "디아이씨",
+      "rank": 781,
+      "expected_open": 4020,
+      "expected_close": 4006.99
+    },
+    {
+      "symbol": "001210",
+      "name": "금호전기",
+      "rank": 782,
+      "expected_open": 6210,
+      "expected_close": 6189.89
+    },
+    {
+      "symbol": "000157",
+      "name": "두산2우B",
+      "rank": 783,
+      "expected_open": 215500,
+      "expected_close": 214801.57
+    },
+    {
+      "symbol": "004540",
+      "name": "깨끗한나라",
+      "rank": 784,
+      "expected_open": 1550,
+      "expected_close": 1544.97
+    },
+    {
+      "symbol": "052690",
+      "name": "한전기술",
+      "rank": 785,
+      "expected_open": 74200,
+      "expected_close": 73958.56
+    },
+    {
+      "symbol": "102460",
+      "name": "이연제약",
+      "rank": 786,
+      "expected_open": 9240,
+      "expected_close": 9209.66
+    },
+    {
+      "symbol": "020000",
+      "name": "한섬",
+      "rank": 787,
+      "expected_open": 17900,
+      "expected_close": 17840.81
+    },
+    {
+      "symbol": "017810",
+      "name": "풀무원",
+      "rank": 788,
+      "expected_open": 8070,
+      "expected_close": 8043.3
+    },
+    {
+      "symbol": "004700",
+      "name": "조광피혁",
+      "rank": 789,
+      "expected_open": 65200,
+      "expected_close": 64982.01
+    },
+    {
+      "symbol": "004920",
+      "name": "씨아이테크",
+      "rank": 790,
+      "expected_open": 6110,
+      "expected_close": 6089.42
+    },
+    {
+      "symbol": "023000",
+      "name": "삼원강재",
+      "rank": 791,
+      "expected_open": 2030,
+      "expected_close": 2023.12
+    },
+    {
+      "symbol": "014990",
+      "name": "인디에프",
+      "rank": 792,
+      "expected_open": 2860,
+      "expected_close": 2850.28
+    },
+    {
+      "symbol": "078930",
+      "name": "GS",
+      "rank": 793,
+      "expected_open": 77300,
+      "expected_close": 77037.04
+    },
+    {
+      "symbol": "010400",
+      "name": "우진아이엔에스",
+      "rank": 794,
+      "expected_open": 3550,
+      "expected_close": 3537.87
+    },
+    {
+      "symbol": "000227",
+      "name": "유유제약2우B",
+      "rank": 795,
+      "expected_open": 7440,
+      "expected_close": 7414.56
+    },
+    {
+      "symbol": "011070",
+      "name": "LG이노텍",
+      "rank": 796,
+      "expected_open": 269500,
+      "expected_close": 268569.8
+    },
+    {
+      "symbol": "111380",
+      "name": "동인기연",
+      "rank": 797,
+      "expected_open": 10620,
+      "expected_close": 10583.1
+    },
+    {
+      "symbol": "071055",
+      "name": "한국금융지주우",
+      "rank": 798,
+      "expected_open": 105500,
+      "expected_close": 105131.19
+    },
+    {
+      "symbol": "003960",
+      "name": "사조대림",
+      "rank": 799,
+      "expected_open": 23050,
+      "expected_close": 22969.06
+    },
+    {
+      "symbol": "001940",
+      "name": "KISCO홀딩스",
+      "rank": 800,
+      "expected_open": 27250,
+      "expected_close": 27153.2
+    },
+    {
+      "symbol": "214330",
+      "name": "금호에이치티",
+      "rank": 801,
+      "expected_open": 6120,
+      "expected_close": 6098.14
+    },
+    {
+      "symbol": "000910",
+      "name": "유니온",
+      "rank": 802,
+      "expected_open": 2435,
+      "expected_close": 2426.27
+    },
+    {
+      "symbol": "034120",
+      "name": "SBS",
+      "rank": 803,
+      "expected_open": 11180,
+      "expected_close": 11139.82
+    },
+    {
+      "symbol": "007700",
+      "name": "F&F홀딩스",
+      "rank": 804,
+      "expected_open": 13190,
+      "expected_close": 13142.58
+    },
+    {
+      "symbol": "001460",
+      "name": "BYC",
+      "rank": 805,
+      "expected_open": 33750,
+      "expected_close": 33628.63
+    },
+    {
+      "symbol": "000320",
+      "name": "노루홀딩스",
+      "rank": 806,
+      "expected_open": 13910,
+      "expected_close": 13859.35
+    },
+    {
+      "symbol": "002355",
+      "name": "넥센타이어1우B",
+      "rank": 807,
+      "expected_open": 3700,
+      "expected_close": 3686.41
+    },
+    {
+      "symbol": "001527",
+      "name": "동양2우B",
+      "rank": 808,
+      "expected_open": 5200,
+      "expected_close": 5180.9
+    },
+    {
+      "symbol": "092230",
+      "name": "KPX홀딩스",
+      "rank": 809,
+      "expected_open": 89700,
+      "expected_close": 89369.36
+    },
+    {
+      "symbol": "004150",
+      "name": "한솔홀딩스",
+      "rank": 810,
+      "expected_open": 2955,
+      "expected_close": 2944.1
+    },
+    {
+      "symbol": "034020",
+      "name": "두산에너빌리티",
+      "rank": 811,
+      "expected_open": 45150,
+      "expected_close": 44982.88
+    },
+    {
+      "symbol": "001065",
+      "name": "JW중외제약우",
+      "rank": 812,
+      "expected_open": 19280,
+      "expected_close": 19208.54
+    },
+    {
+      "symbol": "005610",
+      "name": "삼립",
+      "rank": 813,
+      "expected_open": 38050,
+      "expected_close": 37907.59
+    },
+    {
+      "symbol": "357430",
+      "name": "마스턴프리미어리츠",
+      "rank": 814,
+      "expected_open": 738,
+      "expected_close": 735.21
+    },
+    {
+      "symbol": "001430",
+      "name": "세아베스틸지주",
+      "rank": 815,
+      "expected_open": 27650,
+      "expected_close": 27544.65
+    },
+    {
+      "symbol": "017940",
+      "name": "E1",
+      "rank": 816,
+      "expected_open": 80700,
+      "expected_close": 80387.41
+    },
+    {
+      "symbol": "308170",
+      "name": "씨티알모빌리티",
+      "rank": 817,
+      "expected_open": 3060,
+      "expected_close": 3048.1
+    },
+    {
+      "symbol": "377190",
+      "name": "디앤디플랫폼리츠",
+      "rank": 818,
+      "expected_open": 1798,
+      "expected_close": 1790.99
+    },
+    {
+      "symbol": "353200",
+      "name": "대덕전자",
+      "rank": 819,
+      "expected_open": 74600,
+      "expected_close": 74308.67
+    },
+    {
+      "symbol": "363280",
+      "name": "티와이홀딩스",
+      "rank": 820,
+      "expected_open": 1770,
+      "expected_close": 1763.04
+    },
+    {
+      "symbol": "281820",
+      "name": "케이씨텍",
+      "rank": 821,
+      "expected_open": 55400,
+      "expected_close": 55181.44
+    },
+    {
+      "symbol": "000480",
+      "name": "CR홀딩스",
+      "rank": 822,
+      "expected_open": 4075,
+      "expected_close": 4058.77
+    },
+    {
+      "symbol": "010950",
+      "name": "S-Oil",
+      "rank": 823,
+      "expected_open": 106200,
+      "expected_close": 105775.29
+    },
+    {
+      "symbol": "006345",
+      "name": "대원전선우",
+      "rank": 824,
+      "expected_open": 6820,
+      "expected_close": 6792.71
+    },
+    {
+      "symbol": "096775",
+      "name": "SK이노베이션우",
+      "rank": 825,
+      "expected_open": 58300,
+      "expected_close": 58065.14
+    },
+    {
+      "symbol": "001820",
+      "name": "삼화콘덴서",
+      "rank": 826,
+      "expected_open": 80900,
+      "expected_close": 80570.66
+    },
+    {
+      "symbol": "400760",
+      "name": "NH올원리츠",
+      "rank": 827,
+      "expected_open": 2250,
+      "expected_close": 2240.8
+    },
+    {
+      "symbol": "014160",
+      "name": "대영포장",
+      "rank": 828,
+      "expected_open": 2325,
+      "expected_close": 2315.45
+    },
+    {
+      "symbol": "085310",
+      "name": "엔케이",
+      "rank": 829,
+      "expected_open": 8410,
+      "expected_close": 8375.36
+    },
+    {
+      "symbol": "000155",
+      "name": "두산우",
+      "rank": 830,
+      "expected_open": 245000,
+      "expected_close": 243974.65
+    },
+    {
+      "symbol": "271980",
+      "name": "제일약품",
+      "rank": 831,
+      "expected_open": 8670,
+      "expected_close": 8633.47
+    },
+    {
+      "symbol": "107590",
+      "name": "미원홀딩스",
+      "rank": 832,
+      "expected_open": 56700,
+      "expected_close": 56459.33
+    },
+    {
+      "symbol": "120110",
+      "name": "코오롱인더",
+      "rank": 833,
+      "expected_open": 37400,
+      "expected_close": 37237.72
+    },
+    {
+      "symbol": "088260",
+      "name": "이리츠코크렙",
+      "rank": 834,
+      "expected_open": 2950,
+      "expected_close": 2937.19
+    },
+    {
+      "symbol": "001515",
+      "name": "SK증권우",
+      "rank": 835,
+      "expected_open": 3395,
+      "expected_close": 3379.99
+    },
+    {
+      "symbol": "001380",
+      "name": "SG글로벌",
+      "rank": 836,
+      "expected_open": 752,
+      "expected_close": 748.67
+    },
+    {
+      "symbol": "006090",
+      "name": "사조오양",
+      "rank": 837,
+      "expected_open": 7700,
+      "expected_close": 7665.9
+    },
+    {
+      "symbol": "192650",
+      "name": "드림텍",
+      "rank": 838,
+      "expected_open": 5110,
+      "expected_close": 5087.33
+    },
+    {
+      "symbol": "092790",
+      "name": "넥스틸",
+      "rank": 839,
+      "expected_open": 9240,
+      "expected_close": 9198.72
+    },
+    {
+      "symbol": "093050",
+      "name": "LF",
+      "rank": 840,
+      "expected_open": 21500,
+      "expected_close": 21403.85
+    },
+    {
+      "symbol": "004450",
+      "name": "삼화왕관",
+      "rank": 841,
+      "expected_open": 25600,
+      "expected_close": 25485.31
+    },
+    {
+      "symbol": "023450",
+      "name": "동남합성",
+      "rank": 842,
+      "expected_open": 29700,
+      "expected_close": 29565.26
+    },
+    {
+      "symbol": "002200",
+      "name": "한국수출포장",
+      "rank": 843,
+      "expected_open": 2580,
+      "expected_close": 2568.25
+    },
+    {
+      "symbol": "134790",
+      "name": "시디즈",
+      "rank": 844,
+      "expected_open": 17620,
+      "expected_close": 17538.69
+    },
+    {
+      "symbol": "084695",
+      "name": "대상홀딩스우",
+      "rank": 845,
+      "expected_open": 11830,
+      "expected_close": 11774.84
+    },
+    {
+      "symbol": "003650",
+      "name": "미창석유",
+      "rank": 846,
+      "expected_open": 113100,
+      "expected_close": 112566.41
+    },
+    {
+      "symbol": "019175",
+      "name": "신풍제약우",
+      "rank": 847,
+      "expected_open": 12480,
+      "expected_close": 12420.76
+    },
+    {
+      "symbol": "481850",
+      "name": "신한글로벌액티브리츠",
+      "rank": 848,
+      "expected_open": 808,
+      "expected_close": 804.11
+    },
+    {
+      "symbol": "000725",
+      "name": "현대건설우",
+      "rank": 849,
+      "expected_open": 41550,
+      "expected_close": 41349.06
+    },
+    {
+      "symbol": "357120",
+      "name": "코람코라이프인프라리츠",
+      "rank": 850,
+      "expected_open": 3440,
+      "expected_close": 3423.34
+    },
+    {
+      "symbol": "016880",
+      "name": "웅진",
+      "rank": 851,
+      "expected_open": 1518,
+      "expected_close": 1510.56
+    },
+    {
+      "symbol": "000040",
+      "name": "다이나맥",
+      "rank": 852,
+      "expected_open": 1055,
+      "expected_close": 1049.81
+    },
+    {
+      "symbol": "011930",
+      "name": "신성이엔지",
+      "rank": 853,
+      "expected_open": 11590,
+      "expected_close": 11532.72
+    },
+    {
+      "symbol": "005320",
+      "name": "온타이드",
+      "rank": 854,
+      "expected_open": 1048,
+      "expected_close": 1042.74
+    },
+    {
+      "symbol": "227840",
+      "name": "현대코퍼레이션홀딩스",
+      "rank": 855,
+      "expected_open": 12040,
+      "expected_close": 11979.25
+    },
+    {
+      "symbol": "036530",
+      "name": "SNT홀딩스",
+      "rank": 856,
+      "expected_open": 41050,
+      "expected_close": 40834.48
+    },
+    {
+      "symbol": "006200",
+      "name": "한국전자홀딩스",
+      "rank": 857,
+      "expected_open": 1192,
+      "expected_close": 1185.72
+    },
+    {
+      "symbol": "033240",
+      "name": "자화전자",
+      "rank": 858,
+      "expected_open": 15330,
+      "expected_close": 15248.83
+    },
+    {
+      "symbol": "049800",
+      "name": "우진플라임",
+      "rank": 859,
+      "expected_open": 1607,
+      "expected_close": 1598.45
+    },
+    {
+      "symbol": "001525",
+      "name": "동양우",
+      "rank": 860,
+      "expected_open": 7530,
+      "expected_close": 7489.61
+    },
+    {
+      "symbol": "306200",
+      "name": "세아제강",
+      "rank": 861,
+      "expected_open": 114200,
+      "expected_close": 113573.67
+    },
+    {
+      "symbol": "357250",
+      "name": "미래에셋맵스리츠",
+      "rank": 862,
+      "expected_open": 1528,
+      "expected_close": 1519.34
+    },
+    {
+      "symbol": "009770",
+      "name": "삼정펄프",
+      "rank": 863,
+      "expected_open": 25200,
+      "expected_close": 25057.07
+    },
+    {
+      "symbol": "003060",
+      "name": "에이프로젠바이오로직스",
+      "rank": 864,
+      "expected_open": 1300,
+      "expected_close": 1292.57
+    },
+    {
+      "symbol": "000215",
+      "name": "DL우",
+      "rank": 865,
+      "expected_open": 21400,
+      "expected_close": 21270.78
+    },
+    {
+      "symbol": "002820",
+      "name": "SUN&L",
+      "rank": 866,
+      "expected_open": 951,
+      "expected_close": 945.16
+    },
+    {
+      "symbol": "020120",
+      "name": "키다리스튜디오",
+      "rank": 867,
+      "expected_open": 3250,
+      "expected_close": 3229.67
+    },
+    {
+      "symbol": "350520",
+      "name": "이지스레지던스리츠",
+      "rank": 868,
+      "expected_open": 2965,
+      "expected_close": 2946.35
+    },
+    {
+      "symbol": "108670",
+      "name": "LX하우시스",
+      "rank": 869,
+      "expected_open": 26000,
+      "expected_close": 25835.91
+    },
+    {
+      "symbol": "000650",
+      "name": "천일고속",
+      "rank": 870,
+      "expected_open": 162200,
+      "expected_close": 161161.2
+    },
+    {
+      "symbol": "008970",
+      "name": "KBI동양철관",
+      "rank": 871,
+      "expected_open": 1026,
+      "expected_close": 1019.42
+    },
+    {
+      "symbol": "009140",
+      "name": "케이아이이",
+      "rank": 872,
+      "expected_open": 9020,
+      "expected_close": 8961.87
+    },
+    {
+      "symbol": "027970",
+      "name": "한국제지",
+      "rank": 873,
+      "expected_open": 1809,
+      "expected_close": 1797.34
+    },
+    {
+      "symbol": "334890",
+      "name": "이지스밸류플러스리츠",
+      "rank": 874,
+      "expected_open": 2900,
+      "expected_close": 2880.53
+    },
+    {
+      "symbol": "003465",
+      "name": "유화증권우",
+      "rank": 875,
+      "expected_open": 2870,
+      "expected_close": 2850.25
+    },
+    {
+      "symbol": "109070",
+      "name": "주성코퍼레이션",
+      "rank": 876,
+      "expected_open": 5430,
+      "expected_close": 5388.62
+    },
+    {
+      "symbol": "217590",
+      "name": "티엠씨",
+      "rank": 877,
+      "expected_open": 8770,
+      "expected_close": 8696.49
+    },
+    {
+      "symbol": "084670",
+      "name": "동양고속",
+      "rank": 878,
+      "expected_open": 27350,
+      "expected_close": 27120.07
+    },
+    {
+      "symbol": "487570",
+      "name": "HS효성",
+      "rank": 879,
+      "expected_open": 45150,
+      "expected_close": 44745.82
+    },
+    {
+      "symbol": "396690",
+      "name": "미래에셋글로벌리츠",
+      "rank": 880,
+      "expected_open": 757,
+      "expected_close": 749.64
+    },
+    {
+      "symbol": "093240",
+      "name": "형지엘리트",
+      "rank": 881,
+      "expected_open": 1339,
+      "expected_close": 1324.92
+    },
+    {
+      "symbol": "004545",
+      "name": "깨끗한나라우",
+      "rank": 882,
+      "expected_open": 5230,
+      "expected_close": 5169.01
+    },
+    {
+      "symbol": "006490",
+      "name": "프리티",
+      "rank": 883,
+      "expected_open": 722,
+      "expected_close": 712.23
+    }
+  ]
+}
