@@ -23071,7 +23071,10 @@
       "expected_close": 0.3774,
       "expected_high": 3.7103,
       "expected_low": -3.0454,
-      "turnover_krw": 36000944290
+      "turnover_krw": 36000944290,
+      "actual_close": 2.2661,
+      "actual_high": 7.8443,
+      "actual_low": 0
     },
     {
       "rank": 2,
@@ -23081,7 +23084,10 @@
       "expected_close": 0.3707,
       "expected_high": 3.3719,
       "expected_low": -2.7042,
-      "turnover_krw": 76301480425
+      "turnover_krw": 76301480425,
+      "actual_close": -1.6556,
+      "actual_high": 3.8079,
+      "actual_low": -7.2848
     },
     {
       "rank": 3,
@@ -23091,7 +23097,10 @@
       "expected_close": 0.3641,
       "expected_high": 3.5185,
       "expected_low": -2.8235,
-      "turnover_krw": 4595084665
+      "turnover_krw": 4595084665,
+      "actual_close": -0.1621,
+      "actual_high": 5.1864,
+      "actual_low": -0.6483
     },
     {
       "rank": 4,
@@ -23101,7 +23110,10 @@
       "expected_close": 0.3623,
       "expected_high": 3.3649,
       "expected_low": -2.6986,
-      "turnover_krw": 1312074488
+      "turnover_krw": 1312074488,
+      "actual_close": 4.4444,
+      "actual_high": 8.599,
+      "actual_low": 0
     },
     {
       "rank": 5,
@@ -23111,7 +23123,10 @@
       "expected_close": 0.355,
       "expected_high": 3.1838,
       "expected_low": -2.6706,
-      "turnover_krw": 1104669031
+      "turnover_krw": 1104669031,
+      "actual_close": 2.6439,
+      "actual_high": 9.4868,
+      "actual_low": 0
     },
     {
       "rank": 6,
@@ -23121,7 +23136,10 @@
       "expected_close": 0.3537,
       "expected_high": 3.6003,
       "expected_low": -2.9519,
-      "turnover_krw": 36382815335
+      "turnover_krw": 36382815335,
+      "actual_close": 1.0395,
+      "actual_high": 5.8212,
+      "actual_low": -1.0395
     },
     {
       "rank": 7,
@@ -23131,7 +23149,10 @@
       "expected_close": 0.3466,
       "expected_high": 3.6186,
       "expected_low": -2.9307,
-      "turnover_krw": 25681020835
+      "turnover_krw": 25681020835,
+      "actual_close": 4.6512,
+      "actual_high": 8.6681,
+      "actual_low": -1.0571
     },
     {
       "rank": 8,
@@ -23141,7 +23162,10 @@
       "expected_close": 0.3408,
       "expected_high": 3.4787,
       "expected_low": -2.8075,
-      "turnover_krw": 30897258015
+      "turnover_krw": 30897258015,
+      "actual_close": -0.8361,
+      "actual_high": 3.6789,
+      "actual_low": -2.0067
     },
     {
       "rank": 9,
@@ -23151,7 +23175,10 @@
       "expected_close": 0.3396,
       "expected_high": 3.4079,
       "expected_low": -2.7616,
-      "turnover_krw": 1027739661
+      "turnover_krw": 1027739661,
+      "actual_close": 2.7523,
+      "actual_high": 5.7339,
+      "actual_low": -0.1147
     },
     {
       "rank": 10,
@@ -23161,7 +23188,10 @@
       "expected_close": 0.3385,
       "expected_high": 3.5923,
       "expected_low": -2.9611,
-      "turnover_krw": 20256852443
+      "turnover_krw": 20256852443,
+      "actual_close": 0.2381,
+      "actual_high": 4.881,
+      "actual_low": -1.1905
     },
     {
       "rank": 11,
@@ -23171,7 +23201,10 @@
       "expected_close": 0.3319,
       "expected_high": 3.7214,
       "expected_low": -3.075,
-      "turnover_krw": 50603296570
+      "turnover_krw": 50603296570,
+      "actual_close": -3.0429,
+      "actual_high": 2.0747,
+      "actual_low": -3.1812
     },
     {
       "rank": 12,
@@ -23181,7 +23214,10 @@
       "expected_close": 0.3307,
       "expected_high": 3.6376,
       "expected_low": -3.0804,
-      "turnover_krw": 57535631440
+      "turnover_krw": 57535631440,
+      "actual_close": 9.913,
+      "actual_high": 14.4348,
+      "actual_low": -0.1739
     },
     {
       "rank": 13,
@@ -23191,7 +23227,10 @@
       "expected_close": 0.3305,
       "expected_high": 3.4839,
       "expected_low": -2.9686,
-      "turnover_krw": 617448725900
+      "turnover_krw": 617448725900,
+      "actual_close": 2.849,
+      "actual_high": 6.8376,
+      "actual_low": -0.9972
     },
     {
       "rank": 14,
@@ -23201,7 +23240,10 @@
       "expected_close": 0.3255,
       "expected_high": 3.1541,
       "expected_low": -2.6525,
-      "turnover_krw": 1792345556
+      "turnover_krw": 1792345556,
+      "actual_close": 6.3957,
+      "actual_high": 10.6596,
+      "actual_low": 0
     },
     {
       "rank": 15,
@@ -23211,7 +23253,10 @@
       "expected_close": 0.3223,
       "expected_high": 3.554,
       "expected_low": -3.0568,
-      "turnover_krw": 23441408926
+      "turnover_krw": 23441408926,
+      "actual_close": 4.9927,
+      "actual_high": 9.3979,
+      "actual_low": 0
     },
     {
       "rank": 16,
@@ -23221,7 +23266,10 @@
       "expected_close": 0.3207,
       "expected_high": 3.6276,
       "expected_low": -3.0417,
-      "turnover_krw": 128269164600
+      "turnover_krw": 128269164600,
+      "actual_close": 1.975,
+      "actual_high": 6.5174,
+      "actual_low": 0
     },
     {
       "rank": 17,
@@ -23231,7 +23279,10 @@
       "expected_close": 0.3137,
       "expected_high": 3.2911,
       "expected_low": -2.8202,
-      "turnover_krw": 2402218360
+      "turnover_krw": 2402218360,
+      "actual_close": 4.9661,
+      "actual_high": 10.158,
+      "actual_low": 0
     },
     {
       "rank": 18,
@@ -23241,7 +23292,10 @@
       "expected_close": 0.313,
       "expected_high": 3.5426,
       "expected_low": -3.0357,
-      "turnover_krw": 18999417915
+      "turnover_krw": 18999417915,
+      "actual_close": -1.5534,
+      "actual_high": 2.7184,
+      "actual_low": -2.5243
     },
     {
       "rank": 19,
@@ -23251,7 +23305,10 @@
       "expected_close": 0.3102,
       "expected_high": 3.4192,
       "expected_low": -2.8889,
-      "turnover_krw": 12194306339
+      "turnover_krw": 12194306339,
+      "actual_close": 4.8387,
+      "actual_high": 9.1398,
+      "actual_low": 0
     },
     {
       "rank": 20,
@@ -23261,9 +23318,19 @@
       "expected_close": 0.3099,
       "expected_high": 3.5337,
       "expected_low": -2.9717,
-      "turnover_krw": 5444202813100
+      "turnover_krw": 5444202813100,
+      "actual_close": 0.531,
+      "actual_high": 5.5752,
+      "actual_low": -1.2389
     }
   ],
-  "result": null,
+  "result": {
+    "settled": 20,
+    "net_return": 2.1623,
+    "win_rate": 0.75,
+    "market_return": 0.3346,
+    "mean_high": 7.061,
+    "mean_low": -1.0729
+  },
   "notice": "09:00 score from the actual open; for information only, not investment advice. Returns are not guaranteed."
 }
