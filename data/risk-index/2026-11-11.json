@@ -1,0 +1,46 @@
+{
+  "version": 2,
+  "date": "2026-11-11",
+  "generated_at": "2026-11-10T23:20:41.534Z",
+  "market_at": "2026-11-10T23:20:41.431Z",
+  "history_date": "2026-11-10",
+  "score": 9,
+  "base_score": 9,
+  "shock_floor": 0,
+  "parts": [
+    4,
+    0,
+    3,
+    2
+  ],
+  "sidecar_status": "unknown",
+  "coverage": {
+    "stocks": 884,
+    "flow": 909,
+    "total": 909
+  },
+  "us_session": {
+    "date": "2026-11-10",
+    "close": "16:00",
+    "closed_at": "2026-11-10T21:00:00.000Z"
+  },
+  "observation_times": {
+    "sp": "2026-11-10T17:00:31-05:00",
+    "nasdaq": "2026-11-10T17:15:59-05:00",
+    "sox": "2026-11-10T17:15:59-05:00",
+    "vix": "2026-11-10T16:15:01-05:00",
+    "fx": "2026-11-11T06:34:32+09:00"
+  },
+  "inputs": {
+    "vix": 19.46,
+    "sp_change": -0.38,
+    "nasdaq_change": -0.74,
+    "sox_change": -0.36,
+    "fx_change": 0.19,
+    "prior_kospi_change": 4.39,
+    "falling_share": 0.20135746606334842,
+    "severe_share": 0.013574660633484163,
+    "volatile_share": 0.23868778280542988,
+    "selling_share": 0.14521452145214522
+  }
+}
