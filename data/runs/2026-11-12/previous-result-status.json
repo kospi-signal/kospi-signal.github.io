@@ -1,0 +1,13 @@
+{
+  "status": "ready",
+  "targetDate": "2026-11-11",
+  "compared": 884,
+  "missing": 0,
+  "excluded": 24,
+  "forecastExcluded": 1,
+  "meanAbsoluteError": 2.6413984373269965,
+  "message": "2026-11-11 정산 비교 884개, 미확인 0개, 거래 없음 24개, 장전 예측 제외 후 거래 1개. 출처: 네이버 금융 공개 polling 웹 크롤링 (비공식·지연 가능); 기준과 이용 조건은 원본 기록을 따릅니다.",
+  "runDate": "2026-11-12",
+  "attemptedAt": "2026-11-11T22:00:17.685Z",
+  "runId": "43107968976.1"
+}
