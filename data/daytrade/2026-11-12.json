@@ -23097,7 +23097,10 @@
       "expected_close": 0.3708,
       "expected_high": 3.6751,
       "expected_low": -2.8413,
-      "turnover_krw": 7446090046
+      "turnover_krw": 7446090046,
+      "actual_close": 0.25,
+      "actual_high": 8.75,
+      "actual_low": -3.45
     },
     {
       "rank": 2,
@@ -23107,7 +23110,10 @@
       "expected_close": 0.3676,
       "expected_high": 3.5532,
       "expected_low": -2.7611,
-      "turnover_krw": 21611831003
+      "turnover_krw": 21611831003,
+      "actual_close": -1.2926,
+      "actual_high": 2.9377,
+      "actual_low": -4.2303
     },
     {
       "rank": 3,
@@ -23117,7 +23123,10 @@
       "expected_close": 0.3595,
       "expected_high": 3.3733,
       "expected_low": -2.74,
-      "turnover_krw": 1411411739
+      "turnover_krw": 1411411739,
+      "actual_close": -2.5641,
+      "actual_high": 4.0293,
+      "actual_low": -5.4945
     },
     {
       "rank": 4,
@@ -23127,7 +23136,10 @@
       "expected_close": 0.3531,
       "expected_high": 3.0243,
       "expected_low": -2.4696,
-      "turnover_krw": 1007746727
+      "turnover_krw": 1007746727,
+      "actual_close": -0.4249,
+      "actual_high": 1.6997,
+      "actual_low": -1.983
     },
     {
       "rank": 5,
@@ -23137,7 +23149,10 @@
       "expected_close": 0.3517,
       "expected_high": 3.4384,
       "expected_low": -2.6657,
-      "turnover_krw": 3913877881
+      "turnover_krw": 3913877881,
+      "actual_close": -2.9595,
+      "actual_high": 3.271,
+      "actual_low": -5.296
     },
     {
       "rank": 6,
@@ -23147,7 +23162,10 @@
       "expected_close": 0.3415,
       "expected_high": 3.4714,
       "expected_low": -2.685,
-      "turnover_krw": 1152241510
+      "turnover_krw": 1152241510,
+      "actual_close": -10.5455,
+      "actual_high": 2.7273,
+      "actual_low": -13.2727
     },
     {
       "rank": 7,
@@ -23157,7 +23175,10 @@
       "expected_close": 0.3408,
       "expected_high": 3.3633,
       "expected_low": -2.6712,
-      "turnover_krw": 22436280230
+      "turnover_krw": 22436280230,
+      "actual_close": -1.1111,
+      "actual_high": 2.2222,
+      "actual_low": -1.4815
     },
     {
       "rank": 8,
@@ -23167,7 +23188,10 @@
       "expected_close": 0.3309,
       "expected_high": 3.2029,
       "expected_low": -2.643,
-      "turnover_krw": 3007270245
+      "turnover_krw": 3007270245,
+      "actual_close": -0.6515,
+      "actual_high": 1.3681,
+      "actual_low": -1.9544
     },
     {
       "rank": 9,
@@ -23177,7 +23201,10 @@
       "expected_close": 0.3209,
       "expected_high": 3.3652,
       "expected_low": -2.7317,
-      "turnover_krw": 4036171940
+      "turnover_krw": 4036171940,
+      "actual_close": -0.979,
+      "actual_high": 1.6783,
+      "actual_low": -3.2168
     },
     {
       "rank": 10,
@@ -23187,7 +23214,10 @@
       "expected_close": 0.318,
       "expected_high": 3.3946,
       "expected_low": -2.7543,
-      "turnover_krw": 105313026845
+      "turnover_krw": 105313026845,
+      "actual_close": 2.8926,
+      "actual_high": 6.3636,
+      "actual_low": -1.8182
     },
     {
       "rank": 11,
@@ -23197,7 +23227,10 @@
       "expected_close": 0.3102,
       "expected_high": 3.6245,
       "expected_low": -2.8405,
-      "turnover_krw": 16070512437
+      "turnover_krw": 16070512437,
+      "actual_close": -10.3617,
+      "actual_high": 1.0753,
+      "actual_low": -11.6325
     },
     {
       "rank": 12,
@@ -23207,7 +23240,10 @@
       "expected_close": 0.3082,
       "expected_high": 3.4301,
       "expected_low": -2.792,
-      "turnover_krw": 40147798210
+      "turnover_krw": 40147798210,
+      "actual_close": 0.3132,
+      "actual_high": 4.4636,
+      "actual_low": -3.2106
     },
     {
       "rank": 13,
@@ -23217,7 +23253,10 @@
       "expected_close": 0.3047,
       "expected_high": 3.5476,
       "expected_low": -2.8751,
-      "turnover_krw": 17981478383
+      "turnover_krw": 17981478383,
+      "actual_close": 4.023,
+      "actual_high": 8.4291,
+      "actual_low": -2.8736
     },
     {
       "rank": 14,
@@ -23227,7 +23266,10 @@
       "expected_close": 0.304,
       "expected_high": 3.3975,
       "expected_low": -2.7506,
-      "turnover_krw": 1924755844
+      "turnover_krw": 1924755844,
+      "actual_close": -2.9412,
+      "actual_high": 2.6471,
+      "actual_low": -5.2941
     },
     {
       "rank": 15,
@@ -23237,7 +23279,10 @@
       "expected_close": 0.2927,
       "expected_high": 2.5987,
       "expected_low": -2.1966,
-      "turnover_krw": 2012923949
+      "turnover_krw": 2012923949,
+      "actual_close": 1.3825,
+      "actual_high": 1.7281,
+      "actual_low": 0
     },
     {
       "rank": 16,
@@ -23247,7 +23292,10 @@
       "expected_close": 0.2884,
       "expected_high": 3.4547,
       "expected_low": -2.7325,
-      "turnover_krw": 4919153180
+      "turnover_krw": 4919153180,
+      "actual_close": -2.4735,
+      "actual_high": 0.1178,
+      "actual_low": -5.5359
     },
     {
       "rank": 17,
@@ -23257,7 +23305,10 @@
       "expected_close": 0.2883,
       "expected_high": 3.3639,
       "expected_low": -2.7719,
-      "turnover_krw": 11430209722
+      "turnover_krw": 11430209722,
+      "actual_close": -0.235,
+      "actual_high": 3.0552,
+      "actual_low": -2.1152
     },
     {
       "rank": 18,
@@ -23267,7 +23318,10 @@
       "expected_close": 0.2881,
       "expected_high": 3.5363,
       "expected_low": -2.8418,
-      "turnover_krw": 3180030725
+      "turnover_krw": 3180030725,
+      "actual_close": 0.2053,
+      "actual_high": 14.9897,
+      "actual_low": -1.848
     },
     {
       "rank": 19,
@@ -23277,7 +23331,10 @@
       "expected_close": 0.2869,
       "expected_high": 3.0736,
       "expected_low": -2.5297,
-      "turnover_krw": 14052442080
+      "turnover_krw": 14052442080,
+      "actual_close": -0.1845,
+      "actual_high": 1.2915,
+      "actual_low": -2.214
     },
     {
       "rank": 20,
@@ -23287,9 +23344,19 @@
       "expected_close": 0.2869,
       "expected_high": 3.3121,
       "expected_low": -2.7212,
-      "turnover_krw": 2482680498
+      "turnover_krw": 2482680498,
+      "actual_close": -1.1215,
+      "actual_high": 2.243,
+      "actual_low": -2.9907
     }
   ],
-  "result": null,
+  "result": {
+    "settled": 20,
+    "net_return": -1.6389,
+    "win_rate": 0.3,
+    "market_return": -0.905,
+    "mean_high": 3.7544,
+    "mean_low": -3.9956
+  },
   "notice": "09:00 score from the actual open; for information only, not investment advice. Returns are not guaranteed."
 }
