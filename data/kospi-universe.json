@@ -3,9 +3,9 @@
   "kind": "kospi_universe",
   "market": "KOSPI",
   "license_status": "unconfirmed",
-  "candidates_as_of": "2026-11-10",
-  "collected_at": "2026-11-11T09:45:46.008Z",
-  "verified_at": "2026-11-11T21:10:56.558Z",
+  "candidates_as_of": "2026-11-11",
+  "collected_at": "2026-11-12T09:45:55.163Z",
+  "verified_at": "2026-11-12T09:46:00.930Z",
   "source": {
     "method": "candidate_verification",
     "url": "https://polling.finance.naver.com/api/realtime/domestic/stock/",
@@ -14,25 +14,25 @@
       "https://api.stock.naver.com": {
         "robots_url": "https://api.stock.naver.com/robots.txt",
         "robots_status": 404,
-        "checked_at": "2026-11-11T21:10:49.308Z",
+        "checked_at": "2026-11-12T09:45:54.301Z",
         "allowed": true
       },
       "https://polling.finance.naver.com": {
         "robots_url": "https://polling.finance.naver.com/robots.txt",
         "robots_status": 404,
-        "checked_at": "2026-11-11T21:10:51.449Z",
+        "checked_at": "2026-11-12T09:45:56.088Z",
         "allowed": true
       }
     }
   },
   "candidate_source": {
-    "url": "https://aikstockdata.com/data/public/daily/quotes_20261110.csv",
-    "basDt": "2026-11-10",
+    "url": "https://aikstockdata.com/data/public/daily/quotes_20261111.csv",
+    "basDt": "2026-11-11",
     "filter": "mrktCtg=KOSPI",
     "kospi_rows": 909,
-    "retrieved_at": "2026-11-11T09:45:46.008Z",
+    "retrieved_at": "2026-11-12T09:45:55.163Z",
     "robots_url": "https://aikstockdata.com/robots.txt",
-    "robots_checked_at": "2026-11-11T09:45:45.886Z",
+    "robots_checked_at": "2026-11-12T09:45:55.027Z",
     "origin": "금융위원회 공공데이터포털·한국거래소 (via aikstockdata public daily CSV)",
     "license_url": "https://aikstockdata.com/licenses/aiksd-public-1.1.txt"
   },
