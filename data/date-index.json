@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "generatedAt": "2026-11-15T23:01:10.784Z",
+  "generatedAt": "2026-11-15T23:36:05.501Z",
   "sourceContract": "Each date is listed only when a mode-specific snapshot file exists; operating dates use the latest stage file present (latestStages).",
   "stage": "1530",
   "availableDates": {
@@ -56,7 +56,7 @@
       "2026-11-11": "1530",
       "2026-11-12": "1530",
       "2026-11-13": "1530",
-      "2026-11-16": "0800"
+      "2026-11-16": "0835"
     }
   }
 }
