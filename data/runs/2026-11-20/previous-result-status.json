@@ -1,0 +1,8 @@
+{
+  "status": "blocked",
+  "targetDate": "2026-11-19",
+  "message": "2026-11-19 종가 정산 기록을 읽을 수 없습니다: ENOENT",
+  "runDate": "2026-11-20",
+  "attemptedAt": "2026-11-19T22:00:21.440Z",
+  "runId": "44624331396.1"
+}
