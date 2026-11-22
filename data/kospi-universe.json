@@ -5,7 +5,7 @@
   "license_status": "unconfirmed",
   "candidates_as_of": "2026-11-19",
   "collected_at": "2026-11-20T09:45:49.940Z",
-  "verified_at": "2026-11-20T09:45:56.110Z",
+  "verified_at": "2026-11-22T21:11:06.083Z",
   "source": {
     "method": "candidate_verification",
     "url": "https://polling.finance.naver.com/api/realtime/domestic/stock/",
@@ -14,13 +14,13 @@
       "https://api.stock.naver.com": {
         "robots_url": "https://api.stock.naver.com/robots.txt",
         "robots_status": 404,
-        "checked_at": "2026-11-20T09:45:48.924Z",
+        "checked_at": "2026-11-22T21:10:59.746Z",
         "allowed": true
       },
       "https://polling.finance.naver.com": {
         "robots_url": "https://polling.finance.naver.com/robots.txt",
         "robots_status": 404,
-        "checked_at": "2026-11-20T09:45:51.037Z",
+        "checked_at": "2026-11-22T21:11:01.282Z",
         "allowed": true
       }
     }
@@ -38,9 +38,7 @@
   },
   "discovers_new_listings": false,
   "excluded": {
-    "missing": [
-      "417310"
-    ],
+    "missing": [],
     "other": []
   },
   "count": 908,
