@@ -189,6 +189,15 @@
       "market_return": 1.9712,
       "mean_high": 5.8877,
       "mean_low": 0.9011
+    },
+    {
+      "date": "2026-11-25",
+      "settled": 20,
+      "net_return": 0.1488,
+      "win_rate": 0.6,
+      "market_return": 0.0746,
+      "mean_high": 2.8927,
+      "mean_low": -2.6439
     }
   ]
 }
