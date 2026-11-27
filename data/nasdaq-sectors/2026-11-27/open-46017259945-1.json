@@ -1,0 +1,2080 @@
+{
+  "schema_version": 1,
+  "started_at": "2026-11-27T14:35:58.691Z",
+  "completed_at": "2026-11-27T14:36:14.245Z",
+  "status": "complete",
+  "source": "nasdaq-unofficial",
+  "license_status": "unconfirmed",
+  "sectors": {
+    "IXCO": {
+      "status": "ok",
+      "group": "sector",
+      "requested_at": "2026-11-27T14:35:58.691Z",
+      "received_at": "2026-11-27T14:35:59.086Z",
+      "data": {
+        "name": "NASDAQ Computer",
+        "price": 23446.7,
+        "net_change": 241.96,
+        "percent_change": 1.04,
+        "previous_close": 23204.74,
+        "day_low": 23420.71,
+        "day_high": 23624.37,
+        "delta_indicator": "up",
+        "is_real_time": false,
+        "market_status": "Open",
+        "last_trade_at": "Nov 27, 2026 9:34 AM ET"
+      },
+      "historical": [
+        {
+          "date": "11/25/2026",
+          "open": 22450.21,
+          "high": 23224.37,
+          "low": 22111.11,
+          "close": 23204.74,
+          "volume": null
+        },
+        {
+          "date": "11/24/2026",
+          "open": 23531.07,
+          "high": 23605.44,
+          "low": 23082.84,
+          "close": 23405.24,
+          "volume": null
+        },
+        {
+          "date": "11/23/2026",
+          "open": 24294.76,
+          "high": 24383.69,
+          "low": 23650.13,
+          "close": 24027.93,
+          "volume": null
+        },
+        {
+          "date": "11/20/2026",
+          "open": 23423.89,
+          "high": 23614.95,
+          "low": 22046.39,
+          "close": 22176.59,
+          "volume": null
+        },
+        {
+          "date": "11/19/2026",
+          "open": 24834.31,
+          "high": 25066.83,
+          "low": 23748.73,
+          "close": 23758.05,
+          "volume": null
+        },
+        {
+          "date": "11/18/2026",
+          "open": 24462.54,
+          "high": 24539.85,
+          "low": 24028.17,
+          "close": 24293.92,
+          "volume": null
+        },
+        {
+          "date": "11/17/2026",
+          "open": 24465.75,
+          "high": 24465.75,
+          "low": 23767.56,
+          "close": 24234.94,
+          "volume": null
+        },
+        {
+          "date": "11/16/2026",
+          "open": 24798.84,
+          "high": 24852.07,
+          "low": 24379.11,
+          "close": 24437.64,
+          "volume": null
+        },
+        {
+          "date": "11/13/2026",
+          "open": 25569.41,
+          "high": 25585.39,
+          "low": 24857.8,
+          "close": 25206.23,
+          "volume": null
+        }
+      ]
+    },
+    "IXTC": {
+      "status": "ok",
+      "group": "sector",
+      "requested_at": "2026-11-27T14:35:59.473Z",
+      "received_at": "2026-11-27T14:35:59.597Z",
+      "data": {
+        "name": "NASDAQ Telecommunications",
+        "price": 475.27,
+        "net_change": 10.27,
+        "percent_change": 2.21,
+        "previous_close": 465,
+        "day_low": 473.83,
+        "day_high": 476.97,
+        "delta_indicator": "up",
+        "is_real_time": false,
+        "market_status": "Open",
+        "last_trade_at": "Nov 27, 2026 9:34 AM ET"
+      },
+      "historical": [
+        {
+          "date": "11/25/2026",
+          "open": 438.8386,
+          "high": 467.1153,
+          "low": 432.6332,
+          "close": 464.9964,
+          "volume": null
+        },
+        {
+          "date": "11/24/2026",
+          "open": 476.1323,
+          "high": 476.8623,
+          "low": 455.7424,
+          "close": 461.1494,
+          "volume": null
+        },
+        {
+          "date": "11/23/2026",
+          "open": 494.1083,
+          "high": 497.7692,
+          "low": 479.2928,
+          "close": 480.1369,
+          "volume": null
+        },
+        {
+          "date": "11/20/2026",
+          "open": 473.3193,
+          "high": 479.6494,
+          "low": 458.1117,
+          "close": 459.4608,
+          "volume": null
+        },
+        {
+          "date": "11/19/2026",
+          "open": 509.8534,
+          "high": 513.0938,
+          "low": 482.4424,
+          "close": 487.9947,
+          "volume": null
+        },
+        {
+          "date": "11/18/2026",
+          "open": 503.7151,
+          "high": 507.3918,
+          "low": 496.0013,
+          "close": 502.9658,
+          "volume": null
+        },
+        {
+          "date": "11/17/2026",
+          "open": 495.4164,
+          "high": 501.7101,
+          "low": 489.2151,
+          "close": 498.735,
+          "volume": null
+        },
+        {
+          "date": "11/16/2026",
+          "open": 492.3333,
+          "high": 497.1169,
+          "low": 486.4538,
+          "close": 489.9132,
+          "volume": null
+        },
+        {
+          "date": "11/13/2026",
+          "open": 502.8585,
+          "high": 508.126,
+          "low": 491.3801,
+          "close": 496.1893,
+          "volume": null
+        }
+      ]
+    },
+    "IXFN": {
+      "status": "ok",
+      "group": "sector",
+      "requested_at": "2026-11-27T14:35:59.795Z",
+      "received_at": "2026-11-27T14:36:00.066Z",
+      "data": {
+        "name": "NASDAQ Other Finance",
+        "price": 12162.76,
+        "net_change": 141.44,
+        "percent_change": 1.18,
+        "previous_close": 12021.32,
+        "day_low": 12152.45,
+        "day_high": 12205.78,
+        "delta_indicator": "up",
+        "is_real_time": false,
+        "market_status": "Open",
+        "last_trade_at": "Nov 27, 2026 9:34 AM ET"
+      },
+      "historical": [
+        {
+          "date": "11/25/2026",
+          "open": 11767.13,
+          "high": 12057.7,
+          "low": 11689.37,
+          "close": 12021.32,
+          "volume": null
+        },
+        {
+          "date": "11/24/2026",
+          "open": 11871.25,
+          "high": 12003.28,
+          "low": 11836.13,
+          "close": 11929.75,
+          "volume": null
+        },
+        {
+          "date": "11/23/2026",
+          "open": 12007.83,
+          "high": 12080.28,
+          "low": 11927.76,
+          "close": 11952.02,
+          "volume": null
+        },
+        {
+          "date": "11/20/2026",
+          "open": 11908.18,
+          "high": 12021.32,
+          "low": 11599.41,
+          "close": 11624.59,
+          "volume": null
+        },
+        {
+          "date": "11/19/2026",
+          "open": 12286.15,
+          "high": 12308.85,
+          "low": 11955.71,
+          "close": 11960.49,
+          "volume": null
+        },
+        {
+          "date": "11/18/2026",
+          "open": 12224.34,
+          "high": 12256.39,
+          "low": 12124.51,
+          "close": 12206.58,
+          "volume": null
+        },
+        {
+          "date": "11/17/2026",
+          "open": 12473.68,
+          "high": 12508.61,
+          "low": 12238.08,
+          "close": 12244.67,
+          "volume": null
+        },
+        {
+          "date": "11/16/2026",
+          "open": 12611.26,
+          "high": 12673.02,
+          "low": 12454.41,
+          "close": 12527.11,
+          "volume": null
+        },
+        {
+          "date": "11/13/2026",
+          "open": 12759.18,
+          "high": 12770.73,
+          "low": 12601.06,
+          "close": 12725.35,
+          "volume": null
+        }
+      ]
+    },
+    "IXBK": {
+      "status": "ok",
+      "group": "sector",
+      "requested_at": "2026-11-27T14:36:00.865Z",
+      "received_at": "2026-11-27T14:36:01.053Z",
+      "data": {
+        "name": "NASDAQ Bank",
+        "price": 5070.85,
+        "net_change": 41.92,
+        "percent_change": 0.83,
+        "previous_close": 5028.93,
+        "day_low": 5066.46,
+        "day_high": 5071.87,
+        "delta_indicator": "up",
+        "is_real_time": false,
+        "market_status": "Open",
+        "last_trade_at": "Nov 27, 2026 9:34 AM ET"
+      },
+      "historical": [
+        {
+          "date": "11/25/2026",
+          "open": 4969.75,
+          "high": 5037.68,
+          "low": 4959.34,
+          "close": 5028.93,
+          "volume": null
+        },
+        {
+          "date": "11/24/2026",
+          "open": 4978.12,
+          "high": 5030.98,
+          "low": 4969.97,
+          "close": 5013.96,
+          "volume": null
+        },
+        {
+          "date": "11/23/2026",
+          "open": 4996.39,
+          "high": 5000.66,
+          "low": 4964.61,
+          "close": 4993.62,
+          "volume": null
+        },
+        {
+          "date": "11/20/2026",
+          "open": 4986.11,
+          "high": 5040.95,
+          "low": 4897.19,
+          "close": 4906.95,
+          "volume": null
+        },
+        {
+          "date": "11/19/2026",
+          "open": 5106.95,
+          "high": 5107.34,
+          "low": 4956.45,
+          "close": 4989.66,
+          "volume": null
+        },
+        {
+          "date": "11/18/2026",
+          "open": 5105.08,
+          "high": 5131.78,
+          "low": 5080.86,
+          "close": 5084.87,
+          "volume": null
+        },
+        {
+          "date": "11/17/2026",
+          "open": 5194.81,
+          "high": 5207.38,
+          "low": 5109.44,
+          "close": 5115.36,
+          "volume": null
+        },
+        {
+          "date": "11/16/2026",
+          "open": 5257.19,
+          "high": 5259.61,
+          "low": 5186.21,
+          "close": 5214.99,
+          "volume": null
+        },
+        {
+          "date": "11/13/2026",
+          "open": 5249.71,
+          "high": 5250.81,
+          "low": 5207.15,
+          "close": 5246.2,
+          "volume": null
+        }
+      ]
+    },
+    "IXIS": {
+      "status": "ok",
+      "group": "sector",
+      "requested_at": "2026-11-27T14:36:01.850Z",
+      "received_at": "2026-11-27T14:36:02.797Z",
+      "data": {
+        "name": "NASDAQ Insurance",
+        "price": 17252.43,
+        "net_change": 30.55,
+        "percent_change": 0.18,
+        "previous_close": 17221.88,
+        "day_low": 17187.78,
+        "day_high": 17252.43,
+        "delta_indicator": "up",
+        "is_real_time": false,
+        "market_status": "Open",
+        "last_trade_at": "Nov 27, 2026 9:34 AM ET"
+      },
+      "historical": [
+        {
+          "date": "11/25/2026",
+          "open": 17172.33,
+          "high": 17334,
+          "low": 17119.48,
+          "close": 17221.87,
+          "volume": null
+        },
+        {
+          "date": "11/24/2026",
+          "open": 16853.75,
+          "high": 17129.53,
+          "low": 16801.98,
+          "close": 17097.56,
+          "volume": null
+        },
+        {
+          "date": "11/23/2026",
+          "open": 16611.94,
+          "high": 16862.61,
+          "low": 16611.75,
+          "close": 16810.94,
+          "volume": null
+        },
+        {
+          "date": "11/20/2026",
+          "open": 16883.43,
+          "high": 17068.45,
+          "low": 16675.19,
+          "close": 16705.76,
+          "volume": null
+        },
+        {
+          "date": "11/19/2026",
+          "open": 16757.23,
+          "high": 16813.24,
+          "low": 16613.74,
+          "close": 16690.89,
+          "volume": null
+        },
+        {
+          "date": "11/18/2026",
+          "open": 16768.32,
+          "high": 16891.47,
+          "low": 16665.1,
+          "close": 16832.37,
+          "volume": null
+        },
+        {
+          "date": "11/17/2026",
+          "open": 16920.19,
+          "high": 17000.96,
+          "low": 16808.94,
+          "close": 16820.45,
+          "volume": null
+        },
+        {
+          "date": "11/16/2026",
+          "open": 17123.88,
+          "high": 17181.14,
+          "low": 17000.1,
+          "close": 17059.21,
+          "volume": null
+        },
+        {
+          "date": "11/13/2026",
+          "open": 16966.71,
+          "high": 17079.62,
+          "low": 16903.46,
+          "close": 16916.39,
+          "volume": null
+        }
+      ]
+    },
+    "IXHC": {
+      "status": "ok",
+      "group": "sector",
+      "requested_at": "2026-11-27T14:36:03.012Z",
+      "received_at": "2026-11-27T14:36:03.194Z",
+      "data": {
+        "name": "NASDAQ Health Care Index",
+        "price": 1386.72,
+        "net_change": -0.16,
+        "percent_change": -0.01,
+        "previous_close": 1386.88,
+        "day_low": 1383.49,
+        "day_high": 1389.11,
+        "delta_indicator": "down",
+        "is_real_time": false,
+        "market_status": "Open",
+        "last_trade_at": "Nov 27, 2026 9:34 AM ET"
+      },
+      "historical": [
+        {
+          "date": "11/25/2026",
+          "open": 1380.78,
+          "high": 1395,
+          "low": 1356.85,
+          "close": 1386.88,
+          "volume": null
+        },
+        {
+          "date": "11/24/2026",
+          "open": 1338.46,
+          "high": 1395.96,
+          "low": 1338.46,
+          "close": 1393.18,
+          "volume": null
+        },
+        {
+          "date": "11/23/2026",
+          "open": 1314.37,
+          "high": 1336.18,
+          "low": 1313.71,
+          "close": 1331.5,
+          "volume": null
+        },
+        {
+          "date": "11/20/2026",
+          "open": 1302.75,
+          "high": 1317.94,
+          "low": 1279.99,
+          "close": 1282.67,
+          "volume": null
+        },
+        {
+          "date": "11/19/2026",
+          "open": 1326.09,
+          "high": 1333.62,
+          "low": 1303.72,
+          "close": 1306.01,
+          "volume": null
+        },
+        {
+          "date": "11/18/2026",
+          "open": 1325.45,
+          "high": 1342.46,
+          "low": 1322.85,
+          "close": 1324.44,
+          "volume": null
+        },
+        {
+          "date": "11/17/2026",
+          "open": 1339.1,
+          "high": 1342.94,
+          "low": 1323.81,
+          "close": 1332.89,
+          "volume": null
+        },
+        {
+          "date": "11/16/2026",
+          "open": 1369.27,
+          "high": 1374,
+          "low": 1340.49,
+          "close": 1342.75,
+          "volume": null
+        },
+        {
+          "date": "11/13/2026",
+          "open": 1371.39,
+          "high": 1373.65,
+          "low": 1358.68,
+          "close": 1368.29,
+          "volume": null
+        }
+      ]
+    },
+    "IXTR": {
+      "status": "ok",
+      "group": "sector",
+      "requested_at": "2026-11-27T14:36:03.441Z",
+      "received_at": "2026-11-27T14:36:03.746Z",
+      "data": {
+        "name": "NASDAQ Transportation",
+        "price": 7991.17,
+        "net_change": 62.62,
+        "percent_change": 0.79,
+        "previous_close": 7928.55,
+        "day_low": 7990.71,
+        "day_high": 8018.05,
+        "delta_indicator": "up",
+        "is_real_time": false,
+        "market_status": "Open",
+        "last_trade_at": "Nov 27, 2026 9:34 AM ET"
+      },
+      "historical": {
+        "error": "Unexpected historical payload"
+      }
+    },
+    "NBI": {
+      "status": "ok",
+      "group": "sector",
+      "requested_at": "2026-11-27T14:36:03.965Z",
+      "received_at": "2026-11-27T14:36:04.137Z",
+      "data": {
+        "name": "NASDAQ Biotechnology",
+        "price": 7377.2,
+        "net_change": -23.1,
+        "percent_change": -0.31,
+        "previous_close": 7400.3,
+        "day_low": 7360.06,
+        "day_high": 7395.06,
+        "delta_indicator": "down",
+        "is_real_time": false,
+        "market_status": "Open",
+        "last_trade_at": "Nov 27, 2026 9:35 AM ET"
+      },
+      "historical": [
+        {
+          "date": "11/25/2026",
+          "open": 7374.5,
+          "high": 7447.26,
+          "low": 7238.97,
+          "close": 7400.3,
+          "volume": null
+        },
+        {
+          "date": "11/24/2026",
+          "open": 7132.95,
+          "high": 7462.49,
+          "low": 7132.95,
+          "close": 7439.26,
+          "volume": null
+        },
+        {
+          "date": "11/23/2026",
+          "open": 6952.48,
+          "high": 7088.92,
+          "low": 6945.15,
+          "close": 7062.5,
+          "volume": null
+        },
+        {
+          "date": "11/20/2026",
+          "open": 6887.6,
+          "high": 6980.46,
+          "low": 6767.31,
+          "close": 6781.89,
+          "volume": null
+        },
+        {
+          "date": "11/19/2026",
+          "open": 6982.73,
+          "high": 7033.67,
+          "low": 6893.29,
+          "close": 6901.37,
+          "volume": null
+        },
+        {
+          "date": "11/18/2026",
+          "open": 6981.16,
+          "high": 7076.43,
+          "low": 6959.96,
+          "close": 6971.7,
+          "volume": null
+        },
+        {
+          "date": "11/17/2026",
+          "open": 7038.81,
+          "high": 7058.02,
+          "low": 6949.3,
+          "close": 7017.81,
+          "volume": null
+        },
+        {
+          "date": "11/16/2026",
+          "open": 7213.94,
+          "high": 7247.79,
+          "low": 7052.81,
+          "close": 7068.28,
+          "volume": null
+        },
+        {
+          "date": "11/13/2026",
+          "open": 7220.03,
+          "high": 7238.9,
+          "low": 7149.19,
+          "close": 7211.27,
+          "volume": null
+        }
+      ]
+    },
+    "IXID": {
+      "status": "ok",
+      "group": "sector",
+      "requested_at": "2026-11-27T14:36:04.343Z",
+      "received_at": "2026-11-27T14:36:04.567Z",
+      "data": {
+        "name": "NASDAQ Industrial",
+        "price": 12846.9,
+        "net_change": 144.34,
+        "percent_change": 1.14,
+        "previous_close": 12702.56,
+        "day_low": 12846.9,
+        "day_high": 12910.48,
+        "delta_indicator": "up",
+        "is_real_time": false,
+        "market_status": "Open",
+        "last_trade_at": "Nov 27, 2026 9:35 AM ET"
+      },
+      "historical": [
+        {
+          "date": "11/25/2026",
+          "open": 39.77,
+          "high": 40.3995,
+          "low": 39.77,
+          "close": 40.2754,
+          "volume": 18733
+        },
+        {
+          "date": "11/24/2026",
+          "open": 39.42,
+          "high": 39.94,
+          "low": 39.42,
+          "close": 39.75,
+          "volume": 4795
+        },
+        {
+          "date": "11/23/2026",
+          "open": 39.22,
+          "high": 39.4855,
+          "low": 39.21,
+          "close": 39.4855,
+          "volume": 3664
+        },
+        {
+          "date": "11/20/2026",
+          "open": 39.22,
+          "high": 39.575,
+          "low": 38.83,
+          "close": 38.8397,
+          "volume": 5488
+        },
+        {
+          "date": "11/19/2026",
+          "open": 39.47,
+          "high": 39.47,
+          "low": 38.84,
+          "close": 39.11,
+          "volume": 15398
+        },
+        {
+          "date": "11/18/2026",
+          "open": 39.42,
+          "high": 39.6415,
+          "low": 39.3119,
+          "close": 39.5325,
+          "volume": 23952
+        },
+        {
+          "date": "11/17/2026",
+          "open": 39.8,
+          "high": 39.8739,
+          "low": 39.56,
+          "close": 39.5631,
+          "volume": 4356
+        },
+        {
+          "date": "11/16/2026",
+          "open": 40.22,
+          "high": 40.3093,
+          "low": 39.925,
+          "close": 39.9868,
+          "volume": 5688
+        },
+        {
+          "date": "11/13/2026",
+          "open": 40.14,
+          "high": 40.26,
+          "low": 40.015,
+          "close": 40.0784,
+          "volume": 13152
+        }
+      ]
+    },
+    "IXF": {
+      "status": "ok",
+      "group": "sector",
+      "requested_at": "2026-11-27T14:36:05.006Z",
+      "received_at": "2026-11-27T14:36:05.221Z",
+      "data": {
+        "name": "NASDAQ Financial-100",
+        "price": 7075.17,
+        "net_change": 78.23,
+        "percent_change": 1.12,
+        "previous_close": 6996.94,
+        "day_low": 7074,
+        "day_high": 7088.76,
+        "delta_indicator": "up",
+        "is_real_time": false,
+        "market_status": "Open",
+        "last_trade_at": "Nov 27, 2026 9:35 AM ET"
+      },
+      "historical": [
+        {
+          "date": "11/25/2026",
+          "open": 6864.74,
+          "high": 7014.02,
+          "low": 6838.81,
+          "close": 6996.94,
+          "volume": null
+        },
+        {
+          "date": "11/24/2026",
+          "open": 6901.87,
+          "high": 6980.05,
+          "low": 6887.06,
+          "close": 6945.91,
+          "volume": null
+        },
+        {
+          "date": "11/23/2026",
+          "open": 6933.54,
+          "high": 6975.22,
+          "low": 6913.19,
+          "close": 6932.83,
+          "volume": null
+        },
+        {
+          "date": "11/20/2026",
+          "open": 6917.96,
+          "high": 6985.24,
+          "low": 6748.14,
+          "close": 6763.55,
+          "volume": null
+        },
+        {
+          "date": "11/19/2026",
+          "open": 7095.78,
+          "high": 7107.21,
+          "low": 6918.23,
+          "close": 6921.6,
+          "volume": null
+        },
+        {
+          "date": "11/18/2026",
+          "open": 7080.6,
+          "high": 7099.05,
+          "low": 7038.89,
+          "close": 7057.9,
+          "volume": null
+        },
+        {
+          "date": "11/17/2026",
+          "open": 7218.79,
+          "high": 7237.65,
+          "low": 7088.2,
+          "close": 7092.19,
+          "volume": null
+        },
+        {
+          "date": "11/16/2026",
+          "open": 7315.43,
+          "high": 7341.87,
+          "low": 7213.79,
+          "close": 7257.79,
+          "volume": null
+        },
+        {
+          "date": "11/13/2026",
+          "open": 7362.23,
+          "high": 7368.86,
+          "low": 7294.34,
+          "close": 7348.38,
+          "volume": null
+        }
+      ]
+    },
+    "SOX": {
+      "status": "ok",
+      "group": "sub_sector",
+      "requested_at": "2026-11-27T14:36:05.412Z",
+      "received_at": "2026-11-27T14:36:05.448Z",
+      "data": {
+        "name": "PHLX Semiconductor Sector",
+        "price": 8937.62,
+        "net_change": 162.76,
+        "percent_change": 1.85,
+        "previous_close": 8774.86,
+        "day_low": 8937.62,
+        "day_high": 9036.29,
+        "delta_indicator": "up",
+        "is_real_time": false,
+        "market_status": "Open",
+        "last_trade_at": "Nov 27, 2026 9:33 AM ET"
+      },
+      "historical": [
+        {
+          "date": "11/25/2026",
+          "open": 8302.93,
+          "high": 8781.01,
+          "low": 8129.23,
+          "close": 8774.86,
+          "volume": null
+        },
+        {
+          "date": "11/24/2026",
+          "open": 9161.77,
+          "high": 9197.55,
+          "low": 8657.78,
+          "close": 8832.5,
+          "volume": null
+        },
+        {
+          "date": "11/23/2026",
+          "open": 9596.28,
+          "high": 9728.12,
+          "low": 9374.83,
+          "close": 9588.05,
+          "volume": null
+        },
+        {
+          "date": "11/20/2026",
+          "open": 9160.8,
+          "high": 9204.42,
+          "low": 8342.21,
+          "close": 8408.59,
+          "volume": null
+        },
+        {
+          "date": "11/19/2026",
+          "open": 9938.33,
+          "high": 10109.88,
+          "low": 9412.19,
+          "close": 9419.72,
+          "volume": null
+        },
+        {
+          "date": "11/18/2026",
+          "open": 9788.63,
+          "high": 9828.19,
+          "low": 9493.93,
+          "close": 9652.8,
+          "volume": null
+        },
+        {
+          "date": "11/17/2026",
+          "open": 9698.26,
+          "high": 9745.95,
+          "low": 9295.01,
+          "close": 9642.88,
+          "volume": null
+        },
+        {
+          "date": "11/16/2026",
+          "open": 9685.03,
+          "high": 9818.76,
+          "low": 9587.11,
+          "close": 9610.65,
+          "volume": null
+        },
+        {
+          "date": "11/13/2026",
+          "open": 10412.08,
+          "high": 10461.98,
+          "low": 9828.98,
+          "close": 10146.32,
+          "volume": null
+        }
+      ]
+    },
+    "HGX": {
+      "status": "ok",
+      "group": "sub_sector",
+      "requested_at": "2026-11-27T14:36:05.694Z",
+      "received_at": "2026-11-27T14:36:05.983Z",
+      "data": {
+        "name": "PHLX Housing Sector",
+        "price": 660.98,
+        "net_change": 0.41,
+        "percent_change": 0.06,
+        "previous_close": 660.57,
+        "day_low": 658.75,
+        "day_high": 661.59,
+        "delta_indicator": "up",
+        "is_real_time": false,
+        "market_status": "Open",
+        "last_trade_at": "Nov 27, 2026 9:35 AM ET"
+      },
+      "historical": [
+        {
+          "date": "11/25/2026",
+          "open": 645.7382,
+          "high": 666.2528,
+          "low": 637.9219,
+          "close": 660.5747,
+          "volume": null
+        },
+        {
+          "date": "11/24/2026",
+          "open": 628.6601,
+          "high": 646.5708,
+          "low": 628.1063,
+          "close": 643.205,
+          "volume": null
+        },
+        {
+          "date": "11/23/2026",
+          "open": 625.5128,
+          "high": 631.3771,
+          "low": 616.9864,
+          "close": 630.3367,
+          "volume": null
+        },
+        {
+          "date": "11/20/2026",
+          "open": 622.3954,
+          "high": 634.8246,
+          "low": 615.3532,
+          "close": 616.3363,
+          "volume": null
+        },
+        {
+          "date": "11/19/2026",
+          "open": 623.615,
+          "high": 623.615,
+          "low": 612.4883,
+          "close": 616.1437,
+          "volume": null
+        },
+        {
+          "date": "11/18/2026",
+          "open": 614.3532,
+          "high": 632.898,
+          "low": 614.0011,
+          "close": 627.7053,
+          "volume": null
+        },
+        {
+          "date": "11/17/2026",
+          "open": 626.5774,
+          "high": 636.8403,
+          "low": 620.7992,
+          "close": 621.5563,
+          "volume": null
+        },
+        {
+          "date": "11/16/2026",
+          "open": 639.0589,
+          "high": 641.264,
+          "low": 629.2929,
+          "close": 631.539,
+          "volume": null
+        },
+        {
+          "date": "11/13/2026",
+          "open": 635.8213,
+          "high": 636.9232,
+          "low": 630.0015,
+          "close": 635.4331,
+          "volume": null
+        }
+      ]
+    },
+    "OSX": {
+      "status": "ok",
+      "group": "sub_sector",
+      "requested_at": "2026-11-27T14:36:06.331Z",
+      "received_at": "2026-11-27T14:36:07.440Z",
+      "data": {
+        "name": "PHLX Oil Service Sector",
+        "price": 88.12,
+        "net_change": 1.78,
+        "percent_change": 2.06,
+        "previous_close": 86.34,
+        "day_low": 88.1,
+        "day_high": 88.33,
+        "delta_indicator": "up",
+        "is_real_time": false,
+        "market_status": "Open",
+        "last_trade_at": "Nov 27, 2026 9:35 AM ET"
+      },
+      "historical": [
+        {
+          "date": "11/25/2026",
+          "open": 82.6207,
+          "high": 86.5157,
+          "low": 82.2945,
+          "close": 86.3403,
+          "volume": null
+        },
+        {
+          "date": "11/24/2026",
+          "open": 82.615,
+          "high": 84.2811,
+          "low": 82.4932,
+          "close": 83.9089,
+          "volume": null
+        },
+        {
+          "date": "11/23/2026",
+          "open": 84.5629,
+          "high": 84.6881,
+          "low": 82.8113,
+          "close": 83.0637,
+          "volume": null
+        },
+        {
+          "date": "11/20/2026",
+          "open": 83.5021,
+          "high": 85.3533,
+          "low": 81.695,
+          "close": 81.9938,
+          "volume": null
+        },
+        {
+          "date": "11/19/2026",
+          "open": 87.3422,
+          "high": 87.6219,
+          "low": 85.2632,
+          "close": 85.2883,
+          "volume": null
+        },
+        {
+          "date": "11/18/2026",
+          "open": 86.9788,
+          "high": 88.0799,
+          "low": 86.2044,
+          "close": 86.7187,
+          "volume": null
+        },
+        {
+          "date": "11/17/2026",
+          "open": 89.5795,
+          "high": 90.1889,
+          "low": 87.3794,
+          "close": 87.544,
+          "volume": null
+        },
+        {
+          "date": "11/16/2026",
+          "open": 91.446,
+          "high": 91.5661,
+          "low": 89.0622,
+          "close": 89.1795,
+          "volume": null
+        },
+        {
+          "date": "11/13/2026",
+          "open": 91.7908,
+          "high": 92.7367,
+          "low": 90.832,
+          "close": 92.7367,
+          "volume": null
+        }
+      ]
+    },
+    "UTY": {
+      "status": "ok",
+      "group": "sub_sector",
+      "requested_at": "2026-11-27T14:36:07.602Z",
+      "received_at": "2026-11-27T14:36:08.308Z",
+      "data": {
+        "name": "PHLX Utility Sector",
+        "price": 1119.52,
+        "net_change": 0.47,
+        "percent_change": 0.04,
+        "previous_close": 1119.05,
+        "day_low": 1117.05,
+        "day_high": 1119.67,
+        "delta_indicator": "up",
+        "is_real_time": false,
+        "market_status": "Open",
+        "last_trade_at": "Nov 27, 2026 9:35 AM ET"
+      },
+      "historical": [
+        {
+          "date": "11/25/2026",
+          "open": 1114.49,
+          "high": 1123.67,
+          "low": 1113.99,
+          "close": 1119.05,
+          "volume": null
+        },
+        {
+          "date": "11/24/2026",
+          "open": 1106.13,
+          "high": 1120.3,
+          "low": 1102.65,
+          "close": 1114.52,
+          "volume": null
+        },
+        {
+          "date": "11/23/2026",
+          "open": 1104.61,
+          "high": 1111.73,
+          "low": 1099.22,
+          "close": 1110.62,
+          "volume": null
+        },
+        {
+          "date": "11/20/2026",
+          "open": 1111.2,
+          "high": 1117.89,
+          "low": 1097.52,
+          "close": 1099.3,
+          "volume": null
+        },
+        {
+          "date": "11/19/2026",
+          "open": 1115.81,
+          "high": 1116.02,
+          "low": 1098.91,
+          "close": 1105.38,
+          "volume": null
+        },
+        {
+          "date": "11/18/2026",
+          "open": 1112.84,
+          "high": 1124.41,
+          "low": 1112.47,
+          "close": 1120.53,
+          "volume": null
+        },
+        {
+          "date": "11/17/2026",
+          "open": 1126.94,
+          "high": 1132.54,
+          "low": 1117.06,
+          "close": 1117.85,
+          "volume": null
+        },
+        {
+          "date": "11/16/2026",
+          "open": 1135.71,
+          "high": 1141.85,
+          "low": 1131.15,
+          "close": 1135.41,
+          "volume": null
+        },
+        {
+          "date": "11/13/2026",
+          "open": 1130.29,
+          "high": 1134.49,
+          "low": 1124.33,
+          "close": 1132.15,
+          "volume": null
+        }
+      ]
+    },
+    "XAU": {
+      "status": "ok",
+      "group": "sub_sector",
+      "requested_at": "2026-11-27T14:36:08.485Z",
+      "received_at": "2026-11-27T14:36:08.757Z",
+      "data": {
+        "name": "PHLX Gold/Silver Sector",
+        "price": 309.9,
+        "net_change": 13.92,
+        "percent_change": 4.7,
+        "previous_close": 295.98,
+        "day_low": 308.62,
+        "day_high": 311.01,
+        "delta_indicator": "up",
+        "is_real_time": false,
+        "market_status": "Open",
+        "last_trade_at": "Nov 27, 2026 9:35 AM ET"
+      },
+      "historical": [
+        {
+          "date": "11/25/2026",
+          "open": 279.0671,
+          "high": 297.2377,
+          "low": 272.3098,
+          "close": 295.9816,
+          "volume": null
+        },
+        {
+          "date": "11/24/2026",
+          "open": 288.9461,
+          "high": 292.9597,
+          "low": 283.8391,
+          "close": 286.5,
+          "volume": null
+        },
+        {
+          "date": "11/23/2026",
+          "open": 286.2902,
+          "high": 295.0369,
+          "low": 284.8821,
+          "close": 291.9162,
+          "volume": null
+        },
+        {
+          "date": "11/20/2026",
+          "open": 285.1408,
+          "high": 287.1017,
+          "low": 272.5122,
+          "close": 273.9621,
+          "volume": null
+        },
+        {
+          "date": "11/19/2026",
+          "open": 300.1189,
+          "high": 302.0945,
+          "low": 288.605,
+          "close": 288.9837,
+          "volume": null
+        },
+        {
+          "date": "11/18/2026",
+          "open": 307.4363,
+          "high": 307.4677,
+          "low": 294.4567,
+          "close": 301.0309,
+          "volume": null
+        },
+        {
+          "date": "11/17/2026",
+          "open": 317.7544,
+          "high": 326.742,
+          "low": 317.0925,
+          "close": 319.4873,
+          "volume": null
+        },
+        {
+          "date": "11/16/2026",
+          "open": 322.414,
+          "high": 328.6057,
+          "low": 316.4548,
+          "close": 316.749,
+          "volume": null
+        },
+        {
+          "date": "11/13/2026",
+          "open": 330.9897,
+          "high": 334.615,
+          "low": 328.6225,
+          "close": 329.418,
+          "volume": null
+        }
+      ]
+    },
+    "QNET": {
+      "status": "ok",
+      "group": "sub_sector",
+      "requested_at": "2026-11-27T14:36:08.989Z",
+      "received_at": "2026-11-27T14:36:09.174Z",
+      "data": {
+        "name": "NASDAQ Internet Index",
+        "price": 1490.2,
+        "net_change": 23.46,
+        "percent_change": 1.6,
+        "previous_close": 1466.74,
+        "day_low": 1489.83,
+        "day_high": 1497.72,
+        "delta_indicator": "up",
+        "is_real_time": false,
+        "market_status": "Open",
+        "last_trade_at": "Nov 27, 2026 9:35 AM ET"
+      },
+      "historical": [
+        {
+          "date": "11/25/2026",
+          "open": 1427.33,
+          "high": 1473.52,
+          "low": 1408.05,
+          "close": 1466.74,
+          "volume": null
+        },
+        {
+          "date": "11/24/2026",
+          "open": 1440.02,
+          "high": 1469.6,
+          "low": 1439.17,
+          "close": 1455.94,
+          "volume": null
+        },
+        {
+          "date": "11/23/2026",
+          "open": 1450.43,
+          "high": 1458.65,
+          "low": 1430.71,
+          "close": 1448.76,
+          "volume": null
+        },
+        {
+          "date": "11/20/2026",
+          "open": 1434.84,
+          "high": 1462.12,
+          "low": 1394.12,
+          "close": 1399.43,
+          "volume": null
+        },
+        {
+          "date": "11/19/2026",
+          "open": 1507.6,
+          "high": 1510.61,
+          "low": 1445.54,
+          "close": 1446.56,
+          "volume": null
+        },
+        {
+          "date": "11/18/2026",
+          "open": 1485.42,
+          "high": 1501.24,
+          "low": 1479.58,
+          "close": 1491.53,
+          "volume": null
+        },
+        {
+          "date": "11/17/2026",
+          "open": 1514.03,
+          "high": 1514.73,
+          "low": 1478.3,
+          "close": 1485.32,
+          "volume": null
+        },
+        {
+          "date": "11/16/2026",
+          "open": 1538.92,
+          "high": 1538.97,
+          "low": 1515.91,
+          "close": 1519.46,
+          "volume": null
+        },
+        {
+          "date": "11/13/2026",
+          "open": 1541.42,
+          "high": 1553.39,
+          "low": 1532.73,
+          "close": 1544.05,
+          "volume": null
+        }
+      ]
+    },
+    "NDXT": {
+      "status": "ok",
+      "group": "sub_sector",
+      "requested_at": "2026-11-27T14:36:09.413Z",
+      "received_at": "2026-11-27T14:36:09.473Z",
+      "data": {
+        "name": "NASDAQ-100 Technology Sector Index",
+        "price": 14067.78,
+        "net_change": 215.08,
+        "percent_change": 1.55,
+        "previous_close": 13852.7,
+        "day_low": 14047.44,
+        "day_high": 14184.58,
+        "delta_indicator": "up",
+        "is_real_time": false,
+        "market_status": "Open",
+        "last_trade_at": "Nov 27, 2026 9:34 AM ET"
+      },
+      "historical": [
+        {
+          "date": "11/25/2026",
+          "open": 13274.46,
+          "high": 13867.33,
+          "low": 13079.39,
+          "close": 13852.7,
+          "volume": null
+        },
+        {
+          "date": "11/24/2026",
+          "open": 14078.08,
+          "high": 14123.03,
+          "low": 13722.68,
+          "close": 13867.26,
+          "volume": null
+        },
+        {
+          "date": "11/23/2026",
+          "open": 14545.6,
+          "high": 14628,
+          "low": 14216.83,
+          "close": 14444.94,
+          "volume": null
+        },
+        {
+          "date": "11/20/2026",
+          "open": 14108.52,
+          "high": 14246.1,
+          "low": 13247.59,
+          "close": 13315.12,
+          "volume": null
+        },
+        {
+          "date": "11/19/2026",
+          "open": 15040.98,
+          "high": 15225.56,
+          "low": 14375.92,
+          "close": 14387.87,
+          "volume": null
+        },
+        {
+          "date": "11/18/2026",
+          "open": 14741,
+          "high": 14769.1,
+          "low": 14457.53,
+          "close": 14643.13,
+          "volume": null
+        },
+        {
+          "date": "11/17/2026",
+          "open": 14835.43,
+          "high": 14847.97,
+          "low": 14316.01,
+          "close": 14626.88,
+          "volume": null
+        },
+        {
+          "date": "11/16/2026",
+          "open": 14966.28,
+          "high": 15045.78,
+          "low": 14782.99,
+          "close": 14815,
+          "volume": null
+        },
+        {
+          "date": "11/13/2026",
+          "open": 15569.1,
+          "high": 15596.41,
+          "low": 15030.86,
+          "close": 15358.67,
+          "volume": null
+        }
+      ]
+    },
+    "NDXX": {
+      "status": "ok",
+      "group": "sub_sector",
+      "requested_at": "2026-11-27T14:36:09.724Z",
+      "received_at": "2026-11-27T14:36:10.113Z",
+      "data": {
+        "name": "NASDAQ-100 Ex-Tech Sector Index",
+        "price": 6062.58,
+        "net_change": 36.34,
+        "percent_change": 0.6,
+        "previous_close": 6026.24,
+        "day_low": 6062.32,
+        "day_high": 6079.46,
+        "delta_indicator": "up",
+        "is_real_time": false,
+        "market_status": "Open",
+        "last_trade_at": "Nov 27, 2026 9:35 AM ET"
+      },
+      "historical": [
+        {
+          "date": "11/25/2026",
+          "open": 5938.14,
+          "high": 6059.35,
+          "low": 5890.52,
+          "close": 6026.24,
+          "volume": null
+        },
+        {
+          "date": "11/24/2026",
+          "open": 5901.65,
+          "high": 6009.98,
+          "low": 5895.6,
+          "close": 5994.99,
+          "volume": null
+        },
+        {
+          "date": "11/23/2026",
+          "open": 5892.37,
+          "high": 5935.93,
+          "low": 5860.66,
+          "close": 5921.39,
+          "volume": null
+        },
+        {
+          "date": "11/20/2026",
+          "open": 5863.18,
+          "high": 5932.39,
+          "low": 5756.25,
+          "close": 5769.43,
+          "volume": null
+        },
+        {
+          "date": "11/19/2026",
+          "open": 5997.28,
+          "high": 6007.16,
+          "low": 5868.15,
+          "close": 5872.7,
+          "volume": null
+        },
+        {
+          "date": "11/18/2026",
+          "open": 5990.38,
+          "high": 6033.71,
+          "low": 5973.31,
+          "close": 5991.89,
+          "volume": null
+        },
+        {
+          "date": "11/17/2026",
+          "open": 6055.72,
+          "high": 6080.37,
+          "low": 5990.23,
+          "close": 5996.3,
+          "volume": null
+        },
+        {
+          "date": "11/16/2026",
+          "open": 6147.89,
+          "high": 6151.29,
+          "low": 6064.75,
+          "close": 6071.08,
+          "volume": null
+        },
+        {
+          "date": "11/13/2026",
+          "open": 6136.61,
+          "high": 6148.51,
+          "low": 6104.58,
+          "close": 6133.95,
+          "volume": null
+        }
+      ]
+    },
+    "NBIJR": {
+      "status": "ok",
+      "group": "sub_sector",
+      "requested_at": "2026-11-27T14:36:10.349Z",
+      "received_at": "2026-11-27T14:36:10.708Z",
+      "data": {
+        "name": "Nasdaq Junior Biotechnology Index",
+        "price": 819.15,
+        "net_change": 0,
+        "percent_change": 0,
+        "previous_close": 819.15,
+        "day_low": 817.76,
+        "day_high": 835.64,
+        "delta_indicator": "unch",
+        "is_real_time": false,
+        "market_status": "Open",
+        "last_trade_at": "Dec 8, 2023 5:16 PM ET"
+      },
+      "historical": [
+        {
+          "date": "11/25/2026",
+          "open": 0,
+          "high": 0,
+          "low": 0,
+          "close": 819.1537,
+          "volume": null
+        },
+        {
+          "date": "11/24/2026",
+          "open": 0,
+          "high": 0,
+          "low": 0,
+          "close": 819.1537,
+          "volume": null
+        },
+        {
+          "date": "11/23/2026",
+          "open": 0,
+          "high": 0,
+          "low": 0,
+          "close": 819.1537,
+          "volume": null
+        },
+        {
+          "date": "11/20/2026",
+          "open": 0,
+          "high": 0,
+          "low": 0,
+          "close": 819.1537,
+          "volume": null
+        },
+        {
+          "date": "11/19/2026",
+          "open": 0,
+          "high": 0,
+          "low": 0,
+          "close": 819.1537,
+          "volume": null
+        },
+        {
+          "date": "11/18/2026",
+          "open": 0,
+          "high": 0,
+          "low": 0,
+          "close": 819.1537,
+          "volume": null
+        },
+        {
+          "date": "11/17/2026",
+          "open": 0,
+          "high": 0,
+          "low": 0,
+          "close": 819.1537,
+          "volume": null
+        },
+        {
+          "date": "11/16/2026",
+          "open": 0,
+          "high": 0,
+          "low": 0,
+          "close": 819.1537,
+          "volume": null
+        },
+        {
+          "date": "11/13/2026",
+          "open": 0,
+          "high": 0,
+          "low": 0,
+          "close": 819.1537,
+          "volume": null
+        }
+      ]
+    },
+    "NQCYBRT": {
+      "status": "ok",
+      "group": "sub_sector",
+      "requested_at": "2026-11-27T14:36:11.048Z",
+      "received_at": "2026-11-27T14:36:11.760Z",
+      "data": {
+        "name": "Nasdaq CTA Cybersecurity Index",
+        "price": 5020.52,
+        "net_change": 11.59,
+        "percent_change": 0.23,
+        "previous_close": 5008.93,
+        "day_low": 5008.99,
+        "day_high": 5067.02,
+        "delta_indicator": "up",
+        "is_real_time": false,
+        "market_status": "Open",
+        "last_trade_at": "Nov 27, 2026 9:35 AM ET"
+      },
+      "historical": [
+        {
+          "date": "11/25/2026",
+          "open": 4979.88,
+          "high": 5009.62,
+          "low": 5005.89,
+          "close": 5008.93,
+          "volume": null
+        },
+        {
+          "date": "11/24/2026",
+          "open": 5011.88,
+          "high": 5048.57,
+          "low": 4959.69,
+          "close": 4978.83,
+          "volume": null
+        },
+        {
+          "date": "11/23/2026",
+          "open": 4823.39,
+          "high": 5065.86,
+          "low": 4822.1,
+          "close": 5011,
+          "volume": null
+        },
+        {
+          "date": "11/20/2026",
+          "open": 5084.31,
+          "high": 5086.36,
+          "low": 4802.97,
+          "close": 4822.49,
+          "volume": null
+        },
+        {
+          "date": "11/19/2026",
+          "open": 5074.36,
+          "high": 5320.57,
+          "low": 5058.32,
+          "close": 5085.05,
+          "volume": null
+        },
+        {
+          "date": "11/18/2026",
+          "open": 4841.15,
+          "high": 5095.37,
+          "low": 4840.15,
+          "close": 5069.6,
+          "volume": null
+        },
+        {
+          "date": "11/17/2026",
+          "open": 4916.26,
+          "high": 4933.19,
+          "low": 4747.29,
+          "close": 4841.08,
+          "volume": null
+        },
+        {
+          "date": "11/16/2026",
+          "open": 5016.82,
+          "high": 5017.32,
+          "low": 4886.85,
+          "close": 4918.43,
+          "volume": null
+        },
+        {
+          "date": "11/13/2026",
+          "open": 5096.82,
+          "high": 5130.64,
+          "low": 4936.33,
+          "close": 5013.99,
+          "volume": null
+        }
+      ]
+    },
+    "CELS": {
+      "status": "ok",
+      "group": "sub_sector",
+      "requested_at": "2026-11-27T14:36:12.418Z",
+      "received_at": "2026-11-27T14:36:12.844Z",
+      "data": {
+        "name": "NASDAQ Clean Edge Green Energy Index",
+        "price": 516.21,
+        "net_change": 9.27,
+        "percent_change": 1.83,
+        "previous_close": 506.94,
+        "day_low": 516.02,
+        "day_high": 523.45,
+        "delta_indicator": "up",
+        "is_real_time": false,
+        "market_status": "Open",
+        "last_trade_at": "Nov 27, 2026 9:35 AM ET"
+      },
+      "historical": [
+        {
+          "date": "11/25/2026",
+          "open": 480.5147,
+          "high": 509.5795,
+          "low": 475.2148,
+          "close": 506.9416,
+          "volume": null
+        },
+        {
+          "date": "11/24/2026",
+          "open": 511.67,
+          "high": 512.0106,
+          "low": 493.4942,
+          "close": 502.3516,
+          "volume": null
+        },
+        {
+          "date": "11/23/2026",
+          "open": 527.8449,
+          "high": 531.2052,
+          "low": 520.9666,
+          "close": 523.542,
+          "volume": null
+        },
+        {
+          "date": "11/20/2026",
+          "open": 513.8792,
+          "high": 520.5747,
+          "low": 478.2796,
+          "close": 481.2888,
+          "volume": null
+        },
+        {
+          "date": "11/19/2026",
+          "open": 546.4511,
+          "high": 549.4624,
+          "low": 524.1785,
+          "close": 525.1321,
+          "volume": null
+        },
+        {
+          "date": "11/18/2026",
+          "open": 541.4675,
+          "high": 546.5707,
+          "low": 532.6421,
+          "close": 536.6977,
+          "volume": null
+        },
+        {
+          "date": "11/17/2026",
+          "open": 551.8649,
+          "high": 554.5263,
+          "low": 531.1749,
+          "close": 537.084,
+          "volume": null
+        },
+        {
+          "date": "11/16/2026",
+          "open": 552.9513,
+          "high": 557.0404,
+          "low": 546.0082,
+          "close": 547.4036,
+          "volume": null
+        },
+        {
+          "date": "11/13/2026",
+          "open": 582.9875,
+          "high": 584.6705,
+          "low": 560.6038,
+          "close": 571.229,
+          "volume": null
+        }
+      ]
+    },
+    "CPQ": {
+      "status": "ok",
+      "group": "sub_sector",
+      "requested_at": "2026-11-27T14:36:13.173Z",
+      "received_at": "2026-11-27T14:36:13.562Z",
+      "data": {
+        "name": "ISE CTA Cloud Computing Index",
+        "price": 1608.51,
+        "net_change": 23.31,
+        "percent_change": 1.47,
+        "previous_close": 1585.2,
+        "day_low": 1608.23,
+        "day_high": 1616.67,
+        "delta_indicator": "up",
+        "is_real_time": false,
+        "market_status": "Open",
+        "last_trade_at": "Nov 27, 2026 9:35 AM ET"
+      },
+      "historical": [
+        {
+          "date": "11/25/2026",
+          "open": 1544.11,
+          "high": 1589.26,
+          "low": 1503.91,
+          "close": 1585.2,
+          "volume": null
+        },
+        {
+          "date": "11/24/2026",
+          "open": 1605.74,
+          "high": 1615.77,
+          "low": 1581.3,
+          "close": 1590.55,
+          "volume": null
+        },
+        {
+          "date": "11/23/2026",
+          "open": 1592.32,
+          "high": 1639.03,
+          "low": 1592.32,
+          "close": 1618.16,
+          "volume": null
+        },
+        {
+          "date": "11/20/2026",
+          "open": 1584.27,
+          "high": 1595.98,
+          "low": 1514.76,
+          "close": 1521.47,
+          "volume": null
+        },
+        {
+          "date": "11/19/2026",
+          "open": 1663.57,
+          "high": 1700.74,
+          "low": 1600.42,
+          "close": 1601.2,
+          "volume": null
+        },
+        {
+          "date": "11/18/2026",
+          "open": 1624.77,
+          "high": 1644.26,
+          "low": 1607.93,
+          "close": 1635.33,
+          "volume": null
+        },
+        {
+          "date": "11/17/2026",
+          "open": 1656.45,
+          "high": 1660.52,
+          "low": 1589.55,
+          "close": 1616.36,
+          "volume": null
+        },
+        {
+          "date": "11/16/2026",
+          "open": 1677.52,
+          "high": 1680.98,
+          "low": 1649.95,
+          "close": 1663.97,
+          "volume": null
+        },
+        {
+          "date": "11/13/2026",
+          "open": 1726.79,
+          "high": 1726.79,
+          "low": 1673.17,
+          "close": 1700.46,
+          "volume": null
+        }
+      ]
+    },
+    "BKX": {
+      "status": "ok",
+      "group": "sub_sector",
+      "requested_at": "2026-11-27T14:36:13.744Z",
+      "received_at": "2026-11-27T14:36:13.993Z",
+      "data": {
+        "name": "KBW Bank Index",
+        "price": 166.33,
+        "net_change": 2.6,
+        "percent_change": 1.59,
+        "previous_close": 163.73,
+        "day_low": 165.78,
+        "day_high": 166.55,
+        "delta_indicator": "up",
+        "is_real_time": false,
+        "market_status": "Open",
+        "last_trade_at": "Nov 27, 2026 9:35 AM ET"
+      },
+      "historical": [
+        {
+          "date": "11/25/2026",
+          "open": 160.682,
+          "high": 164.2449,
+          "low": 159.7446,
+          "close": 163.7332,
+          "volume": null
+        },
+        {
+          "date": "11/24/2026",
+          "open": 162.2448,
+          "high": 164.0563,
+          "low": 161.1493,
+          "close": 163.1658,
+          "volume": null
+        },
+        {
+          "date": "11/23/2026",
+          "open": 162.5673,
+          "high": 163.9932,
+          "low": 161.6239,
+          "close": 162.8486,
+          "volume": null
+        },
+        {
+          "date": "11/20/2026",
+          "open": 163.3599,
+          "high": 164.3084,
+          "low": 158.1245,
+          "close": 158.6664,
+          "volume": null
+        },
+        {
+          "date": "11/19/2026",
+          "open": 167.9006,
+          "high": 168.6057,
+          "low": 162.7751,
+          "close": 163.7796,
+          "volume": null
+        },
+        {
+          "date": "11/18/2026",
+          "open": 168.3104,
+          "high": 169.1722,
+          "low": 166.7812,
+          "close": 166.9308,
+          "volume": null
+        },
+        {
+          "date": "11/17/2026",
+          "open": 171.7371,
+          "high": 172.6311,
+          "low": 168.3446,
+          "close": 169.0711,
+          "volume": null
+        },
+        {
+          "date": "11/16/2026",
+          "open": 174.9425,
+          "high": 175.1223,
+          "low": 171.4007,
+          "close": 172.493,
+          "volume": null
+        },
+        {
+          "date": "11/13/2026",
+          "open": 175.2427,
+          "high": 175.5427,
+          "low": 173.3597,
+          "close": 175.2776,
+          "volume": null
+        }
+      ]
+    }
+  },
+  "phase": "open",
+  "market_date": "2026-11-27"
+}
